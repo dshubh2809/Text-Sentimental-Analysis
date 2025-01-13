@@ -1,0 +1,523 @@
+[Sales Agent 00:01]
+Hello, Hello. Yeah, hi. Speaking with Sir,
+
+[Sales Agent 00:07]
+yeah this is any issue also Sir, very good afternoon calling from Agra
+Institute. How are you?
+
+[Customer 00:13]
+I am good. Tell me.
+
+[Sales Agent 00:14]
+Yeah yeah so I am assigned with the counselor suggest Sir. So I will
+be answering you to choose the right option courses on the basis of
+your requirement. So education, background and work experience. This
+can help me with you know to understand your profile.
+
+[Customer 00:30]
+Thats why I am an ICWA company secretary. I completed my ICW in 2015,
+2017. I started working in Financial services and I am currently also
+working in Financial services under credit as well.
+
+[Sales Agent 00:47]
+Under credits Okay and like in which company Sir if you are working
+for working for Ambedkar
+
+[Sales Agent 00:55]
+Okay now what is your plan like what kind of upstilling you are
+looking
+
+[Sales Agent 01:01]
+I am looking.
+
+[Customer 01:02]
+Or for some course and date of time and okay.
+
+[Sales Agent 01:07]
+Okay.
+
+[Customer 01:08]
+Right,
+
+[Customer 01:10]
+and I am looking for a change in my shop
+
+[Customer 01:15]
+role from credit to this policy.
+
+[Sales Agent 01:21]
+So around like 4 like 6 years of experience you have
+
+[Sales Agent 01:28]
+6 to 7 years to 60 and now you are. So what is motivating you? Why you
+wanted to change your domain?
+
+[Customer 01:36]
+The domain is the same, just The thing is I will get into analytics
+maam.
+
+[Sales Agent 01:41]
+So like still like you will be learning some technical things. You
+will start with you know, HQL, Python, some machine learning
+algorithms and all.
+
+[Customer 01:51]
+Yeah, because if I have to change my policy, I need to understand the
+data,
+
+[Customer 01:59]
+right. So lending is complex in India, it is not like.
+
+[Sales Agent 02:05]
+So what sort of what sort of program or what kind of course you are
+planning, what kind of like do you have anything in your mind? Yeah, I
+will do something short term or something. No, no. Like in terms of
+short term duration or something like that. And you are looking to
+learn everything from a scratch till like proper into info Sir.
+
+[Customer 02:26]
+End to end 4 Sir I want everything from that. Since I am working, I
+have signed with the screen and constraints as well.
+
+[Sales Agent 02:35]
+So.
+
+[Customer 02:36]
+That has to be taken care of.
+
+[Sales Agent 02:40]
+So for that means like okay. One more thing like did you get any
+chance to see any of quotes in our website?
+
+[Customer 02:50]
+So I just had a blanch at your website, but I haven't read it in
+detail.
+
+[Sales Agent 02:56]
+Got it, got it. So till which Sir upgraded offers like 2 to 3 category
+of the courses in data science and a I and if I really
+
+[Sales Agent 03:08]
+like. If you really wanted to take a transition like upgrade or excel
+your carrier from this point of time being into the industry 6 to 7
+years working for finance and working to the credit team, definitely
+the program which can help you. I am suggesting a PG diploma course
+
+[Sales Agent 03:26]
+letting you know about the categories also. That is certificate
+category is the one of the category, then the diploma category then
+the degree category. Right I am I am offering you a program and
+suggesting a program from a diploma category. There is a learn
+everything from a scratch okay which can provide you the end to end
+knowledge of a technology, how to collect the data, how to do the
+analytical part over the data. Where you will be learning about
+various technologies like if I if I talk about the data technology
+
+[Sales Agent 03:58]
+that ETL pipeline, you will be learning about the normal data which is
+available over Ms Excel only the data which is available over a cloud
+which we need to manage with the help of SQL right
+
+[Sales Agent 04:10]
+category of the data you will be also understanding about the big data
+right in the data. Just for for example you are working for Amazon the
+daily account, the daily transaction which they are happening in a
+millions of numbers. It is very complex also. So the tools which you
+will be using that is the big data proof or to map reduce size right
+
+[Sales Agent 04:30]
+pulling the heads. Second categories of the analytical part. Once the
+data is collected, you converted the data we convert the
+
+[Sales Agent 04:39]
+data is going to be you know from unstructured to structured format
+that is the ETL pipeline. And after that we have lots of analysis in
+the data with the help of tableau power via libraries of Python,
+numbiad, pandas, flat plot less. This is going to be covered second
+step. Later on you will also learn about the machine learning because
+nowadays what we are doing is due to the lot of data and to process
+the data in a fast manner. To analyze the data in a
+
+[Sales Agent 05:10]
+like inefficient manner, we are using machine learning algorithm to
+predict and for the forecasting purpose
+
+[Sales Agent 05:18]
+we are not just taking a hit and trial method. We are just creating a
+model, training a model with a data set which we already have analyzed
+and then model is working accordingly to protect the thing and we are
+just creating the report after that. This is what the companies are
+doing. So you will be learning about machine learning model, building
+a bit of and how to use the model and how to train a model over some
+customized data set. This is the program overview at this
+
+[Sales Agent 05:48]
+program company. 3 pages like there are 3 pages in the program.
+
+[Sales Agent 05:52]
+First of all you will be building the basic foundation. What exactly
+the Python is? Mathematics, Statistics, which is required to do it,
+SQL and anything Sir. These are the certain things toll free things or
+for the fundamentals
+
+[Sales Agent 06:08]
+got it right. Then second thing you will start with data side
+
+[Sales Agent 06:14]
+and machine loading. So initial 5 months of the program you will be
+undergone with a Data Science and Machine Learning where you will
+learn Exploratory data Analysis, Data visualization and another tablet
+power VI. Some of the linear regression models, logistic regression
+models, classification uses if you can please. So this is the data
+assignment machine learning case. Last stage is of specialization.
+
+[Sales Agent 06:39]
+See you are. It is not like that you will be mainly looking for a ML
+part. Its 4 ML. You are not going for a core ML part like deep
+learning and more. No you are more looking yourself to use the
+mortgage either you can choose. There are 5 specialization in this
+program to which Sir one is Data analytics, second is Business
+analytics
+
+[Sales Agent 07:00]
+so it is Data engineering, Force is Deep Learning and 5th is NLP. So
+deep learning and NLP you can just remove from the list of your your
+friend.
+
+[Sales Agent 07:11]
+You can start with Business Analytics. I I majorly people, I majorly
+suggest Business Analyst specialization for the people, those who are
+coming from a finance partner. They are very good into accounts. They
+are very good into understanding the business. So far they know what
+steps to be taken to improve the revenue of the company because they
+are the best people. Those who understand the accounts right?
+
+[Sales Agent 07:34]
+Hello. Business analytics kind of a specialization will let you know
+about how to select a model that is may be a business model, how to
+select a ML model. Then time series forecasting on the basis of the
+time how you can change
+
+[Sales Agent 07:49]
+or do the modification in any of the company model so that company can
+grow so the model selection. Then you you will be learning about
+
+[Sales Agent 08:01]
+some business models and framework with the help of data science. How
+you can
+
+[Sales Agent 08:09]
+with the type of data science, how you can take up business decision
+with the help of this framework. And last this program is also
+equipped with this Penelity VI where you will be learning the advanced
+technology which is available right now that is charged team mid
+journey and all. So sometimes what happened you have to provide the
+solutions. Also suppose you are working for a service based company.
+
+[Sales Agent 08:31]
+So at that time initially you will be into a client facing role. You
+will be taking the requirement, you will understand the client
+requirement and passing this to a data team of the company. Then data
+team will do some data collection. Then after that you will analyze
+the whole process. Aftering the proper analysis you will provide a
+solution in terms of product. So now this generative I is going to
+help you to create those products, to deploy with those products and
+to make any other changes like charge repeating with Nuggets. Because
+you are not the guy who can write, who can take
+
+[Sales Agent 09:04]
+and write quote what you will be doing. You will just give the command
+to these generative I tools, Okay the write a code or may be you just
+make this sort of changes in this particular program because product
+is going to be created by someone else.
+
+[Sales Agent 09:18]
+You will just modify this fraud Sir product on the basis of your kind
+requirement
+
+[Sales Agent 09:25]
+Sir. This generated a I part is also covered in the business
+ambulative. But best part of this program is still this Sir the
+program
+
+[Sales Agent 09:34]
+like like you will be getting access of all the 5 specialization later
+in your part like later in your career you feel I need to know energy
+I need to do deep learning also. So you can refer the program
+curricular and you can do the capsule for it and you will able to get
+the additional certificate also. However I haven't told you about the
+program name. The program name is Postgraduate Diploma in Data Science
+and a I. It is offered by Triple IT Bangalore directly.
+
+[Sales Agent 10:02]
+It is not a ordinary certificate program and service Sir. It is a
+proper PG diploma offered by India's number one Technical University
+and after completion also you will get the diploma certificate
+directly from campus. You there will be nothing mention of distance
+online correspondence to even upgraded. It is one of the longest
+running program in India Silgu Sir and we need to have so many
+aluminis like close to 25,000 Aluminise who has completed this program
+in transit taken a transition into a different seat
+
+[Sales Agent 10:34]
+or may be upstilled in their career right. And if I talk about the
+aluminium they are available with every company whatever the company
+then you can let me know may be like a giant IT company like Google,
+Microsoft, TCS, Infosys, Amazon, Flipkart, Myntra. If I talk about the
+financials like we have all big scores. Dealloy K, PNG, EYPWC,
+Acenture. We have JP Morgan Banks, Barclays, Lloyd Bank. Every RAM
+company will say we do have people those are completed this program
+
+[Sales Agent 11:06]
+and extell their in their career and also taken of a transition from a
+non tech background also it is very easy. So the program has very much
+comprehensiveness in the curriculum. So see this is the very general
+discussion. We are doing this over the call so fast. What will be the
+second step how we proceed the discussion. So we have I have provided
+the basic context of the course. Now what I will do is I will try to
+share the all information
+
+[Sales Agent 11:35]
+so you also try to go through all the information. I will share some
+of the alumni profiles also so that you can have a understanding
+later. We can connect for a detailed discussion of a program, how and
+when the classes are going to be happened and what will be the like,
+placement and career assistance we will be providing. So all these
+things we can connect back over a Google News session. Right there I
+can present my screen and I can showcase you each and everything and
+it is going to be verified too for you and you will
+
+[Sales Agent 12:10]
+be able to understand in a good manner.
+
+[Sales Agent 12:13]
+You can have some more question and queries which we can discuss over
+the meet also service Sir.
+
+[Customer 12:21]
+So when can you have this Google?
+
+[Sales Agent 12:23]
+You tell me like it is going to be in your desired timing whenever you
+are available.
+
+[Customer 12:29]
+330 today.
+
+[Sales Agent 12:31]
+330 today actually
+
+[Sales Agent 12:35]
+I am having a meal from 3 to 330 it is going to be a back to back or
+may be just give me a SEC. You are available to whole day or today
+something we are not working having, you know.
+
+[Customer 12:45]
+That I have taken a leave, so I would like to complete everything for
+this, Sir.
+
+[Sales Agent 12:50]
+Okay, okay. I have taken a lead. Just a second. Just a second. Let me
+just check my talent because I am not into my system right now. Give
+me one minute,
+
+[Sales Agent 13:06]
+Can we do it at 6:00 PM? If you dont mind. Meanwhile you can go
+through the details too late,
+
+[Sales Agent 13:13]
+3:00 PM you want 3 PMI have a customer targeted name or.
+
+[Customer 13:17]
+Whenever you have.
+
+[Sales Agent 13:18]
+To it at 3:30 next 2 it at 3:30. Okay
+
+[Sales Agent 13:23]
+Okay. Meanwhile,
+
+[Sales Agent 13:25]
+this is the WhatsApp number also.
+
+[Customer 13:27]
+Yeah, this is my WhatsApp number.
+
+[Sales Agent 13:29]
+Yeah. You are saying something, Tell me. Yeah, I wanted some more.
+
+[Customer 13:33]
+Refund your placement also.
+
+[Sales Agent 13:36]
+Definitely. So for the placement if I talk about we do have a very
+good number of placement in talking about see when how you can judge
+any of the court. See I am talking about the course not the company.
+It is the course by the university and for this particular program
+itself we have 85 percentage of the placement. And if I talk about the
+growth suppose you are lying because this program is joined by working
+professional. So the outcome we can check in terms of salary growth
+and
+
+[Sales Agent 14:07]
+right so in term in terms of salary growth we are able to see the
+people those who are under 10,00,000, they are getting a exponential
+salary high of between 70 to 100 percentage. So people those are above
+10,00,000, they are getting the exponential salary hike of 50 to 80
+percentage and
+
+[Sales Agent 14:28]
+more than 20 LPS. They can expect a salary hike of 40 to 80%. So this
+will be the bracket. But yeah I I personally throw so many people
+those who have got the exponential salary I from the package of 7 LPA
+to 17 directly jumping towards the good number of package. It depends
+upon how we are providing the placement services and how you are
+coaching this Suvidha.
+
+[Sales Agent 14:51]
+So So what we will be doing, we will be providing a proper career
+coach. Career coach means it is a person who is ICI certified having a
+good knowledge of industry, various industry, they will be connecting
+with you on a one on one basis. They will be understanding your past
+profile on the basis of your past profiles knowledge and the
+aspirations you are carrying. May be some different companies, may be
+geographical location, you wanted to target a job in USUK, these kind
+of countries only
+
+[Sales Agent 15:22]
+on the basis of that we will be creating a road map that is the ICP
+individual development plan. That IDP is something where the company's
+name is going to be mentioned from the background, whatever the
+background you are coming from on the basis of that company's name,
+top loans which you can talk and some additional task or some
+additional projects. Also this program equipped with 60 projects
+already but there is a chance if you are looking for some companies or
+may be additional some profile. Could you
+
+[Sales Agent 15:52]
+should have some additional skills set or may be the project which is
+going to give the benefit in terms of shortlisting for your your
+resume or shortlisting profile for that particular job bro. So
+
+[Sales Agent 16:04]
+they will create that first to achieve to get a achievement of that.
+To fulfill that additional part, we are also providing high
+performance coaching because these projects, additional projects are
+also going to be taken Karna, Yaad, Karan.
+
+[Sales Agent 16:18]
+So we will arrange a person in a small group coaching where we will
+group 8 to 10 people coming from a similar background finance from the
+finance sector. You have 10% for like more than 10% of the batchmates
+who are coming home from a finance background or joining this course.
+So we will Group 8 to 10 peoples and we will provide a facility those
+who will be guiding on additional projects also and that faculty is
+going to be from those background only
+
+[Sales Agent 16:49]
+the finite bank. So this is the best part. And 5th. Then we will be
+starting to train you over the interviews, the technical contest,
+technical questions, soft skills and all. So interview training. Last
+but not the least this is the training and planning phase. But in
+training and planning phase also there are mock entries. Before
+appearing for any of the mock is real interview we will provide 3
+rounds of mock interview. First is by upgrade Asia, second by career
+courses only and 3rd by the person who is working in that company
+
+[Sales Agent 17:19]
+because we do really have very good network into the companies of our
+alumni.
+
+[Sales Agent 17:24]
+Now this is the screening case. Second phase is going to start for
+placement. So in placement and part we will provide you the
+
+[Sales Agent 17:32]
+pre like upgrade elevate program that is a virtual hiring price where
+you dont need to apply. We have 300 plus hiring partners where we have
+signed MOU with this. So we will arrange a interview call, interview
+arrangement of ECS and all from our end only. You just have to
+acknowledge on the basis of your IDP individual development plan,
+whatever the job rules are mentioned we will arrange the interview for
+the same job also. This is the first thing second upgrade also do have
+our own job portal. Tell me
+
+[Sales Agent 18:04]
+from your end you can apply
+
+[Sales Agent 18:07]
+3rd upgrade has acquired 2 major consulting firms to enhance the
+placement services which will provide you a pool of another 1000
+company. So we have acquired Recruit India and Wolf India
+
+[Sales Agent 18:19]
+and we will provide a premium account of these 2 Sr Consulting firm.
+So also. So with the help of these 2 consulting firms, again you will
+be having another pool of 1000 companies. There you can seek the
+opportunity and last
+
+[Sales Agent 18:32]
+but not the least, that is the networking. So really upgraded
+networking works at its best because we do really have people working
+in every company. After completion of the course you will be the
+Aluminium upgrade as well as Aluminium Triple IT Bangalore.
+
+[Sales Agent 18:49]
+You added in both of the alumni to it from where you can seek
+opportunities from where you can collaborate with people who can
+connect with people. That is one of the references portal. You can use
+the portal as a references, Sir.
+
+[Sales Agent 19:02]
+Got it.
+
+[Sales Agent 19:04]
+So these are the some facility apart from that also there are some
+others. So we can discuss in detail when we will be on a call whereas
+Google meet call and also after this also to you know for a better
+decision making of yours, I will let you to connect with someone who
+was like you may be 67 years of experience into 5,00,000 has done the
+program because last week only I have enrolled one CA
+
+[Sales Agent 19:29]
+she was clear and she taken up this particular program. So I also
+connected her with one of the senior who has done the program. So that
+was a very good conversation they were doing. See even you you can
+understand right with a similar kind of a people. So I can also let
+you to connect with some senior guy or may be similar kind of a
+background people that you have done Sir and got the outcome the
+aluminium. So it will provide some more insight. Okay,
+
+[Sales Agent 19:55]
+okay okay. Let's see at 3:30 since Sir meanwhile I am sharing you some
+of the information details go through that.
+
+[Sales Agent 20:05]
+Yeah fee structure is going to be around 3,25,000 for this course.
+There are some ways to payment like first of all you have to pay
+25,000 after getting selected for this course after giving a cash,
+25,000 is a block amount remaining 3,00,000 has been convert into EMI.
+There are 2 modes of EMI, 12 months no cost EMI pack and up to 60
+months. Interest based EMI plan is available up to 60 months. So
+whatever is suitable for you can go for that.
+
+[Sales Agent 20:35]
+There are certain discount also. We can discuss about the discounts
+also but not these are the university oriented products, not more than
+7% of the total fees
+
+[Sales Agent 20:44]
+car the discount. So this is the maximum which I am telling you
+affirmancy.
+
+[Customer 20:49]
+Okay.
+
+[Sales Agent 20:50]
+Okay, okay. Thank you.
+
+[Customer 20:53]
+Thank you. Yeah.
+
+[Sales Agent 20:54]
+Sure, sure. Bye.

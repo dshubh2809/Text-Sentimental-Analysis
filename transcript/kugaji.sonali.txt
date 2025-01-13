@@ -1,0 +1,888 @@
+[Customer 00:02]
+Hello.
+
+[Sales Agent 00:02]
+Hello.
+
+[Sales Agent 00:05]
+Yeah. Hi, Is it Sonali?
+
+[Sales Agent 00:08]
+Hi Sonali. Shubham. This side I am connecting you from upgraded
+education. How are you? I.
+
+[Customer 00:12]
+Am good. How are you? I.
+
+[Sales Agent 00:14]
+Am good too Sunani Sir asking so Sunakar recently I am calling you
+right now is I believe you are exploring few courses with us right
+Some something is data science. Yeah,
+
+[Sales Agent 00:25]
+Sir, good time now to have a short discussion.
+
+[Customer 00:29]
+Yeah, I am looking for a discussion room. Give me a minute.
+
+[Customer 00:34]
+Yeah, yeah.
+
+[Sales Agent 00:36]
+Okay, so so maam, please help me understand a bit about your current
+profile and like what sort of outcomes you are looking for.
+
+[Customer 00:45]
+So
+
+[Customer 00:45]
+currently
+
+[Customer 00:46]
+I am working as a data analyst but I am not working on any product
+which is outside like power behind or tell you. I am working on a
+product which is only used in my company and prior to this I have had
+an experience of manage testing
+
+[Customer 01:07]
+in the same company.
+
+[Sales Agent 01:08]
+For 5 to.
+
+[Customer 01:09]
+6 years and after that I switched as a data. Basically I am at a word
+where I want to.
+
+[Customer 01:17]
+I mean I am not able to decide where I have to move. I just need some
+guidance on that, whether it is data science or
+
+[Customer 01:27]
+it's a product product management. So I have to get your onto how to
+use my skills. Where and how should I proceed with? Yeah.
+
+[Sales Agent 01:36]
+Got it, got it, got it. Okay. See. So in in this case, right, the very
+next question that I would really want to understand is where do you
+see yourself 2 years or 3 years down the line,
+
+[Sales Agent 01:51]
+right? Let say you wanted to see in the data science domain, you want
+to be into the analytics domain or like you want to handle some kind
+of product, because both of them are very like different domains,
+right? If you go for the product, yes.
+
+[Customer 02:07]
+Yeah.
+
+[Sales Agent 02:08]
+So if you go for a product management, you are basically would be
+handling one single product, right? But again, if you upscaled
+yourself with the data analytics or data science, you can expect the
+better designation. You can expect better roles, right? With a better
+pay package or something like that,
+
+[Sales Agent 02:24]
+yeah.
+
+[Customer 02:25]
+So I want to get into something which is generic, where if I step out
+in the market I dont have to struggle with monotony and you know like
+right now I am in the fin position and
+
+[Customer 02:39]
+it will be difficult for me to explore outside. I have nothing which
+can be utilised for say apart from my industry to experience as a
+profession. So yeah,
+
+[Customer 02:54]
+I want to update my skill set in that through that process,
+
+[Customer 03:00]
+Okay. Yeah. And I want to get into. I mean I dont want to.
+
+[Customer 03:04]
+I am not really able to decide if I have to. I want to pay into
+technique
+
+[Customer 03:09]
+like because status are somewhere under the 510 and.
+
+[Sales Agent 03:13]
+All of.
+
+[Customer 03:14]
+That and I am also not able to decide if I want to again go into
+product management because I need to have a lot of business updates
+from what I read again so I dont know how much I will be able to keep
+up with that. So I want to
+
+[Customer 03:29]
+understand how it is going to be. I also want to earn like I am not
+saying that I dont. I want to be a leave it person or not not struggle
+at all.
+
+[Customer 03:39]
+But I don't want to regret going into any of these. No.
+
+[Customer 03:46]
+If I should, yeah. Yeah.
+
+[Sales Agent 03:49]
+I understood, understood. See as you as you mentioned right, product
+is definitely a very booming domain right now. But then again there is
+a lot of other aspects which also comes in. I mean in the industry
+there is already a lot of people who are in this domain, they are
+already managing the products and everything,
+
+[Sales Agent 04:08]
+right. Again, if you go into product man into your prior experience
+might not be that much counted. I mean at some point in time you might
+have start as a fresher again. So will that be something which you you
+will be okay with?
+
+[Customer 04:25]
+Yeah, but I have to face the card, right?
+
+[Sales Agent 04:29]
+Might be there might be possibility you might have to go through that
+as well right. There might be instances where you might not be go
+through a pay cut but then again you you cant say right that how the
+industry is accepting how you utilise the skill set because the prior
+experience that you have, you have been into testing then you have
+been into you know data analytics right? It is completely different. I
+mean you wont be able to relate that much definitely you can
+completely perform the analytics of a product. But then again in that
+
+[Sales Agent 04:58]
+designation that is not the only thing which you will be doing
+
+[Sales Agent 05:02]
+right. But then again if you explore the data science domain right
+there, you will not have to you know go through any pay cut. You will
+be not easier as a fresher right. You can explore the possibilities of
+business and this type business analytics. Then you can go through a
+IML those those domains are booming right now.
+
+[Sales Agent 05:23]
+Yeah so that something you you might have to be into the
+technicalities for next 2 years or 3 years down the line. But once you
+have reached the leadership role, right once you have reached to a
+managerial position you you wont be have to you know go again for you
+know complete technicality. You will be already handling something.
+
+[Customer 05:40]
+Yeah, yeah, right, right.
+
+[Sales Agent 05:42]
+Yeah. And in in Upgrad we had lot of people from product management
+who have shifted towards the speed assigned and data analytics.
+
+[Customer 05:52]
+Right.
+
+[Sales Agent 05:52]
+Because thats thats what they they are felt right that I have been a
+technical person from my complete life. Right now I am not utilizing
+what my actual skills get skills at work
+
+[Sales Agent 06:04]
+thats what.
+
+[Customer 06:04]
+I am struggling with yeah.
+
+[Sales Agent 06:06]
+Yes, your your complete domain, your complete experience has been into
+the technicalities. I mean you have been into testing, you have been
+into the angle text. Now if you upscal yourself with better the newer
+technologies like generative A I is already in the market right? And
+if you are
+
+[Sales Agent 06:23]
+okay to go into again a bit of more coding right? You can if you are
+okay with machine learning new machine learning algorithm right. Then
+again, you can also project your career towards the development of a
+IML application.
+
+[Customer 06:37]
+Right, right.
+
+[Sales Agent 06:39]
+Right.
+
+[Sales Agent 06:39]
+And that's where I have personally seen, like I have been you know,
+consulting with a lot of industry professionals for past 4 years and I
+have personally seen the transition. I mean, I had another, his name
+was Ardha Argha Mukherjee Okay. So he started his career back in 2019,
+right in a BPO sector with a 2.9 and PA as a salary. Right after you
+know working with DevOps from BPO, he moved somehow you know up killed
+himself and moved to DevOps.
+
+[Sales Agent 07:08]
+Then he took a data analytics course right from triple IC, right,
+sorry, a IML program into a IML program right from triple 80
+Bangalore. Now he has total 6 to 7 years of experience and he is
+sitting at a package of 72 LPA thats on paper and apart from it, he is
+additionally doing a lot of extra, you know freelancing, lot of other
+development as well. And somehow we also have a lot of alumni honey in
+Ayushi, right? She has filed his experience. Now she is a data
+scientist
+
+[Sales Agent 07:41]
+and she is handling a team of 80 data analysts
+
+[Sales Agent 07:46]
+for UK based a project.
+
+[Customer 07:49]
+Right.
+
+[Sales Agent 07:50]
+Yeah. So those are the verticals which you can explore as.
+
+[Customer 07:55]
+Well,
+
+[Customer 07:55]
+yeah, I also like I didn't want to start like arm scratch given you
+know I I was in a dilemma whether for the first car the start was I
+first was expecting something into automation testing. But
+
+[Customer 08:10]
+again, market the market. They are not entertaining anyone without any
+experience.
+
+[Sales Agent 08:14]
+So you.
+
+[Customer 08:15]
+Know considering my level of experience, so it is a little difficult.
+
+[Customer 08:19]
+Then I thought that now given I, I have something to show into data
+analytics like, not.
+
+[Sales Agent 08:27]
+What?
+
+[Customer 08:27]
+It is demanded outside.
+
+[Customer 08:30]
+I have a touch like I know how it is.
+
+[Sales Agent 08:32]
+So.
+
+[Customer 08:33]
+I said yeah lets go on that part. So how do you recommend? I mean, I
+have seen a lot of courses and yeah,
+
+[Customer 08:40]
+how do I stand out if I do data science?
+
+[Sales Agent 08:46]
+Course.
+
+[Customer 08:47]
+From you guys like how is your name helping?
+
+[Sales Agent 08:50]
+Sure. See first of all a normal certification course I have to be very
+on wont be helping you out, right? So there are a lot of courses in
+the market in upgrade. Also we have a lot of specification courses.
+Very honestly that is not the solution to you. Now what you are facing
+is those courses for someone who just wants to paint you all already
+in those domain. Now what you require is a promotion right? For the
+places kind of thing. Correct,
+
+[Sales Agent 09:16]
+right. Right. So for you we have this program which is a PG diploma,
+right? So right. I mean, so have you done any masters on any anything
+exactly?
+
+[Customer 09:28]
+In computer application.
+
+[Sales Agent 09:30]
+Okay, you have done Marcus Okay, great. So there is a PG diploma that
+we have right. So thats from triple IT, Bangalore, Okay. So have you
+came across this university?
+
+[Customer 09:43]
+I have only heard about it, yes.
+
+[Sales Agent 09:45]
+Yeah, so this triple IT university, so it was the first university
+which started off with a data science program, right, a PCWM. So how
+it is different from any other courses? So first of all its not a
+course which is offered by just a tech platform, right? It is a course
+which is directly offered by university. So when you do this course
+you dont say that okay I have done this course from upgrade or
+anything you say. I have directly done this course from Triple IT
+Bangalore.
+
+[Sales Agent 10:13]
+You are an aluminium Triple IT Bangalore.
+
+[Sales Agent 10:17]
+Okay. You reach this as a traditional form of education and
+
+[Sales Agent 10:21]
+its UGC&AICT recognised as well okay.
+
+[Sales Agent 10:26]
+So and the best thing is that in this course you have 5 different
+specialization. Let's say today you are you work as a daytime analyst,
+right? But somehow you want to go towards Business analytics or data
+engineer, right? You want to work with the NLP, Natural Language
+Processing, So those are the specializations which we have also in
+this program. So initial 6 months would be your understanding about
+the data, right? What data and all those things you build your basic
+when you gradually proceed ahead with a specialization
+
+[Sales Agent 10:58]
+and you opt out a specialization and you can give you solving the
+problem statement industrialised project in that particular domain
+itself.
+
+[Customer 11:08]
+Okay.
+
+[Sales Agent 11:09]
+Okay. And this particular course is globally accepted address, so it
+is best recognised. Are you aware of this?
+
+[Customer 11:18]
+No, no, no, I wasn't aware.
+
+[Sales Agent 11:20]
+Okay. So when is a recognition right? It stands out as World Education
+Services. So basically what it does is it checks the equivalency of
+each and every certification. When I say it is web recognised, it
+means that this particular program is globally recognised right? And
+it has the equivalency of a PG masters from Canada, one year masters
+from Canada
+
+[Sales Agent 11:47]
+okay. And in this particular program you will be getting your hands on
+on 14 plus tools, right, 14 plus programming tools and languages. So
+you come you cover Docker, right, you cover SATIS which is the part of
+generative A I. So you go up Python, numpied, pandas all all the
+libraries, right. Apache Hadoop systems. So all the tools which is
+required for you in this particular domain is something that is being
+covered in this particular project. Yeah,
+
+[Sales Agent 12:16]
+4 right. And as I mentioned that we have a 5 business specialization
+like seat learning, natural language processing, business
+intelligence, right, Then business analytics, data engineering. So out
+of any of these 5, you have to choose one specialization.
+
+[Customer 12:33]
+Okay.
+
+[Sales Agent 12:35]
+Okay and this is just overview about the program and this code that we
+have. It has been running for past 9 years and there are more than
+40,000 alumni in this domain
+
+[Sales Agent 12:46]
+in this particular course, right? I mean if you you know, you can name
+any company and I can show you an alumni present over there for this
+particular program
+
+[Sales Agent 12:55]
+and when you see your certificate you can straight away see that it is
+completely by the university. Nowhere it will be mentioned that you
+have done through upgrad or you know it sound like scores and it has
+been
+
+[Sales Agent 13:06]
+and definitely apart from that we do have the career assistance and
+career services as well as you mentioned that at this point of time
+you are you are feeling you are bit stagnant, your growth is a bit
+stagnant right. How do
+
+[Sales Agent 13:21]
+we come out of it? Doing just the course is not something which is
+going to help you out. There are plenty of the course in the market,
+right? There are plenty of people also doing a lot of courses,
+
+[Sales Agent 13:30]
+but how do we take your career ahead So that way we will be working on
+where we have career coaches who are 1520 years of experience, right?
+They are ICS 35. So basically they will be your one on. There will be
+a one on one mentor in terms of your career. So they will be sitting
+down with you right on a venomal basis. Understand what are your
+career goals are, what your career aspirations are and what why. What
+is the major reason? What is the root cause of the problem where you
+are? Growth is stagnant,
+
+[Sales Agent 14:00]
+right? And they will be trying to solve that out for you.
+
+[Sales Agent 14:04]
+Then after that, we will be aligning you with the industry expert as
+well where we have Mr Behzad Ahmadi. He is a machine learning engineer
+from Mehta. Then we have Mr S Anand. He is the CEO of Gramina Data
+Science Company. Then we have Mr Ankush Chopra who is directed at
+freedom. So these are the people who will be helping you out to
+understand Okay, today you are at a entry level. Now after 5 years,
+how you can reach to a designation where you are at leadership group,
+
+[Sales Agent 14:34]
+thats why they will be working on
+
+[Sales Agent 14:38]
+Okay. So yeah, and apart from that then we have services as I
+mentioned the Courier assistance. So we have partnered with more than
+500 plus hiring company, right. So lets take 2 years down the line
+right after doing the course.
+
+[Sales Agent 14:54]
+You feel that OK, now I want to fix the company right? Or let's say
+you are doing this course for to fix the company itself, right? You
+want to best specification, a better role Sir that point of time Also
+you can you know go to our career portal. We have our own career job
+portal where we list all the job applications by these Univers
+companies. Okay. Now all these applications are exclusive for the
+upgraded learner, No one from outside will be able to apply, right? So
+now we also help you with your resume. You might be aware that there
+is a new technology in the market which is a PS
+
+[Sales Agent 15:31]
+right which directly you know, filters out all the resumes,
+
+[Sales Agent 15:36]
+right? So we will make sure that your resume 90% a DS compliant so
+that you get maximum number of interview calls.
+
+[Sales Agent 15:45]
+Once you get the interview call we will be training you for the
+interview as well. Like what? What is required right? How you can face
+the interview and lets say tomorrow you have a dream company, lets say
+you you want to work for Google and you come secure a interview over
+there. Now what he will be doing, we will be connecting you with a
+person who is working in that particular company in that particular
+role in that particular domain itself.
+
+[Sales Agent 16:10]
+So they will be taking a mock interview with you who will be giving a
+complete idea that what you should do and what the company calls Sir,
+how you can negotiate your salary right each and everything.
+
+[Sales Agent 16:23]
+So these are the overview and apart from these right lot of things
+goes on like you, you are aligned to a student mentor right? Who helps
+you with your project? Who tells you right apart from the course what
+else you should do?
+
+[Sales Agent 16:39]
+Yeah, so these are the things.
+
+[Customer 16:43]
+Okay. And how
+
+[Customer 16:46]
+is it going to be like? Are they going to be online classes every
+week? How is the program?
+
+[Sales Agent 16:50]
+Yeah, so it is going to be online week in classes. So basically it is
+a plexit format. So you will be having your life classes on your
+Saturday and on your friends okay. So it will be there will be 2
+slots, so one would be a morning slot and one would be a evening slot.
+Either of the slot you can attend based upon your availability
+
+[Sales Agent 17:09]
+right? And in the weekday you will be doing certain case studies
+project work. There are more than 60 plus industry projects that you
+will be working on and I will just tell you these are not some demo
+datas that you are working on. These are the industry life projects. I
+mean you are from the industry you understand right? What is the
+requirement going on and how important it is to you know have maximum
+number of project work into your profile and
+
+[Sales Agent 17:34]
+these projects you will be able to you know
+
+[Sales Agent 17:36]
+its okay on your LinkedIn, on your resume, on your you know TV,
+everything. These are showcasable regime projects,
+
+[Sales Agent 17:46]
+Okay. So you will be doing those kind of projects and then you will be
+also attending a lot of webinars, lot of seminars by the industry
+experts like we keep on bringing in the directors right from different
+companies, some CEOs from different companies who you know take
+sessions with you. So they will be completely helping you out to give
+your idea. For each and every step there will be a person who is
+constantly guiding you, constantly pushing you.
+
+[Sales Agent 18:15]
+You will be getting upgraded buddy. Basically they will be your
+upgraded assistant, right? Who constantly is there with you to support
+you. Let us say at 2:00 PM right at 2:00 AM in the night, you are
+doing your self study and you are facing a academical issue.
+
+[Sales Agent 18:32]
+So at that point of time you can reach out to your glad party, right?
+You can raise the request, raise a ticket to the student support that
+I am at, I am here. I have this kind of a doubt. What should I do? And
+you are, you know you will be simply getting the rewards on that.
+
+[Customer 18:50]
+Okay.
+
+[Sales Agent 18:52]
+Yeah.
+
+[Customer 18:53]
+And what will be the duration of this program?
+
+[Sales Agent 18:57]
+So
+
+[Sales Agent 18:57]
+it is, it is going to be a one year program. Yeah.
+
+[Sales Agent 19:02]
+So 6 months, yeah.
+
+[Customer 19:05]
+Yeah, yeah, you are. Go.
+
+[Sales Agent 19:06]
+6 months, 6 months would be your specialization right? And initial 6
+months would be your basic you know understanding towards the data and
+domain. And as well we have also implemented the generative A M module
+where you can get to understand that how you can interact with LLM,
+how you can create an LLM right? How is the data analysis, how you can
+implement generative A I. So at the end of the program you will be a
+generative A I certified data site
+
+[Sales Agent 19:35]
+for a detailed okay.
+
+[Customer 19:38]
+Okay. And
+
+[Customer 19:40]
+do I have to also visit the campus?
+
+[Sales Agent 19:43]
+Its up to you, its up to you. If you feel like you want to visit the
+campus, definitely you can go right? Even you will be invited for the
+convocation. So at the end of the course when you are handed over the
+PC diploma right certificate, you will be invited to the campus for
+the convocation. If you feel like you want to go and attend the
+convocation, definitely you can right? But if you feel like no I it's
+okay I dont want to go.
+
+[Sales Agent 20:05]
+You will be getting the hard copy via POST.
+
+[Customer 20:08]
+Okay no. But I am asking if for any lecture or exams. How is it No.
+
+[Sales Agent 20:14]
+No no no no that its a complete online course. Its a complete online
+course and and
+
+[Sales Agent 20:18]
+we dont have any you know examination sort of thing. So it is not a
+semester examination sort of thing that we conduct. It is completely
+based upon the you know graded components like the quizzes then you
+will be having
+
+[Sales Agent 20:33]
+completely
+
+[Sales Agent 20:34]
+completely and its a complete industry saving. So not at all any sort
+of traditional education when like in college used to happen right. It
+completely based upon in the industry. How do you solve the problem
+statement? How do you, you know, get that job?
+
+[Sales Agent 20:50]
+It is completely based upon that.
+
+[Customer 20:53]
+Okay, can you help me with this specialization of this program? You
+told me that there are 5 specialization.
+
+[Customer 21:01]
+Yeah. Can you email me all of these details? How is this program going
+to be? Of course of.
+
+[Sales Agent 21:07]
+Course, yeah, definitely. Could you please confirm your email once
+
+[Sales Agent 21:12]
+it's yeah it's KUGAGI sona.sonali@gmail.com
+
+[Sales Agent 21:20]
+okay. I am emailing all the details right? And after seeing the calls,
+right after seeing the details, if you feel like you want to connect
+to a person who is in the domain that says has you mentioned that you
+also have a idea of project product management. So we do have alumni
+who are from product who have done product management courses as well
+and they have also been the data change domain. So you can get a exact
+idea about the you know product management domain and how the ROI of
+this course is
+
+[Sales Agent 21:51]
+so we can get alumni connected. You can connect to an alumni on one
+hour basis and you can get the in and out of the course that. Is this
+quote suitable for you or not? How is the ROI and how it how it makes
+you stand out out of the crowd?
+
+[Customer 22:04]
+But yeah, So what? What is the fees and all everything you are going
+to give me in that email, right?
+
+[Sales Agent 22:10]
+Sure, sure. Sir. I I will tell you the fees on the call itself. So the
+fee of the program is 3,00,000 and 25,000, right, 25,000 something
+which you pay up and then the rest of the amount you can convert into
+EMI,
+
+[Sales Agent 22:24]
+Okay, yeah.
+
+[Customer 22:26]
+And this is the one year call.
+
+[Sales Agent 22:28]
+One year course it's a one year.
+
+[Customer 22:29]
+Course okay. Any anything which is like 28 weeks, 6 months, anything
+around that,
+
+[Customer 22:38]
+Yeah, see?
+
+[Sales Agent 22:41]
+6 months Again for professional life, you who is already in the week I
+have a course, right? 6 months course we do have but then again it is
+something which is not going to be a university
+
+[Sales Agent 22:51]
+right is upgrade in house code. And second thing is this it might not
+be that much helpful for you. I mean you are already aware of the no
+house right now you need a advanced level something which is making
+you established in the new industry. This is something which will be
+exact solution to your problem statement.
+
+[Sales Agent 23:12]
+Can you have a look right? Yeah, please tell.
+
+[Customer 23:16]
+Me.
+
+[Customer 23:19]
+How does it stand out and how what? How is it compared to IIC?
+
+[Sales Agent 23:24]
+IIT.
+
+[Customer 23:26]
+Yeah.
+
+[Sales Agent 23:27]
+See IIT&I TS are not exactly offering any direct courses in the market
+right now. Either they are in association or is there they are in
+collaboration with some XYZ platform right now. How the major
+difference is? So lets say when I say that triple IT is directly
+giving you a course, it means that faculty is also coming in. Now you
+understand that what is the importance of a faculty giving you a good
+faculty giving you the industry application
+
+[Sales Agent 23:55]
+right now let's say IIT is there Okay. I will tell you IIT with a
+platform, they are offering a course Okay but it is not in
+collaboration. So basically you will be having the IIT is also not
+giving the exact code. IIT has a startup club, Okay, Divya Sampark or
+something like that. We are providing the code.
+
+[Customer 24:17]
+Okay.
+
+[Sales Agent 24:18]
+So I directly does not provide any quotes like that and if you go to
+triple IT website you will be getting this quote as well.
+
+[Customer 24:26]
+Okay. And how is it different from even I I seen I and Kozhikode also
+has any analytic score. How is it different than? I mean, I want to
+understand how remounded because I have only heard about this like I
+have heard a lot about IITNII. Like is very serious and it has a
+brand.
+
+[Sales Agent 24:44]
+And I fear compelled I am I if you are, if you would have said that I
+am, I want to compare I am course to the management in, in terms of
+management course. I would definitely said yeah go for the Kozhikode
+course.
+
+[Sales Agent 24:55]
+But then again it is an IT program. How can you expect that Management
+Institute will be able to provide you the industry application in
+terms of the IT
+
+[Sales Agent 25:07]
+like it is a complete experience, right? Definitely brand name does
+play a role, but then again how to to what extent, how a Management
+Institute will be able to give you that particular industry
+application in terms of IT&I triple IT? When the triple IT started
+this course, there was no other platform offering courses in data
+science, right?
+
+[Sales Agent 25:33]
+We have the highest number of alumnis in the entire market.
+
+[Sales Agent 25:36]
+Nobody would give you a direct alumni connect with any of in any
+courses like nobody would connect you. You can if you ask me that Okay
+Shubham, I want to connect to a person. I want to connect to a
+director at XYZ company. Will you be able to do that? I will be saying
+yes, I can do that. You name a company that I want an alumniiver
+there. I can connect you over there and the kind of network that you
+have built it's okay code price correspence. Lets keep everything
+aside, the network that you build, the kind what kind of network,
+right.
+
+[Sales Agent 26:08]
+If you see the batch profile, you will be seeing that lot of people
+from like lets say our senior managers there, right, Senior director,
+Associate director, those kind of people enroll in these kind of
+programs.
+
+[Sales Agent 26:20]
+So you just imagine what sort of network that you are, you are
+withdrawing. So you might have been heard about this theory, which is
+Random Forest, right?
+
+[Sales Agent 26:30]
+So Random Forest was, you know, product by Tim Kamho. So she is a
+student mentor and Argha has did the same project under her
+
+[Sales Agent 26:44]
+under teen Kamo. So when you do, you know when you go for this kind of
+product you are building a very great network. I am near directionally
+interacting with the directors of different company because those will
+be your peers in the you know batch and it is a very short batch that
+he gave, right. We maintain the level of premium keeping business
+aside, there is a side of premium is that we have that has to be
+applied, right. So 25 is the number which is the size of the bag.
+
+[Sales Agent 27:14]
+So you don't have to. You know that the class will not be a keyword,
+
+[Sales Agent 27:20]
+yeah?
+
+[Customer 27:22]
+And also so whatever support, extra support like you told, you will be
+assigned a party or a mentor. Please the connections. You know if I
+get to talk to someone in an company before getting into any
+interview. So all of this support is provided by upgraded right? Not
+by I triple.
+
+[Sales Agent 27:43]
+IT of course
+
+[Sales Agent 27:46]
+you will be a part of upgraded alumni base as well, right?
+
+[Sales Agent 27:51]
+So in upgraded we have over 20,000,000 alumnus in total right across
+all the courses. So there is a common network for all of them. So that
+is the grad alumni. So we have a separate portfolio for that. So
+whenever you feel like you want to reach out to someone, you can
+directly get the access of that portal right and you can directly
+reach out to the all the alumni, all the you know tears in that
+company.
+
+[Sales Agent 28:17]
+And so usually what happens if you reach out to people randomly linked
+them? They usually don't tend to reply right? But when they see that
+okay you have done the code from triple IT or you have been in
+association with up back, they will reply to you seeing that bad,
+seeing that bad
+
+[Sales Agent 28:36]
+because at some point in the career they were also on the other side
+of that page,
+
+[Sales Agent 28:42]
+right. And this is how the complete we have built the complete
+ecosystem, we have complete built the complete Cir circle, right that
+whenever a learner is required help, other people do come in and
+usually learners do in fact. So I mean we do have immersions as well.
+So learners, you know, they go on unofficial
+
+[Sales Agent 29:04]
+networking events, then they go on a seminar webinars. So they do get
+invited to all those sort of
+
+[Sales Agent 29:11]
+you know, meeting.
+
+[Sales Agent 29:14]
+So it does happen because you will be also have having a WhatsApp
+group right? Where all the messages will be shared, all the
+communication will be happening,
+
+[Sales Agent 29:25]
+yeah.
+
+[Customer 29:26]
+So and the course will be facilitated by Triple IT Bangalore.
+
+[Sales Agent 29:31]
+Only for any.
+
+[Customer 29:32]
+Other city is also.
+
+[Sales Agent 29:34]
+There no, no no its very Bangalore.
+
+[Customer 29:38]
+Okay, no. No other Allahabad or anywhere.
+
+[Sales Agent 29:44]
+Else. No, no, no, no. I mean, this is the university that we have. We
+do have a masters program, right? By Liverpool John Mores University.
+So
+
+[Sales Agent 29:53]
+it's a UK based university.
+
+[Customer 29:57]
+Okay,
+
+[Customer 29:58]
+yeah alright. Can you can you just show me all of these details
+specially on this?
+
+[Sales Agent 30:02]
+Resolution and syllabus.
+
+[Customer 30:04]
+Yeah, yeah. And with the fees details and I will get back to you on
+this.
+
+[Sales Agent 30:11]
+Sure, sure, Definitely, definitely. I will, I will say you all the
+details over the insurance. Thank you so much. Okay, Okay. Yeah.
+Thanks. Thank you. Alright, thank you.
+
+[Sales Agent 30:22]
+Bye.

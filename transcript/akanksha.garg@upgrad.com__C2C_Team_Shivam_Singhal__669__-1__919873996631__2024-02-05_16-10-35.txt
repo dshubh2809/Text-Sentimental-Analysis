@@ -1,0 +1,396 @@
+[Customer 00:02]
+Hello.
+
+[Sales Agent 00:07]
+Hello. Hello. Hi. Good afternoon, Neeraj.
+
+[Customer 00:11]
+Hello. Hi.
+
+[Sales Agent 00:14]
+This side from October, how are you?
+
+[Customer 00:17]
+Yeah, I am good. How are you?
+
+[Sales Agent 00:20]
+I am also good Mehul thank you for asking so Mera Sir I contacted you
+on 3rd Feb or the account you would busy so you are free right now you
+are still 130.
+
+[Customer 00:30]
+Yeah, we can discuss.
+
+[Sales Agent 00:32]
+We can discuss. Great great. So you are looking for some quotes on our
+website related to date ofence, right?
+
+[Customer 00:40]
+Yeah, actually I attended that webinar.
+
+[Customer 00:46]
+That was for the data science I think.
+
+[Sales Agent 00:50]
+Yeah, yeah. So how was your experience? You like the webinar?
+
+[Customer 00:54]
+Yeah, it was good. It was like, okay. And yeah, actually,
+
+[Customer 01:00]
+yeah, actually I was looking for
+
+[Customer 01:03]
+explanation or you can say guidance on data science course from
+updates, specifically the one which which has some alumni status of
+IIT.
+
+[Sales Agent 01:16]
+B.
+
+[Customer 01:17]
+Triple IC, yeah, yeah. So what is the procedure and
+
+[Customer 01:22]
+what are the like? What what is the selection criteria and what are
+the things we will cover? And will there be any chance
+
+[Customer 01:32]
+that after the pre course completion person can choose
+
+[Customer 01:40]
+select elective more than one elective? Even so, lets say if I have
+completed the course and
+
+[Customer 01:49]
+apart from deep learning, I want to learn natural language processing
+as well or maybe some other as well. So what is the way for that? And
+yeah,
+
+[Customer 02:02]
+these these, these questions I had.
+
+[Sales Agent 02:07]
+Its good to see that you have done your from the website regarding the
+courses and have already some route to it. I will help you with it. I
+actually profile has been going to me to help you out with the same
+the same thing you are looking for
+
+[Sales Agent 02:20]
+but before proceeding further mail just I need to understand you also
+fine also. So just let me up to 2 things. And highest notification
+qualification on your mortgage payment.
+
+[Customer 02:33]
+Okay so I have completed BCA from Sikkim Manipal University and that
+is from YES D
+
+[Customer 02:41]
+CA.
+
+[Customer 02:44]
+I completed it in 2011.
+
+[Sales Agent 02:47]
+And do you know the 30% ₹80?
+
+[Customer 02:51]
+Yeah, I got more than 50% as far.
+
+[Sales Agent 02:54]
+As
+
+[Sales Agent 02:56]
+stable assistance, okay, and after that?
+
+[Customer 02:59]
+And then I will have around 13 years of experience
+
+[Customer 03:04]
+with the database
+
+[Customer 03:07]
+administrator.
+
+[Sales Agent 03:09]
+Currently working as a as a database administrator. So what? What is
+the job to file exactly?
+
+[Customer 03:18]
+So the job profile basically like we we are admins and we work more
+for database management with like the roles would be
+
+[Customer 03:32]
+to check the performance and to check the security and infra
+availability and all those things. And even
+
+[Customer 03:40]
+helping with the helping the end user we are choosing the correct
+database and putting the
+
+[Customer 03:47]
+things on the right database. So that is also one of the things. And
+so overall it is from the infrastructure side that we we support, but
+that involve performance cleaning as well where we interact with the
+users and
+
+[Customer 04:04]
+discuss
+
+[Customer 04:05]
+about the solution, complete solution.
+
+[Sales Agent 04:10]
+Okay, okay. And if you talk about the tools that you are using for
+this, So what kind of tools you are using?
+
+[Customer 04:18]
+Yeah, so for tours like we are mainly on Sequel server and port Gauge.
+
+[Sales Agent 04:24]
+Included.
+
+[Customer 04:26]
+Sequel and 4 gates.
+
+[Sales Agent 04:29]
+Okay, and any programming language or tool you are using?
+
+[Customer 04:34]
+Programming No I do not have any idea about the programming. So
+
+[Customer 04:40]
+we do interact with some data engineers where they develop pipelines
+in it Aure Data factory. So
+
+[Customer 04:49]
+yeah, I interact with them and basic pipelines even we also developed
+E.
+
+[Sales Agent 04:55]
+PLEPL you are talking about right?
+
+[Customer 04:57]
+Kind of ETL you can say but that is a tool from Azure site.
+
+[Sales Agent 05:03]
+Okay, okay, got it, got it. So are you having 13 years of experience,
+13 years of experience is in the same domain or initially you started
+from different domain?
+
+[Customer 05:13]
+No no, I started from the database admin only.
+
+[Sales Agent 05:17]
+Okay, okay great. I am currently using which company?
+
+[Customer 05:20]
+I am working in Gartner.
+
+[Sales Agent 05:23]
+Gardner Okay okay great great so whats the reason why you are looking
+for love killing yourself in data science?
+
+[Customer 05:32]
+So like definitely the reason is that to
+
+[Customer 05:37]
+get a better opportunity where
+
+[Customer 05:40]
+because actually every role has some limitation. So I feel that this
+role also has some limitations and even like
+
+[Customer 05:53]
+in the world of a I or data science, machine learning, even if I I
+would be database admin. So I need to know about these technologies to
+go to higher roles. So basically I am planning for like roles where I
+would be more involved in decision making or
+
+[Customer 06:18]
+actually doing the data science activities or even the product if some
+product is there
+
+[Customer 06:23]
+so that I can review end to end and help with my years of experience
+and the knowledge as well which I will get. So definitely like sitting
+from this role to another role or you can say transition and at the
+same time like would be good
+
+[Customer 06:42]
+to get more packages as well.
+
+[Sales Agent 06:45]
+I was coming to the same by that I think you are looking for the
+package price also salary growth. You are you are feeling stuck right
+now that up to say 13 years of its we have gotten whatever you can out
+of this profile and job right? And now you want to in yourself, you
+want the transitioning. You will be basically upkinning yourself
+
+[Sales Agent 07:03]
+getting a better job position and better package.
+
+[Customer 07:07]
+Yes that's correct because actually as I said because it's been 13
+years and I have been working as a database admin only. So now I think
+I feel its a time to switch the role and use my current experience and
+
+[Customer 07:24]
+explore the other areas as well. May be more on the business side.
+
+[Sales Agent 07:28]
+Okay, okay, got it. Then what is the current issue and how much height
+you are expecting?
+
+[Customer 07:34]
+So height like and such language I am not expecting but around 48 I am
+getting.
+
+[Sales Agent 07:41]
+40 what 40 LP or 40,000 per month?
+
+[Sales Agent 07:46]
+40 LP is the current salary package. Is that great? But like if I talk
+about the 13 years of experience, it might be less.
+
+[Customer 07:54]
+Yes.
+
+[Sales Agent 07:55]
+That is correct. Yes, that is correct. Great, great. So thats really
+great. So Sir Aapko got back to you have already flowed a little bit
+about on our website. So anybody suggested you upgraded or you like
+anybody in your friend circle or relatives have completed the course
+in the past or you yourself for to know about it?
+
+[Customer 08:17]
+No, frankly speaking, I was exploring that because there are
+
+[Customer 08:22]
+multiple platforms where I where I can learn because these days Scalar
+is one of Academy which offers data science course and they are doing
+heavily like they are spending heavily on marketing and.
+
+[Sales Agent 08:36]
+Other things.
+
+[Customer 08:37]
+And so that is one thing either one these days we get courses from
+
+[Customer 08:45]
+this IIT&IAM as well the data group code. So recently one of my
+colleague joined IIT Delhi Data Science course boot camp for 6 months
+and even they are delivering 112 months course as well for data
+finishing decision science.
+
+[Customer 09:05]
+You may have heard of that as well and we have courses from IIM as
+well
+
+[Customer 09:10]
+and at the same time we have forced some upgrade and scalar and even
+there are lot one way means there are lots. So I was just exploring
+which can be better option for me where I can get better knowledge and
+better learning experience. And its not only for the sake of court
+completion but we are actually getting some benefit and knowledge
+
+[Customer 09:37]
+completing the course. And even it is adding adding the value in
+overall development of myself and at the same time my like work in the
+work work as well.
+
+[Sales Agent 09:55]
+Okay, you will proceed and it will how many days that you will that
+you have started exploring. Exploring its been days or its been weak?
+
+[Customer 10:03]
+Yeah, it will be. I think it is around 3 to 4 weeks. They have already
+happened.
+
+[Sales Agent 10:08]
+Oh, one month
+
+[Sales Agent 10:09]
+almost.
+
+[Customer 10:10]
+Yeah, one month almost. I have like one group.
+
+[Sales Agent 10:14]
+A lot of platforms already, So what is the challenge that you face
+that you havent enrolled anywhere? Like if something was something
+must have been missing. If I talk about the curriculum, why or any
+other thing?
+
+[Customer 10:29]
+Yeah, actually, frankly speaking, I was about to enroll in Scalar
+Academy, but but somehow I like, I did not choose that because
+
+[Customer 10:43]
+I thought like they are like more because they there are 2 things,
+one, because they are more you can say involved in marketing and all
+those things though.
+
+[Sales Agent 10:55]
+That is the feedback I am getting a lot from a lot of people right
+currently, recently basically
+
+[Sales Agent 11:00]
+because I think they have recently expanded their marketing.
+
+[Customer 11:04]
+Yes, yes, right, right. So though I, I, I reviewed their curriculum as
+well as the things they are offering that that are okay, that are
+fine, but still and other thing was that they are not giving any
+damage
+
+[Customer 11:20]
+from the Renault University. So even I will complete the course from
+scalar. So that will only be from the scalar only
+
+[Customer 11:30]
+so. So that is one advantage that you you are having in upgrade.
+
+[Sales Agent 11:36]
+Bangalore from.
+
+[Customer 11:37]
+Triple IT Bangalore but actually I was not sure like whether its just
+only for the name page because actually you you can understand that
+its been around 13 years of experience.
+
+[Sales Agent 11:50]
+With me.
+
+[Customer 11:51]
+So I can understand like if, if that is only for the namesake or not
+because
+
+[Customer 11:57]
+in industry knowledge matters
+
+[Customer 12:01]
+and if like we are not getting quality education
+
+[Customer 12:05]
+done, it is not going to add value and like
+
+[Customer 12:10]
+scale up my career you can say in both ways.
+
+[Sales Agent 12:16]
+You are approach is really good to look into the the things when you
+are exploring the courses actually because recently like a day before
+yesterday there is a course on scalar. Is this specifically scalar I
+am talking about? I was also not aware about this that they are
+increasing their marketing strategies. I got to know from someone. So
+there is a course 3,00,000 only I think the same executive course that
+you can later find. But for scalar it is
+
+[Sales Agent 12:41]
+so by because of the because of the margin I connected with somebody
+he was exploring the sources on the website to compare the curriculum.
+So thats how I connected with that person. So he explained me that I
+have fell for the marketing strategy. Its a 12 months code and its
+already been 6 months and I am regulating my the exam because
+initially it was on marketing really good but it is about.

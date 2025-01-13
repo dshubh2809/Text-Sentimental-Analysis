@@ -1,0 +1,625 @@
+[Customer 00:01]
+Hello.
+
+[Sales Agent 00:05]
+Hello.
+
+[Customer 00:07]
+Yeah.
+
+[Sales Agent 00:08]
+Hi, good evening. Am I talking to Mr Sandeep Singh?
+
+[Sales Agent 00:13]
+Sandeep, I am Kashyap from Upgradation How are you?
+
+[Sales Agent 00:17]
+I am.
+
+[Customer 00:17]
+Good. Yeah.
+
+[Sales Agent 00:18]
+Yeah thats it. Actually I am calling you because you are searching
+your website a few days back looking for some of the spelling courses
+right?
+
+[Sales Agent 00:26]
+Yeah, actually, I I wanted to.
+
+[Customer 00:28]
+Look at the syllabus. So what? All is being passed.
+
+[Sales Agent 00:32]
+Okay okay Alright so Sandeep, before that I would just like to know
+about your educational background that what job you are doing and what
+about your educational background. Just check the education.
+
+[Customer 00:45]
+I have a master in computer application
+
+[Customer 00:49]
+that was back in 2009.
+
+[Sales Agent 00:51]
+So currently.
+
+[Customer 00:51]
+I am working as a senior software engineer.
+
+[Sales Agent 00:56]
+And since how many years you are working as a senior?
+
+[Customer 00:59]
+Officer
+
+[Customer 01:01]
+as a Senior Software Engineer engineer. Its been like 4 years.
+
+[Sales Agent 01:06]
+4 years? And what about the total work experience?
+
+[Sales Agent 01:10]
+Its 15.
+
+[Customer 01:11]
+Close to 15 years.
+
+[Sales Agent 01:14]
+OK, close to 15 years.
+
+[Customer 01:17]
+Yeah.
+
+[Sales Agent 01:19]
+Fine, so as of now Sandeep, which kind of process you are looking for?
+Looking something into data science only or you want to learn
+something into machine learning and artificial intelligence?
+
+[Customer 01:30]
+Actually, I wanted to know about those fees, so I was just exploring
+machine
+
+[Customer 01:36]
+training and a I.
+
+[Sales Agent 01:38]
+Okay, okay. Alright.
+
+[Sales Agent 01:44]
+So if I talk about like, first of all I will talk about the data
+science. What data sciences? Actually
+
+[Sales Agent 01:51]
+data science is something in which we basically use the programming
+tuition languages to make the unstructured data into a structured way
+and there is a whole team involved to that In that there is there are
+the data engineers, data sciences, data analytics analyst and business
+analytics. So these people just do the whole procedure of
+
+[Sales Agent 02:12]
+from mining to making your data into a uniform performance so that we
+can take the useful insight of our right.
+
+[Sales Agent 02:22]
+And a I is something which is helping these things to go in a smoother
+way and it automates most of the things and it saves a lot of time,
+right. And being a senior software engineer if you are trying to enter
+into these kind of industries so it is quite easier for you and also
+relevant for you to enter into this because I have seen many of the
+profiles like you only who has done this course and now they are
+setting at some big positions in some big companies also
+
+[Sales Agent 02:51]
+the higher packages right. So one thing I can make sure that currently
+if you are making a decision to upgrade yourself you dont even have to
+quit your job, you can just join a post from a flat because we are
+providing the courses mostly self giant for the working professionals
+only. So we can join that and learn side by side and you can just go
+ahead with the program, right?
+
+[Customer 03:15]
+Yeah, yeah, yeah.
+
+[Sales Agent 03:16]
+Yeah. So if I talk about the machine learning course, so
+
+[Sales Agent 03:23]
+the courses that we are having are already coming from the top notch
+universities like reply to Bangalore, It is the India's number one
+private Technical University, right?
+
+[Sales Agent 03:35]
+Okay Yeah
+
+[Sales Agent 03:37]
+and there are like 20 plus programming tools and languages covered
+into their like pandas, NLTKNM, 5C, born open CV, rest, a PIAW
+expenses sensor to my SQL these kind of tools and there is a whole
+library of it.
+
+[Sales Agent 03:55]
+Then we confirm to the generative a 2 slash mid journey ChatGPT
+hugging space pahale to bees or not included into this post. And the
+very good part is that on the weekdays you will be getting the
+recorded lectures and on the weekends you will be getting to learn by
+live lectures that are
+
+[Sales Agent 04:15]
+the faculties will be from stability Bangalore only
+
+[Sales Agent 04:18]
+okay. So they will be directly coming to teach you on the live classes
+and there is a support of doubt resolution classes of 7 days a week.
+Anytime you if you face any doubt you can just contact to Aparadhi and
+you can just align a session with the professionals.
+
+[Customer 04:36]
+Okay got it.
+
+[Sales Agent 04:39]
+By the way, in which company you are working as of now?
+
+[Customer 04:42]
+Currently
+
+[Customer 04:43]
+I am with visa.
+
+[Sales Agent 04:46]
+With visa okay So what you are actually day to day care includes like.
+
+[Customer 04:53]
+Day to day actually it's like we are working on the products. There is
+a lot of data we deal with and
+
+[Customer 05:07]
+its majorly its on maintain currently but I have worked on Unix and.
+
+[Sales Agent 05:13]
+Windows as.
+
+[Customer 05:14]
+Well, okay okay, so
+
+[Customer 05:18]
+on main friends. And it's like day in and day out,
+
+[Customer 05:21]
+we are mostly writing and
+
+[Customer 05:26]
+maintaining the old one.
+
+[Sales Agent 05:28]
+Okay Okay.
+
+[Sales Agent 05:31]
+So like what kind of the data are from the different different
+industries or there is a set of data from the?
+
+[Customer 05:38]
+Visa. Visa itself generates a lot of data. No, Visa is card,
+
+[Customer 05:44]
+you know. So they themselves have a lot of data which gets generated.
+So
+
+[Customer 05:52]
+all the time we need to see that it is going out in proper format. It
+is coming in proper format.
+
+[Sales Agent 05:59]
+We are able to extract values.
+
+[Customer 06:02]
+Things like that.
+
+[Sales Agent 06:04]
+Okay. So like by seeing this I think that data science is a course
+that can help you in this because you will be learning the the data
+tools as.
+
+[Customer 06:15]
+Well but yeah I understand what where I where you are going that The
+thing is that I know that in my.
+
+[Sales Agent 06:23]
+Current position.
+
+[Customer 06:25]
+It won't be of any help that is
+
+[Customer 06:29]
+that I know because.
+
+[Sales Agent 06:29]
+Yeah, you you know it better than me, right? Because you are already
+working in that right?
+
+[Customer 06:35]
+And Monday school but I I, I.
+
+[Sales Agent 06:37]
+Just wanted to.
+
+[Customer 06:39]
+Learn it.
+
+[Customer 06:40]
+Learn it for myself.
+
+[Sales Agent 06:43]
+Just wanted to be.
+
+[Customer 06:45]
+At.
+
+[Sales Agent 06:47]
+So I just jump on to the course that I would provide you for machine
+learning and artificial intelligence that you are already searching on
+the website of.
+
+[Customer 06:54]
+That right?
+
+[Sales Agent 06:56]
+I will be giving you a brief about that and then you can just stop me
+wherever you find. Any questions Okay.
+
+[Sales Agent 07:03]
+So basically this is a course name that post graduate program in
+machine driving and artificial. It is a advocate of progressive
+program that is covering cash GPT. You carry 2 minutes journey GNM
+right? These kind of things into it
+
+[Sales Agent 07:17]
+and recently Deloyed has reviewed the survey of a brats and it came to
+note that 5 out of 6 members are getting the positive carrier outcomes
+after doing this course
+
+[Sales Agent 07:26]
+that is so.
+
+[Customer 07:27]
+Obviously this is certification or a degree or what is.
+
+[Sales Agent 07:32]
+See, it is a It is a postgraduate program, which is a healthcare
+postgraduate program. Okay.
+
+[Customer 07:38]
+Or you will be providing.
+
+[Sales Agent 07:41]
+Postgraduate degree.
+
+[Customer 07:43]
+Or aurat sthuma or or certificate right?
+
+[Sales Agent 07:48]
+See there will be a certification that would be there from Triple ID
+Bangalore only and I will be just giving you a sample certification.
+You can check it on your WhatsApp okay.
+
+[Customer 07:59]
+Yeah, yeah, yeah, thats.
+
+[Sales Agent 08:01]
+Fine, so after completion of that you will be giving you will be
+getting the certification from that and also you will be getting an
+alumni status from Triple IT Bangalore.
+
+[Customer 08:09]
+Got it, okay.
+
+[Sales Agent 08:10]
+Right so that you can mention it in your CV and I have told you about
+the tools that are covered into this. The whole library of tools like
+pandas, numpy, NLTK, stebon and many more are there and ChatGPT mid
+journey has been paid direct to also relatively to us for into this
+
+[Sales Agent 08:30]
+if you talk about the instructions for a INML course. So there is
+Chandrasekhar Ramanathan who is Dean of academic at Triple IT
+Bangalore.
+
+[Customer 08:38]
+He.
+
+[Sales Agent 08:41]
+Will be also being there for 30 and there is best Anand who is CEO of
+Ramnath. Like
+
+[Sales Agent 08:48]
+these kind of people are going to be your faculty
+
+[Sales Agent 08:51]
+if I come on the syllabus. So you will be getting fixed and replace of
+learning hours with 15 plus of case studies and assignments. Because
+it is the course which is so practical because it is obviously
+designed for the working professionals and we dont provide any
+information that is unnecessary. Everything that you are going to
+learn, you will be making the project for that. So you will be getting
+15 plus case studies and assignments to make and 6 practical hands on
+project. You know what caps on project is.
+
+[Sales Agent 09:21]
+You might be knowing about that.
+
+[Customer 09:23]
+Yeah, it's like at the end of the degree normally we have to submit
+project like that,
+
+[Customer 09:32]
+no.
+
+[Sales Agent 09:32]
+Actually you have to submit the project. But The thing is caps on
+project is something in which you are making the project with a group
+of people like you. Only your batchmates will be with you and you will
+be making some projects with them so that
+
+[Sales Agent 09:47]
+so that you can have some interactions and you can learn that how to
+solve the problem and all right you will be getting a good opportunity
+to network as well.
+
+[Customer 09:57]
+Yeah, yeah. Understood.
+
+[Sales Agent 09:58]
+Yeah, yeah. So
+
+[Sales Agent 10:00]
+this is the whole curriculum that is there into this course.
+
+[Customer 10:04]
+And after duration.
+
+[Sales Agent 10:06]
+Of this course
+
+[Sales Agent 10:08]
+it is for.
+
+[Customer 10:09]
+It's.
+
+[Sales Agent 10:10]
+It's for 13 months.
+
+[Customer 10:12]
+13 months, Okay?
+
+[Sales Agent 10:15]
+And also there is a complementary Python board camp for 7 weeks.
+
+[Customer 10:20]
+Okay.
+
+[Sales Agent 10:21]
+End of this course and you will be learning about all the things that
+are important to learn machine learning and artificial intelligence,
+right? If you talk about,
+
+[Sales Agent 10:31]
+if I talk about the classes, so on the week days there will be the
+recorded lectures that you have to take. That is so flexible that you
+can take at any point of time whenever you are getting free and on the
+weekends you will be learning by live lecture. There are 2 slots
+available, one is at morning and the second one is at afternoon. So
+basically 15 hours of learning is recommended throughout the week. You
+can manage it accordingly. You will be learning
+
+[Sales Agent 10:55]
+one or 2 are on a daily basis and you can cover on the weekends so it
+will be easier for you to complete that.
+
+[Sales Agent 11:03]
+Okay and okay.
+
+[Sales Agent 11:06]
+Any questions? Any doubts?
+
+[Customer 11:09]
+No, nothing. I got list of it and the duration and what is being
+taught, what we will get at you. Yeah, Yeah. So yeah, I understand.
+
+[Sales Agent 11:20]
+That if you if you want to know about the syllabus furthermore and you
+want to see some profiles that are there who have done this course
+previously because it is not a new course, it is a trial and tested
+course running from 7 years and people are obviously getting the
+positive career outcomes. That why I am recommending you the stores
+and if you want to see that data you can just come over a video call
+and we can have a proper discussion on it. I will be showing
+
+[Sales Agent 11:44]
+you the syllabus that is there, what the things you are going to make
+your projects and all and some profiles like you only you have got the
+transition or upgradation in the same to me after doing this course
+that how was it beneficial for them.
+
+[Customer 11:59]
+Okay and Okay can you?
+
+[Sales Agent 12:01]
+Can you tell me the?
+
+[Customer 12:02]
+Cost of this.
+
+[Sales Agent 12:05]
+Hotel. See if I talk about the procedure. So first of all, you have to
+give one online eligibility test that is for 40 minutes with 18
+questions, right?
+
+[Sales Agent 12:20]
+Like there will be 10 questions from mathematics and aptitude and
+reasoning and there will be 8 questions from programming.
+
+[Customer 12:26]
+Itself, right? Right.
+
+[Sales Agent 12:28]
+Okay then the second step is when your profile is reviewed and your
+your clear test and will be receiving the shortlisting email. So after
+receiving that, you can block your seat by playing paying the block
+amount okay. In this
+
+[Sales Agent 12:43]
+case, you have to pay a block amount of ₹25,000 to reserve your seat.
+That is nothing but a part of fees for me.
+
+[Customer 12:49]
+Okay.
+
+[Sales Agent 12:50]
+Later on after
+
+[Sales Agent 12:52]
+doing that your seat will be there and you will be getting a 7 days of
+time period to cover the whole amount. Either you want to go for the
+upfront payment or you want to go for the EMI. Its your choice.
+
+[Customer 13:05]
+Got it.
+
+[Sales Agent 13:05]
+Okay. The total amount of fees is ₹3,35,000, including of.
+
+[Customer 13:10]
+Taxes. Got it,
+
+[Customer 13:12]
+330.
+
+[Sales Agent 13:13]
+5 Yeah, Yeah.
+
+[Customer 13:15]
+Okay, yeah.
+
+[Sales Agent 13:16]
+There are some EMI plans as well if you want to go for the upfront
+payment and it is well and good. Otherwise if you want to go for EMI,
+so there are 2 EMI options.
+
+[Sales Agent 13:26]
+One is low cost EMI and the second one is standard EMI. So we are
+having several loan partners as well from which we can provide you
+some loan.
+
+[Customer 13:35]
+Okay and yeah.
+
+[Sales Agent 13:39]
+So this is how.
+
+[Customer 13:40]
+I
+
+[Customer 13:43]
+okay, okay. I I have the point. I think about it and then maybe we.
+
+[Sales Agent 13:49]
+Can just we can just do one second week, we can just align a video
+call with you
+
+[Sales Agent 13:55]
+so that we can have a owner interaction and I will be showing you
+about the EMI plans, about the projects and about the data that how
+the people got transaction. Some alumnus of the course was already
+done this course so that you will be getting a clear idea that how the
+course looks like because it is a big investment you have to make
+right. So before that you should see learning about these things that
+what is, what are you going to get after doing this right? And what is
+the outcome that you can expect after doing this post.
+
+[Customer 14:25]
+Yeah, I understand. Okay so.
+
+[Sales Agent 14:31]
+Can we have?
+
+[Customer 14:32]
+The call that call on Sunday.
+
+[Sales Agent 14:34]
+Yeah, Yeah, sure. We can have that. Yeah. Yeah, we can have that.
+
+[Sales Agent 14:39]
+So just have a look on the process that I am going to send, I will be
+sending a email as well. Just travel up on that and in case you face
+any doubt just tell me at that time and otherwise you will be just
+connecting over video call on Sunday so that we can have a proper
+discussion. You can take up all the doubts that you are having.
+
+[Customer 14:58]
+Sorry.
+
+[Sales Agent 15:00]
+I am saying that you can take up all your doubts on the video call.
+
+[Customer 15:04]
+Okay, yeah. Yeah.
+
+[Sales Agent 15:07]
+And if required, you can just align a alumni connection. Also, we are
+having several alumnis who have already done this post. They are the
+people. They can guide you the best in that case if you want to know
+about the credibility of the course.
+
+[Customer 15:19]
+No, no, I am fine with the session with you. That's Okay, is there?
+
+[Sales Agent 15:23]
+Anyone from your circle who has already done this course from upright
+or any other course.
+
+[Customer 15:30]
+I not that I am aware of, but I think my company also has some tie up
+with some of the organizations I dont know.
+
+[Sales Agent 15:41]
+Might be, might be.
+
+[Customer 15:42]
+Yeah.
+
+[Sales Agent 15:42]
+So.
+
+[Customer 15:44]
+They have some a IML courses and all.
+
+[Sales Agent 15:48]
+Yeah, because many of the learners that I am having, The thing is some
+of the other persons on their circle have done already done the
+course. So they have got the clear idea. Sir, if there is not anyone
+we can just connect to a alumni, that will be really useful for you.
+
+[Customer 16:07]
+Okay, Maybe I can take a call on that afternoon after that.
+
+[Sales Agent 16:11]
+Have a one hour discussion after that we can discuss about that.
+
+[Customer 16:15]
+Okay,
+
+[Customer 16:16]
+okay. Thank you.
+
+[Sales Agent 16:17]
+Okay Sandeep, thank you. Have a nice day.
+
+[Customer 16:19]
+Thanks and we will.
+
+[Sales Agent 16:20]
+Be we will be connecting on Sunday.
+
+[Customer 16:21]
+Okay. Yeah, yeah. Yeah.

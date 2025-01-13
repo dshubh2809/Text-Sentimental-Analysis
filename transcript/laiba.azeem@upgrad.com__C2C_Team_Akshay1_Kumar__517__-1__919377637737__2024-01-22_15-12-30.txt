@@ -1,0 +1,579 @@
+[Customer 00:01]
+Hello.
+
+[Sales Agent 00:02]
+Hello. Hi, good afternoon.
+
+[Sales Agent 00:07]
+Vaibhav Hai. I am giving you the call from Upgrad Education. Yeah,
+yeah. Boliye, Madam. Yeah, after Sir, not within.
+
+[Customer 00:16]
+Courses, Sir.
+
+[Sales Agent 00:21]
+AAP kuchh kaun sa dekhate Hain pranab AAP grant.
+
+[Customer 00:23]
+Se lagta hai.
+
+[Sales Agent 00:26]
+Theek hai. Can you get an idea like what sort of portal exactly you
+are looking for?
+
+[Customer 00:31]
+So digital marketing policy, digital marketing basis.
+
+[Sales Agent 00:36]
+Okay
+
+[Sales Agent 00:36]
+and pay AAP kya karte hai na?
+
+[Customer 00:39]
+Business here.
+
+[Sales Agent 00:41]
+Okay, so
+
+[Sales Agent 00:44]
+apart from that your seat service is Sir Pranav.
+
+[Customer 00:48]
+Textile Textile delivered to the clothing.
+
+[Sales Agent 00:51]
+Okay. And what you have done in your graduation?
+
+[Customer 00:55]
+Basically I am a mechanical engineer plus I have done the LBA in the
+marketing.
+
+[Sales Agent 01:03]
+Okay, so that is the
+
+[Sales Agent 01:05]
+when you are planning to move into physical marketing, right?
+
+[Sales Agent 01:10]
+Okay, okay tell me so I mean could have this implementation or could
+have a rate AAPKE plan set and how is that you are going to implement
+it into your own system or?
+
+[Customer 01:24]
+Mujhe bhi nahi Pata woh kaise free website
+
+[Customer 01:27]
+exactly.
+
+[Sales Agent 01:30]
+For this coming to that thing mujhe thoda sa understanding rehti Ki
+when you are talking about digital marketing ways to cash as a cheeje
+AAP target kar rahe ho ya kya tools vagairah kitane ka plan karo kaise
+aapko. Please assistance K implement karne ka plan.
+
+[Customer 01:50]
+Hai.
+
+[Sales Agent 01:52]
+Coding agency search engine aise kaam kar sakte ho AAP right?
+
+[Customer 01:59]
+Digital marketing ke liye toh SAB matlab use hote Hain ye jaise tools
+wo SAB matlab editing editing jaisa fir apna company ke logon se apne
+utsam Jo mere ko photos bahut dalni ho upload karna ho ye SAB hota hai
+na Jo vahi
+
+[Customer 02:18]
+hai.
+
+[Sales Agent 02:20]
+Okay
+
+[Sales Agent 02:22]
+thik hai and who recommended you for the digital marketing Matlab kisi
+na aapka recommend kiya Ki nahi.
+
+[Customer 02:28]
+Nahi aisa nahi ho dunga Facebook Mein dekhti rehta hai Sir office iske
+liye
+
+[Customer 02:35]
+main Facebook se hi kiya raha Maine koi ad I hogi yahaan pe hi to
+kuchh.
+
+[Sales Agent 02:40]
+Okay okay why I was asking Shia tell you prime 2 cheese hoti hai like
+kitna time ho JA aapko business chalate hai apna
+
+[Sales Agent 02:51]
+Okay so matlab ye as such aapka family business or aapne continue.
+
+[Customer 02:54]
+Kiya hai
+
+[Customer 02:57]
+family ka samjho forward nahi hai thoda so following integration kiya
+tha usmen.
+
+[Sales Agent 03:04]
+Okay so same AAP as a plan kar rahi Hoon kyon usako aapko online Lana
+hai.
+
+[Customer 03:09]
+Website Vagairah.
+
+[Sales Agent 03:10]
+Ye SAB banane ka.
+
+[Customer 03:11]
+Plan kar lo.
+
+[Sales Agent 03:14]
+Thik hai theek hai. Thats a very nice person. I have to put up the
+address.
+
+[Customer 03:19]
+My Surat.
+
+[Sales Agent 03:21]
+Okay, Surat actually half there for the textile thing, right?
+
+[Sales Agent 03:27]
+Surat is like Surat is do hi chijon ke liye Jana jata hai. Textile is
+the main thing, right?
+
+[Sales Agent 03:34]
+Yes, yes, exactly. And both are the most important things that are
+they.
+
+[Sales Agent 03:40]
+So see, I tell you kya hota hai pranav right when you talk about
+digital marketing. So digital marketing bhi bahut sare
+
+[Sales Agent 03:50]
+you can say implementation right aur jab aapka khud ka business ho
+raha hai toh usmen jyaada hai Ki AAP apne hi business ko you know AAP
+usko definitely next not only to the digital platform but also just
+you know search engine operation Ho Gaya Sir, you know ye saari cheese
+hogi in SAB pe work karke you can link your brand. The first thing
+jaise koi search karta hai for any of the texts or any of apparent. So
+if you will be using digital marketing too to aapka Jo Brand name
+mobile battery bhi to post recommendation
+
+[Sales Agent 04:23]
+to that particular person itself, okay, right. I mean, I hope this is
+something that you are also planning to do, right?
+
+[Sales Agent 04:33]
+Okay, okay, great. And apart from this any any course you have gone
+through.
+
+[Customer 04:40]
+No, actually more
+
+[Customer 04:42]
+okay.
+
+[Sales Agent 04:45]
+That is.
+
+[Customer 04:46]
+Abhi chalu Hua hai Madam, dont worry chalu Hua hai na.
+
+[Sales Agent 04:51]
+SMAM do saal se nahi Hain do saal se jyaada height hai okay aisa nahi
+hai haan. Exactly Kyonki digital marketing
+
+[Sales Agent 05:01]
+ha ha correct pahale Ki haan Agar aapne marketing se MBA kiya toh us
+time pe bhi thoda sa Ek specialization toh hai hi hogi digital
+marketing ke liye
+
+[Sales Agent 05:11]
+kyonki meri meri brother ne bhi handle Mein kiya hai. Marketing Sir,
+he did with poor specialization Ekunda marketing nyunta and fanarisa.
+So marketing Mein he had
+
+[Sales Agent 05:21]
+our topic of digital marketing as.
+
+[Customer 05:23]
+Well, okay, yeah.
+
+[Sales Agent 05:26]
+So thats it because see when when when you are talking about the
+textile and the sabse badi benefit ye hota hai Ki aapko na digital
+marketing se Ek idea mil jaati hai Ki aapke saath hi audience kiya hai
+fir AAP us target audience ko understand karke accordingly apna
+favorite kiya Jo bhi aapki customers hai unki reference K accordingly
+AAP chijon pay kaam kar sakti Hoon
+
+[Sales Agent 05:47]
+hai aur usne Ek most important hota hai Ki AAP uska sabse vala
+important hota hai Ki search interest hota hai jahaan AAP exactly AAP
+usko use kar sakte ho Instagram, Facebook, YouTube, email in saare kya
+kar rahe.
+
+[Customer 06:01]
+Hai aapne.
+
+[Sales Agent 06:01]
+Brand KO.
+
+[Sales Agent 06:04]
+Exactly, exactly, exactly
+
+[Sales Agent 06:08]
+correct. Toh koi budget bhi leke chal rahe ho AAP apne liye pranab
+kosh karne ke liye something.
+
+[Customer 06:15]
+SAB kuchh badi baat socha nahi hai par wo matlab woh toh dekhna padega
+detailing kya hai kaisa hai fir matlab renew matlab budget aisa koi
+issues ka nahi hai. As such, per dekhiye bahut high end pay to fir
+dekhna padega aise hai Madam
+
+[Customer 06:30]
+thik hai.
+
+[Sales Agent 06:31]
+At 5 * 9.
+
+[Customer 06:33]
+So.
+
+[Sales Agent 06:34]
+Dont worry about it. Yeah. So see on the basis of the conversation, I
+would like to recommend you one of the more decent course like that is
+just just now.
+
+[Sales Agent 06:54]
+The course that I would recommend you is our advance certificate
+program in digital marketing and communication. And he told my card K
+through RM Mica. Basically Mudra Institute of Communication. Okay,
+which is in Ahmedabad only.
+
+[Sales Agent 07:10]
+Yes, so Jo vahan se AA raha hai. The best part is Ki ye Jo maika
+institute hai. That is the Asias number one institute when it comes to
+digital marketing
+
+[Sales Agent 07:21]
+and jitane bhi aapke you know advertisements AAP dekhiye jaise, you
+know passport advertisement hoga aur ya jagame ka Tele ka wo saare
+advertisements hote Hain wo micro institute ke liye students karte
+Hain.
+
+[Customer 07:37]
+Second.
+
+[Sales Agent 07:38]
+And the most important link is course name. You are going to learn
+approximately the number of tools that are going to be your 9
+
+[Sales Agent 07:47]
+tools you are going to learn into this particular course.
+
+[Sales Agent 07:50]
+So how exactly it is going to start? It is going to start from the
+very basic the traditional marketings and digital marketing Mein kaise
+jaate ho theek hai then digital marketing ke kya channels hote hai AAP
+customers ke baare Mein ye understand karte ho. And after working and
+learning each and every topic you are going to draft into your case
+study. So high topic ko CPUD baat AAP Ek case study karte ho leta
+aapne Ek case study Ki Ki kaise AAP kichadi MNC company ko
+
+[Sales Agent 08:19]
+uski digital branding ke strategy Mein help karte ho jaise U.S. bank
+ko establish karvatein.
+
+[Customer 08:25]
+November.
+
+[Sales Agent 08:26]
+Correct. So this is how exactly you will be learning right. So from
+the basic it is going to cover and its going to cover till the end
+level.
+
+[Sales Agent 08:34]
+So at the completion of the course you will get the proper
+understanding about marketing. You know analytics and cases strategies
+banate Hain right. Apart from this how you are going to work on search
+engine operation? Just advertisement to get your calm karte ho social
+media marketing kaisa toh branding kaise hai toh
+
+[Sales Agent 08:54]
+everything you are going to learn in this particular code. The best
+part about this course is you Pradhan that this is one of the oldest
+course running an industry for digital marketing
+
+[Sales Agent 09:05]
+right? Apart from this, after completion of this course, you will also
+get a alumni status from the university itself as you have done the
+school.
+
+[Customer 09:15]
+Right. Yeah.
+
+[Sales Agent 09:16]
+So far any any questions, any concerns you have done?
+
+[Customer 09:19]
+Is it online or actually?
+
+[Sales Agent 09:21]
+Online.
+
+[Customer 09:22]
+Online, okay, okay.
+
+[Sales Agent 09:26]
+So
+
+[Sales Agent 09:26]
+while talking while talking about that particular thing I tell you the
+course is going to be properly online where you will be getting you
+know 5 modes of learning. So after first mode of learning hota hai,
+life interactive session which is done on weekends that is Saturday,
+Sunday of the live session hotel 3rd or second mode of learning order
+aapka recorded hai Sir tab ke bichare bhi sessions hota hai, mukhave
+record hota hai, hand upload hote hai on your portal itself.
+
+[Customer 09:54]
+Okay.
+
+[Sales Agent 09:55]
+Yes,
+
+[Sales Agent 09:56]
+so let's check with Saito Ji Sangram nahi attend Kar do teen bar Sir.
+So you can address in the recorded mode also okay.
+
+[Customer 10:02]
+Okay, yeah.
+
+[Sales Agent 10:04]
+When your 3rd mode of learning is going to be a doubt clearing session
+so daily basis Stephen doubts clear karne ke liye section ko hota hai.
+In case if you want kiya okay aapka doubt hai Ki nahi clear ho rahe
+hai. Like a senior record recorded session Mein so uske baad optical
+questions hai woh aapke doubts hai. Woh Monday to Friday doubt sharing
+session Mein clear ho jaata hai.
+
+[Customer 10:27]
+Okay.
+
+[Sales Agent 10:29]
+Then after 4th mode of learning over there small group coaching where
+you know you are put up in a team of Hon number. So this may be jaisa
+aapke team members hota aaj se bas AAP unake saath discount karke
+project or subject se kaam karte ho
+
+[Sales Agent 10:45]
+Yeah. And then hum to such mode of learning which is your one on one
+session so that you can you need more assistance on the faculty number
+
+[Sales Agent 10:54]
+of the institute itself.
+
+[Sales Agent 10:56]
+So you can ask the 111 question with any of the faculty member as
+well. So after one on one session Mein kya hota hai woh aapko proper
+Ek ghante ke dedicated time date hai right to clear your concerns and
+queries.
+
+[Customer 11:10]
+Okay.
+
+[Sales Agent 11:11]
+Yes.
+
+[Sales Agent 11:14]
+So this is how exactly after modes of.
+
+[Customer 11:17]
+Turning over there.
+
+[Sales Agent 11:19]
+So as Sir Koi Bhi Jo has attend karna mandatory nahi hota hai. If you
+are available, you can attend. If you are not, then you can watch them
+in the recorded mode.
+
+[Customer 11:28]
+Okay.
+
+[Sales Agent 11:32]
+Yeah. Any any more question?
+
+[Customer 11:35]
+No, no, its okay.
+
+[Sales Agent 11:38]
+You are telling the school duration is going to be your, you know
+approximately 7 months after course duration death. So isme kya hota
+hai ismein na aapki do cheese hoti hai. Aapka is core course hota hai
+fir 7 months ka hota hai. Sir aapko koi bhi Ek specialization achchhe
+choose karni hoti hai jaise lets say you want to go for branding or
+you want to go for social media and content marketing so you can
+choose aapke paas art specialization hoti hai. First is your branding
+and communication,
+
+[Sales Agent 12:10]
+second is the marketing analytics for social media and content
+marketing, both marketing communication for the PR. So Sydney
+generative area. So aku Jo bhi specialization apne Mein suitable lagti
+hai. Out of these 4, you can also go for the partial specialization or
+other aapko lagta hai Ki abhi mujhe pancho ke liye nahi karna hai. You
+can go for one specialization RP. So initially Aapko Ek specialization
+choose karni hoti hai.
+
+[Customer 12:39]
+Okay, okay.
+
+[Sales Agent 12:40]
+Okay, theek hai, yeah.
+
+[Customer 12:41]
+Theek hai. Okay,
+
+[Customer 12:45]
+okay, okay.
+
+[Sales Agent 12:47]
+Toh kab se plan kar rahe ho apna earnings start karne ka plan hai.
+
+[Customer 12:52]
+Make the name
+
+[Customer 12:58]
+from me
+
+[Customer 13:01]
+actually kya hota hai abhi Mr ka business ka fix time hota hai to kya
+timing thoda bahut hi matlab decision ho jaata hai toh main June July
+kya hota hai woh hamara thoda ise to drive hota hai aur tum Jo
+
+[Customer 13:14]
+may June July August ka sirf wapas thoda starting hota hai.
+
+[Sales Agent 13:17]
+Everything is us. Time pay hamare passes bhi honge
+
+[Sales Agent 13:23]
+of course university se course AA raha hai to fir wo university ka
+enrollment ka time hota hai na aapko Pata hai.
+
+[Customer 13:28]
+Education benefit hi nahi hote hai right
+
+[Customer 13:30]
+achchha achchha. Okay, okay.
+
+[Sales Agent 13:32]
+Yeah. So that is where the admissions are going on in January only.
+
+[Sales Agent 13:37]
+Okay theek hai if you want to come up in a learning course, March Mein
+sath kar sakte hai right aapko
+
+[Sales Agent 13:45]
+aapko usmein kya hoga Ek se do mahine ka kuchh aisa recorded web
+containment bheja jyaada hai which you can Start learning learning but
+
+[Sales Agent 13:54]
+majorly do admission admission January Mein hi hota hai jaisa abhi. We
+are having 3 seats left with us
+
+[Sales Agent 14:02]
+and the batch is going to start from January 34.
+
+[Sales Agent 14:06]
+To pranab aisa nahin hai Ki aapko dedicated teen char ghante rose ke
+liye Agar AAP usame which bank ka?
+
+[Customer 14:12]
+Bhi de rahe ho.
+
+[Sales Agent 14:14]
+You dont have to give you to woh Jo Ek cheese aapka paper and you want
+to focus on your business. You can focus on your business. Major
+
+[Sales Agent 14:22]
+majority Jo log ye course karte hai. They are from job background
+right? Who side working professional hota hai ya to koi job kar rahe
+hai ya fir koi apna business kar rahe hai but they all are doing
+kyonki completely flexible hai.
+
+[Customer 14:35]
+Okay.
+
+[Sales Agent 14:37]
+Yeah.
+
+[Customer 14:41]
+ISS baar mere ko AAP email pe SAB details thodi bhej do Ek baar wapas
+Mein kya Bara poora address sign kar leta Hun for rent on aapne matlab
+teen do din Mein wapas Hua hai. Matlab AAP call back karo mere ko
+
+[Customer 14:53]
+theek hai Jo final karta Hoon theek hai maam
+
+[Customer 14:58]
+Jo fees bol rahe ho wo bhi AAP kar dena jab bhi hoga OTP.
+
+[Sales Agent 15:05]
+Rather than Ek kaam kar sakte hai apana
+
+[Sales Agent 15:09]
+I can help you out in getting connected or let's connect to what a
+Google needs session where I will walk you through with all the
+details. Ki kaise Ki sabase hoti hai aapko learning portal kitne tools
+hafte because it scores me you are going to learn tools as well. For
+example after get responsibility matches. Care to be d Uber suggest
+hai right all the rules
+
+[Sales Agent 15:33]
+SUO side taker bank so I will walk you through once again with the
+cold because over the call I am given in complete information to.
+
+[Customer 15:40]
+You guys, I.
+
+[Sales Agent 15:41]
+Know that so Ek baar photo Mein station pe Agar AAP half an hour ke
+liye connect Karenge. So I will be able to help you out with the whole
+you know all details. Then after that you can take up a call. I mean
+Sir to clear AAP discuss kar sakte ho and yesterday aapko decision
+nahi.
+
+[Customer 15:56]
+Hai okay okay
+
+[Customer 15:58]
+thik hai Sir Kal ka rakhte hai gussa tab GP AAP
+
+[Customer 16:05]
+around 2
+
+[Customer 16:08]
+around 2 to 3 matlab 3 casual yahi time rakhna hai.
+
+[Sales Agent 16:13]
+Main aapka calendar block kar dungi 2:00 PM ke liye
+
+[Sales Agent 16:18]
+we will connect and we will discuss further. Meanwhile, main aapko
+course details bhej deti Hoon theek hai.
+
+[Customer 16:24]
+Okay.
+
+[Sales Agent 16:26]
+Madam Okay,
+
+[Sales Agent 16:27]
+done, done. Okay, okay. Thank you so much, Sunil. Have a great day.
+
+[Customer 16:30]
+Okay.

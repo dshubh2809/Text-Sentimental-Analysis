@@ -1,0 +1,539 @@
+[Sales Agent 00:00]
+Yes, Gauri, Tell me, tell me something about you.
+
+[Customer 00:04]
+OK, thank you for allowing me to introduce myself. My name is
+Gaurishramadi. I am from Udaipur, Rajasthan. I am doing Computer
+Science engineering from Gitanjali Institute of Technical Studies. I
+secured 9.2 cgpa in 10 standard, 73.4 cgp percentage and 12th standard
+and currently an engineering. My aggregate score is 77 percentage.
+Computer Science is omnipresent, that is it is present in every field
+and hence I have invested these last 3.5 almost years
+
+[Customer 00:36]
+in developing my software skills. My technical skills include the
+programming in Python, Java CC plus plus databases. I am also familiar
+with web development, Kubernetes, Docker, ancible et cetera. So these
+all are my technical skills and I have also used these skills to build
+several projects which include user management project and attendance
+management project. I have also participated in Smart India Hackathons
+
+[Customer 01:07]
+of which in one we also got to the finals. These
+
+[Customer 01:12]
+all were my technical skills coming to my extracurricular activities.
+I love to dance, particularly semi classical dance. I also like to
+read, write and paint. I have been the student editor of our colleges
+newsletter Bits and Bytes and currently I am one of the cultural heads
+of our students club.
+
+[Customer 01:32]
+So I have. I have also participated in several donation camps,
+
+[Customer 01:38]
+several donation camps as I am a member of the Rotary Club, Udaipur. I
+consider myself as a very focused person and I always work towards my
+goals and in a very efficient manner. I am a team player and very
+optimistic in tough times. And lastly, I would like to say that why
+not start the journey of my success by
+
+[Customer 02:02]
+the success of joining TCS. Thank you so much.
+
+[Sales Agent 02:07]
+OK.
+
+[Sales Agent 02:09]
+What are the 5 specific point about TCS which makes TCS different from
+other IT Mncs?
+
+[Customer 02:19]
+Sure. Firstly Sir, TCS is has a brand name. It is known it is a
+multinational company and it has a very good brand name and thus it
+would give me a good start for my career. Secondly, it has a work life
+balance. I have talked to many of my friends who are in TCS and they
+say that TCS gives a very good work life balance. So that is the
+second point. 3rd point is the colleagues. There
+
+[Customer 02:49]
+our job very futuristic in their skills so there is a lot to learn
+from them. Fourthly as teachers is a multinational company, I would
+like to I would have the chance to even go abroad and meet people of
+different nationalities. And lastly there as TCS is has been in the
+industry for almost 150 years, so it gives me a sense of job security
+to some extent.
+
+[Sales Agent 03:17]
+OK, what are the ethical values TCS have?
+
+[Customer 03:21]
+Sir like I said there is a work life balance and it it it promotes
+like gender equality. There is no like discrimination on the basis of
+that and it so its very good in ethics overall.
+
+[Sales Agent 03:39]
+Okay,
+
+[Sales Agent 03:42]
+OK Gauri, nice talking to you and.
+
+[Customer 03:45]
+I will request.
+
+[Sales Agent 03:46]
+Colonel Rathore, Sir, to take next part of your interview, right?
+
+[Customer 03:49]
+Thank you so much, Sir. Good afternoon. Good afternoon, Sir.
+
+[Sales Agent 03:55]
+All prepared.
+
+[Customer 03:56]
+Yes, Sir.
+
+[Sales Agent 03:58]
+OK,
+
+[Sales Agent 03:59]
+Tell us which other campus interviews have you appeared for and what
+has been the results?
+
+[Customer 04:06]
+So I have interviewed for Lanet which is in Udaipur only and I got
+selected for it. I also interviewed for Gateway Industries. I was not
+selected in the interview. I got to the interview part but was not
+selected
+
+[Customer 04:21]
+so thats it. I have only given these interviews.
+
+[Sales Agent 04:24]
+OK
+
+[Sales Agent 04:27]
+have you analyzed why you didnt get selected for gateway?
+
+[Customer 04:33]
+Sir, in Gateway I might have not answered the technical questions very
+well as compared to the other candidates.
+
+[Sales Agent 04:43]
+OK, so how have you prepared for contentious interview now?
+
+[Customer 04:47]
+Sir, I have enhanced my technical skills. I have been preparing for
+for the core subjects and I have been doing coding almost everyday. So
+I think that I prepared quite well for TCS.
+
+[Sales Agent 05:02]
+OK, got it.
+
+[Sales Agent 05:05]
+Tell me, what are your future plans?
+
+[Customer 05:08]
+So my future plans if I join TCS or otherwise?
+
+[Sales Agent 05:14]
+What are your future plans?
+
+[Customer 05:15]
+Sir, I want to join a software company and work for it and I want to
+learn as much like as much languages and as much skills as I can and I
+also want to achieve great success so that I am satisfied with what I
+have learned.
+
+[Sales Agent 05:37]
+Okay,
+
+[Sales Agent 05:38]
+what do you think are the reasons for youngsters switching over jobs?
+
+[Customer 05:45]
+So maybe it is job satisfaction because they enter a company without
+seeing
+
+[Customer 05:52]
+the background of the company and then they later find out that the
+company was not suitable for them.
+
+[Sales Agent 05:59]
+OK, For you,
+
+[Sales Agent 06:02]
+as per you, what are the 3 important things that
+
+[Sales Agent 06:06]
+one should consider before joining any organization as a fresher?
+
+[Customer 06:13]
+So firstly, the one should look if there is a lot to learn from the
+company, I mean there should be a very steep like growing curve in the
+company. Secondly, there should be
+
+[Customer 06:28]
+like the colleagues and everything should be very frank so that they
+help you in every way. And thirdly, for me there should be a brand
+name so that there is a satisfaction that yes, I have achieved a level
+and now I can go to the next level.
+
+[Sales Agent 06:44]
+OK, technically, what gives you job satisfaction?
+
+[Customer 06:49]
+Sir, technically the latest I I want to work with latest technical
+skills like not obsolete technologies but the latest technologies.
+
+[Sales Agent 07:01]
+So how does TCS fit into your requirement?
+
+[Customer 07:05]
+Sir, TCS changes its technologies according to the needs of the People
+of the Year. So there is a
+
+[Customer 07:13]
+not a. There is no fixed technology that they use. They use according
+to their clients, which is very well.
+
+[Sales Agent 07:20]
+Which are the major clients of TCS?
+
+[Sales Agent 07:23]
+Can you name 3 or 4 of them?
+
+[Customer 07:26]
+I am sorry Sir, but I am not aware of the clients.
+
+[Sales Agent 07:31]
+OK,
+
+[Sales Agent 07:33]
+sure. Anything that you want to ask?
+
+[Customer 07:40]
+So will I be able to like fit in the company? I mean, what do you
+think?
+
+[Sales Agent 07:49]
+Will you be able to fit into the company?
+
+[Customer 07:51]
+Yes, Sir.
+
+[Sales Agent 07:53]
+Yeah, as per your own analysis, you said you are a good team player
+and what
+
+[Sales Agent 07:58]
+requirements you said for a good job. In case you have those
+qualities, I am sure you will be able to get into.
+
+[Customer 08:05]
+OK Sir, thank you. Any more suggestions for me if?
+
+[Sales Agent 08:09]
+No, nothing more. Carmin, Sir will finally give his remarks.
+
+[Customer 08:14]
+Right. OK. Thank you so much Sir.
+
+[Sales Agent 08:15]
+All the best.
+
+[Customer 08:17]
+Right. Thank you, Sir.
+
+[Sales Agent 08:19]
+Gauri.
+
+[Customer 08:20]
+Yes, Sir.
+
+[Sales Agent 08:21]
+What is your basically the aim you want to go in the software
+companies or anything more than that?
+
+[Customer 08:27]
+No. So I want to go in the software companies that is only.
+
+[Sales Agent 08:31]
+OK. You don't want to go for any higher studies or
+
+[Sales Agent 08:35]
+for entrepreneurship like.
+
+[Customer 08:37]
+No. So entrepreneurship no, but higher studies. Many of the companies
+TCS also provides like simultaneously higher studies, so that may also
+be a very good option.
+
+[Sales Agent 08:51]
+Okay, for example you have got, you have got the offer from TCS or at
+the same time meanwhile you are getting the better offer than TCS from
+another organization which is not tier one organization but Tier 2
+organization but the package is just double of what we are offering.
+Then what will you do?
+
+[Customer 09:14]
+So I would compare both the companies in terms of data currently I
+have.
+
+[Sales Agent 09:19]
+Told that teachers is it year one and you have got the offer from Tier
+2. It means the startup or mid size company but the package for
+example we are giving you fall back, they are giving you 8,00,000. In
+that case, what will you do?
+
+[Customer 09:34]
+So I choose TCS only because TCS is like
+
+[Customer 09:39]
+almost 150 years old company so
+
+[Customer 09:43]
+it it has a very good job security. And as I cannot really trust our
+startup because
+
+[Customer 09:52]
+they are a new in the industry and thats why there is there might be
+some trust issues
+
+[Customer 10:00]
+Sir. Job security is more important than salary if.
+
+[Sales Agent 10:05]
+You will not perform well in the pieces. Also you can get the job
+insecurity in TCS also.
+
+[Customer 10:10]
+Sir, but I will perform good and I would like from my end. There will
+be no complaints from TCS.
+
+[Sales Agent 10:23]
+Yeah, sorry.
+
+[Customer 10:25]
+Good afternoon, Sir. Good.
+
+[Sales Agent 10:28]
+Afternoon. Which
+
+[Sales Agent 10:29]
+domain you feel comfortable?
+
+[Customer 10:32]
+Circo Subjects Programming,
+
+[Customer 10:35]
+C Plus plus DAP analyzers. Yes, Sir.
+
+[Sales Agent 10:39]
+So give me a concept to implement snack and letter.
+
+[Customer 10:44]
+To implement snakes and daddars
+
+[Customer 10:48]
+using any programming language.
+
+[Sales Agent 10:50]
+I want to know only concept, not the implementation.
+
+[Customer 10:53]
+OK.
+
+[Sales Agent 10:54]
+I'm giving you the one minute.
+
+[Customer 10:59]
+So can I write something?
+
+[Sales Agent 11:02]
+But I need only logic right? Not the code part.
+
+[Customer 11:05]
+OK, Sir.
+
+[Customer 12:40]
+Yes, Sir. Thoda thoda. So we can.
+
+[Sales Agent 12:43]
+Verbally Batao Thoda. Then I can analyse that you are going in a right
+direction or not.
+
+[Customer 12:47]
+OK Sir, so firstly we will bill like a list for example of
+
+[Customer 12:57]
+how how many columns are there. For example, I take a list of 50, the
+maximum we go to 50 and then now we take dice
+
+[Customer 13:06]
+variable in which we will take a random function.
+
+[Customer 13:11]
+With the help of random function we can derive a number between one to
+6
+
+[Customer 13:16]
+and for the first for the first move if the number random number is 6
+then we can move like we can keep a counter of the player so we can
+increase the counter with the number that comes in the dice and then
+we can predefine the snakes. For example if at if you reach 5 then the
+the counter should like increase by 10 blocks,
+
+[Customer 13:45]
+so the countable increased by 10 blocks. That is the ladder and this
+way we can like predefine.
+
+[Sales Agent 13:52]
+This question is then how will how you will determine whether to you
+have to increment its dice value means you you want to use its
+increasing the counter value in form of ladder or you have to
+decrement the counter value in form of snack. So how you will
+determine it?
+
+[Customer 14:09]
+So with the help of functions for example of the dice value for if if
+the dice value or the that block value in which the counter is right
+now is 5 so I have assigned 5 already that 5 is a ladder so then it
+will increase. And for example if 12 is a snake then I have already
+defined that 12 at 12:00. You need to decrement the value by for
+example 5 or whatever, so I will predefine.
+
+[Sales Agent 14:38]
+Where you will predefine these values.
+
+[Customer 14:41]
+So I can use a dictionary to
+
+[Customer 14:44]
+like if I am doing in Python then I can use it.
+
+[Sales Agent 14:46]
+If we are using C then then CC plus plus Java there if we doesn't have
+any dictionary.
+
+[Customer 14:54]
+Then so we can
+
+[Customer 14:58]
+we can use an array of arrays and then like make a dictionary with the
+help of arrays.
+
+[Customer 15:07]
+OK. Yes, Sir.
+
+[Sales Agent 15:08]
+Can we use switch or not there?
+
+[Customer 15:12]
+Switch yes, but. So we can use
+
+[Customer 15:18]
+but it is too long like we will have to write the code many times in
+switch.
+
+[Sales Agent 15:24]
+Why many times we can define a switch in a global or any anywhere then
+we can use it.
+
+[Customer 15:31]
+Because switch for a snake and switch for a ladder. 2 separate
+switches we can use. Yes, Sir, that we can.
+
+[Sales Agent 15:38]
+OK, So what do you mean by the encapsulation? Is Divyana Sansar is
+correct?
+
+[Customer 15:44]
+So partially it is correct. It is used for data hiding but more data
+security. So in a class it is implemented using access modifiers like
+public, protected, private and there is a default access specifier as
+well. So using these we can define the scope of the variable or the
+functions like if it is public then it can be used all through and if
+it is protected then only the subclasses can use it
+
+[Customer 16:16]
+and if private then only the current class can do Sir.
+
+[Sales Agent 16:22]
+What do you mean by storage classes?
+
+[Customer 16:26]
+Storage classes so I'm not able to recall I.
+
+[Sales Agent 16:35]
+Worry all the best.
+
+[Customer 16:36]
+OK. Thank you so much.
+
+[Sales Agent 16:38]
+Sir, explore more and more TCS technical integral questions, right?
+They are basically mainly from CNC Plus Plus.
+
+[Customer 16:45]
+Okay, Sir. I'll keep that in mind. Thank you so much, Sir. All the
+best. Thank you, Sir.
+
+[Sales Agent 16:51]
+From my side and the rathods are interview my remark for you
+definitely you are the good candidate that we have already observed
+many time
+
+[Sales Agent 17:01]
+technical knowledge. I have not checked. No doubt you are head of
+department. CSC will check it out, but
+
+[Sales Agent 17:10]
+you can easily crack the process.
+
+[Customer 17:12]
+OK. Thank you so much.
+
+[Sales Agent 17:13]
+Sir
+
+[Sales Agent 17:15]
+or when you are clear about your thought process, then at least it
+should be justified when you are giving the interviews.
+
+[Customer 17:22]
+Yes, Sir. Sure.
+
+[Sales Agent 17:24]
+That is very important. If they will feel that you want to come but
+you you cannot come then
+
+[Sales Agent 17:31]
+then there is a chances they can drop you. Either you are a good
+candidate or the best. For example, Google want to hire somebody or
+they find the candidate which is having the capabilities to get a
+crore
+
+[Sales Agent 17:45]
+package in Enough right but they have the doubt that no doubt is the
+best but they have the doubt that either he will join or not then
+might be they can drop.
+
+[Customer 17:56]
+So.
+
+[Sales Agent 17:56]
+That kind of condition in the interview at least it should not be so
+case.
+
+[Customer 18:01]
+OK. I will keep that in mind, Sir. Thank you,
+
+[Customer 18:05]
+Okay, Sir.
+
+[Sales Agent 18:07]
+Thank you.
+
+[Customer 18:07]
+Thank you, Sir.

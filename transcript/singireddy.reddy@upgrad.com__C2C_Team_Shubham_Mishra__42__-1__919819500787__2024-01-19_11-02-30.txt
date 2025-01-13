@@ -1,0 +1,828 @@
+[Customer 00:02]
+Hello.
+
+[Sales Agent 00:04]
+Hello, Hi this Bharini.
+
+[Sales Agent 00:09]
+Hi Bhareen Karthik Desai. I am actually calling you from authorised
+station.
+
+[Customer 00:14]
+Okay.
+
+[Sales Agent 00:15]
+Hi Delhi,
+
+[Sales Agent 00:16]
+So I am a career counselor here and I got your details from my team. I
+believe you are looking for upstream into Miscellaneous A I
+preferences correct early
+
+[Sales Agent 00:26]
+okay sure sure. So if you could help me understand your profile and
+you also the work experience only probably help me to understanding
+more, help you better your feeling journey here.
+
+[Customer 00:37]
+Sure. So I was interested in anything to do with applications for you
+know a IML or other.
+
+[Customer 00:44]
+You know how you can use Gen A I in 3rd tech field or you know in what
+are the various applications. So that was the quote I was looking.
+
+[Sales Agent 00:53]
+At but.
+
+[Customer 00:54]
+What I saw in the in your brochure or in your site is that for most of
+your courses or other for everything you do need a
+
+[Customer 01:06]
+you know, a computer or an IC or some kind of a technical background,
+right?
+
+[Sales Agent 01:12]
+Depends what program you have seen actually.
+
+[Customer 01:16]
+So I think I saw one fight VIVNIT was one and the other one was by
+triple IT.
+
+[Sales Agent 01:25]
+PIT, Bangalore.
+
+[Customer 01:27]
+Yeah,
+
+[Customer 01:29]
+so these were the 2I saw then I was looking into your courses, courses
+that you have on the site, but I didn't see anything that specific.
+See, I I am currently working in the life sciences space. So life
+sciences deals with
+
+[Customer 01:44]
+with clinical research. So I mean there is a lot of IT here because
+it's primarily the backend part for a pharma company. So I deal with
+internal audits in in this state, so in the life center space or for
+pharma companies. So so there is a lot of data getting generated and
+many a times we have to make sense out of the data which is.
+
+[Sales Agent 02:09]
+Right now done manually.
+
+[Customer 02:10]
+So there are some A, I tools and all, but you know really
+
+[Customer 02:13]
+of course all companies are looking to upskilling and you know
+upgrading their text. So we are looking into having some kind of a Gen
+A I which may can make sense of the data that comes in, the raw
+unstructured data that comes in and then you know using that. So in
+that line is why I was looking at you know a similar course or
+something, but I am not getting any and I am not from a tech
+background, I mean
+
+[Customer 02:40]
+whatever take
+
+[Customer 02:41]
+and I dont have the tech degree, I am a postgraduate in the life
+sciences phase, but I do not have a tech degree. Whatever tech
+knowledge I have is primarily related to the the area that I work in,
+which is more related to the regulatory requirements and you know this
+documentation level requirements.
+
+[Sales Agent 03:03]
+So.
+
+[Customer 03:05]
+Okay, I am
+
+[Customer 03:05]
+not an option but but yeah, that is what I am looking at. Yeah, so I
+was looking at upscaling myself.
+
+[Sales Agent 03:13]
+Got it, got it. Understood. Whatever whatever you said. I am
+completely understood as a counselor as a privilege to talk to a lot
+of people coming from different sectors. And this is not for the first
+time. I am talking to your profile as you okay, who is who is from
+life services, Correct. Now the program that you have looked into,
+yes, that is not a ticketable program for you because that is for
+somebody is coming from a technical partner and who wants to
+
+[Sales Agent 03:39]
+trade relevant and work on the development side
+
+[Sales Agent 03:42]
+of machine on India. This is a kind of.
+
+[Customer 03:44]
+Experience. You are.
+
+[Sales Agent 03:46]
+Attend and with your future requirement. You are not sitting tomorrow
+to develop MLNY. You are just here to understand that already created
+tool so you will understand the make use cases of it so that you can
+integrate that will go workflow and that whatever the you know maybe
+inside that you want to allow out of the data right so.
+
+[Customer 04:07]
+Your account, Sir. One more. Yeah, one more. Just one more addition.
+Sorry to interrupt.
+
+[Customer 04:13]
+One more addition is that you know in see as part of my job like I
+said I do order.
+
+[Customer 04:18]
+So as part of the orders you know my team and I, we also give
+suggestions or recommendations to the team in terms of how they can
+improve their work. You know basically the development, testing and
+other type of things. So thats something that I want to be able to
+make a good judgment out of what tools and technologies are available
+and give that to the business teams to implement. So so that can only
+come in because you know when I am able to right now I am looking at
+the work, I know where the
+
+[Customer 04:50]
+Sir but I need to be able to you know have some knowledge in terms of
+how I look and you know how I evaluate what is already there in the
+market or you know how what I can give them as a suggestion. So what
+tool they can use or what how they can evaluate what is there and you
+know further improve. So something like an improvement area. I want to
+be able to more, you know, give them a suggestion rather than just
+tell them that there is a gap.
+
+[Sales Agent 05:17]
+No, no, I I completely understood. Okay. So
+
+[Sales Agent 05:21]
+your ultimate leverages in basic in meeting, right and your what the
+expertise that you have, you want to do that with technology, correct?
+Thats what you are looking forward for, correct?
+
+[Customer 05:31]
+That is why.
+
+[Sales Agent 05:32]
+So right now, even if you have a data that you want to work on and
+derive meaningful insight, you have to understand analytics work. What
+is data and?
+
+[Customer 05:41]
+Okay.
+
+[Sales Agent 05:42]
+Then convert the raw data and to a meaningful insult where you can
+make sensors of data and credit something. What about the technique
+that are there correct? This is one aspect.
+
+[Sales Agent 05:51]
+The second aspect is generated here Okay. Now we do have a program
+into generative regard that is of 5 months of duration Okay. But for
+for that to happen right for you to even hold your team accountable
+and suggest something in terms of deficient making right you have to
+be you know going through a little technical thing here Okay because
+Python is something after learn and that will be taught to you from
+basics itself.
+
+[Sales Agent 06:17]
+Sorry. Now there are 2 different aspects. If you pay me Karthik, I
+have a requirement more requirement into generating that so that I can
+understand all these journey I told in terms of R&D, auditing,
+extracting the data and then getting meaning out of it. We have a
+program of timing but if you are saying Kasif I have a data already
+okay now I just want to know extract elephant certain insights out of
+it then
+
+[Sales Agent 06:46]
+then the generative air program does not cover data only you
+understand okay. So what are you inclined towards? What is your
+requirement? Much is it in to generate a way out or is it to analytics
+to be subject?
+
+[Customer 07:02]
+I would,
+
+[Customer 07:05]
+I would say probably both because see again I have to align myself
+with what you know what is happening and what the business is into or
+business is looking into. So there is a lot of push towards 10 A, I
+and also at the same time you know MLRCH. So all of those are in the
+pipeline. So there are different kinds of projects that I need to look
+into.
+
+[Customer 07:33]
+So data analytics technology. I need the data analytics for myself as
+well and I need to be able to con, you know, convey to the project
+teams also.
+
+[Sales Agent 07:46]
+So then definitely you are at the right place. Thanks for giving me a
+brief of what you worked with. So we do have a program Okay which is
+in blend of generating right as well as data plan.
+
+[Customer 07:58]
+Okay.
+
+[Sales Agent 07:59]
+So see now all these a IML is something that will not be working on
+the development side but data intex is something that you can really
+make use of as per my knowledge that you have said right. So we do
+have an 8 months of program here Okay the basic certification one
+where first everything will be taught to you from 6 because Python is
+something that you have to learn whether it could be analytic, whether
+it could be in generative a R okay.
+
+[Sales Agent 08:25]
+So you will be having Python bhoot camp initially and then you will be
+understanding how to clear on date of birth. Alright because data
+unfit can occur after you understand the fundamentals of data plan
+Okay you have to understand the machine on this model first. That is
+why you can make use of that data because imagine you get a lot of raw
+data Okay you cannot just go through hours of that right? So you have
+to trade a missing money model for you to do that. Okay, even though
+you are not developing, you have to have an understanding of it
+correctly.
+
+[Sales Agent 08:57]
+Technologies work.
+
+[Sales Agent 08:58]
+So you will be first starting with how to clear on data Python And
+then machine only model. Then we have Spy specialization. Alright now
+these 5 specialization are in the first data analytic, second is
+business analytics, 3rd is Natural language Processing, Deep learning.
+These 2 are the of a INLP and deep learning is a I okay and other one
+is data.
+
+[Customer 09:21]
+Limited.
+
+[Sales Agent 09:22]
+Okay. So you will first understand data analytics, our business
+intelligence and
+
+[Sales Agent 09:29]
+then after you finish the program will be given the access to all the
+specialization. So in the future may be after one year or within this
+one year if you have a claim whos who is coming up to expecting a
+solution from you regarding the planning. Alright that since anyhow
+you have the active you will be thorough knowledge about it. You can
+suggest them based upon that.
+
+[Sales Agent 09:50]
+So I think this program will definitely took you and I know give you
+the exact outcome you are looking for Sir.
+
+[Customer 09:57]
+Okay. And what kind of? I mean what is the duration of this course
+that you stated and what kind of output comes after this? Like is it
+a, is it a diploma, is it certificate? And from which university? How
+does that work?
+
+[Sales Agent 10:15]
+So that is this. So we have 2 programs here. So depending upon your
+time like what about the feasible time, you can tell me what programs
+would be best. So
+
+[Sales Agent 10:25]
+we have a diploma, Okay, 4th graduation diploma in data centre. Yeah
+okay that is from university, triple IT Bangalore. So this India's
+number one Technical University, so we have 12.
+
+[Customer 10:36]
+Charges IC Bangalore, Okay.
+
+[Sales Agent 10:39]
+Yes, we have 12,000 as India's largest alumni days with the university
+Okay. So we have been successfully running this program in 8 years,
+75,00,000 have been done. So that is how 14 months of duration Okay?
+
+[Customer 10:52]
+Now is this cancelled or is this online?
+
+[Sales Agent 10:57]
+No. See when is the time of learner? 95% of our learners are working
+professions. So all his programs he dont want to say you say that I am
+telling you right these are structure and design for working
+professionals. So entirely it is going to be online, you dont have to
+go to the university. But the benefit lets I mean lets say even though
+you do this program online right the PG after you says the PG that you
+are getting right on it. Nowhere it will be mentioned that your family
+from upgraded online because it is a completely universal program.
+
+[Customer 11:29]
+Okay.
+
+[Sales Agent 11:30]
+So Monday to Friday it is going to be a first stage learning for you
+and on the weekend Saturday or Sunday live session will happen. Those
+are
+
+[Sales Agent 11:39]
+those are also taking.
+
+[Customer 11:40]
+Their life that will be that will be probably through whom or skills
+or something, right?
+
+[Sales Agent 11:46]
+Yes yes you have a separate hotel here of that so he acted a
+technological platform so all its like one stop solution for all the
+life insurance. So that lifestance will happen on the portal itself.
+
+[Customer 11:59]
+Okay okay Fine, yeah.
+
+[Sales Agent 12:02]
+Right. So what are you comfortable with? Do you have 14 months of
+program, are you okay do a 8 month of program? Because whatever I am
+paying you 14 months Sir. So just divide say 8 months of that 14
+months that will become a certificate. So almost 50 to 60% of the
+curriculum will be good.
+
+[Customer 12:22]
+Okay so can you send me these details karthik over? I mean may be
+WhatsApp if you dont mind.
+
+[Sales Agent 12:30]
+Or over.
+
+[Customer 12:31]
+Yeah.
+
+[Sales Agent 12:31]
+I will send you the details, right. I will first send you the details
+because I want a conversation with you needful and outcome oriented,
+correct. So I know what you are looking for and we do have that for
+sure. It is that you need a clarity on that. So first I will send you
+the details surely. Please go to, I will send you both the curriculum
+8 months and 14 months. 50 to 60% will be almost same in the 14 months
+you will be just covering the extra you know week of modules and all
+right. So have a look at it
+
+[Sales Agent 12:57]
+but I will look at it. You are very thorough way because I am, I am no
+like you are coming with RND auditing and everything. So whatever you
+find in the brochure that would make sense to you. So give me a
+feasible time, lets do this over a virtual connect if you are
+comfortable for 10 to 15 minutes where I can share my plea and help
+you with the door mam and I can help you see what kind of outcome you
+can expect, what kind of industry project, how you look at that even
+Samsung experience right. All that information I can give you right
+Sir. Then after that
+
+[Sales Agent 13:28]
+if you are looking for we can help you with the cost.
+
+[Customer 13:31]
+Okay. So what is what is the price of fees? I mean, what is the price
+for both of these courses?
+
+[Sales Agent 13:39]
+Yeah, so we the 8 to 8.4 months of program, right. So that is the post
+graduation certificate. So the price for that is like 1.8 lakh which
+is interest of all tax Okay in this 15,000 would be a reserve amount
+because it is a university program. You are not doing it from Upgrad,
+you will be doing it from university.
+
+[Sales Agent 13:59]
+There is a packing as a platform and helping you with payment access
+right. So 1.8 will be of total fee in the 15,000 would be a reserve
+amount. Apart from that since we can check for quality if you get any
+and rest of the balance you can convert into EMR. You have no per PM
+Canadian. Now this is for 8.5 months of program. When my when I am
+talking about Princi this is 14 months. Okay, that price is 3.2
+5,00,000. Okay
+
+[Sales Agent 14:26]
+again includes the call taxes, 25,000 is the reserve amount and what
+about the difference and
+
+[Sales Agent 14:33]
+between these 2?
+
+[Customer 14:36]
+Apart from the solution duration duration.
+
+[Sales Agent 14:38]
+Apart from that, like in the PG right, you will be actually working on
+lets say if you have chosen data and take as a specialization right?
+So that you will be working on for 29 weeks altogether. But in the
+certificate, since it is 8 months only, you will be working almost
+around ₹12.
+
+[Customer 14:58]
+Okay. So can you please repeat you? What did you say the last?
+
+[Sales Agent 15:03]
+Part you just received
+
+[Sales Agent 15:05]
+in the PG program in the 14 months, right? So that is where you will
+be working on data analysis for almost like 29 minutes,
+
+[Sales Agent 15:17]
+29 weeks through your curriculum.
+
+[Customer 15:19]
+Will be okay Okay. I will miss that part. Okay.
+
+[Sales Agent 15:23]
+Yeah okay I am here when I prefer you to 8.82 8.1 the program you will
+be working on the on the data antique specialization, right? For
+almost like 6 days
+
+[Sales Agent 15:34]
+OK because if you want to learn something into the text you you will
+require sometime Sir. That is the difference. And there you will be
+getting 14 programming tools and languages to cover with Okay. So you
+are here you will be getting 3 to 4 programming sales in India.
+Alright, this is a certificate program 81 that is the PC diploma.
+
+[Customer 15:54]
+Okay.
+
+[Sales Agent 15:56]
+Okay, so you get 22 credits here in the certificate program that you
+are getting services academic services.
+
+[Customer 16:03]
+Okay in that case.
+
+[Customer 16:07]
+I mean is it possible to convert later on in case?
+
+[Sales Agent 16:10]
+I.
+
+[Customer 16:11]
+That can be done, Sir.
+
+[Sales Agent 16:12]
+8 months of program. Once you finish the date month of program okay
+you. If you want to do a PG as well Okay you dont need to invest again
+14 months, just invest 6 months we will get a PG after completing your
+PG. If you want to do a master more of a research work and everything
+right, invest 6 more months. You will get a master of times and data
+size. So that is the flexibility we have here at after.
+
+[Sales Agent 16:37]
+No. See, you are not coming here to expiring your placement. Am I
+right?
+
+[Sales Agent 16:42]
+Are you?
+
+[Customer 16:42]
+Sorry, sorry expediting your.
+
+[Sales Agent 16:45]
+Health not coming here for a transaction or you are not coming here
+for expecting a placement of percentage, right?
+
+[Customer 16:51]
+No, no, no, not placement, no. I am looking at upscaling myself only
+you have been to the new technology because again you know within the
+organization, within my company also there are courses right, But I
+again those are you know property, just the basic levels. So I want to
+get something which I can use externally also.
+
+[Customer 17:11]
+So that is one of the issues that I can come.
+
+[Sales Agent 17:14]
+This is going to be a formal education Sir, because the PG or the
+Masters degree they are doing right. This is globally accepted. So
+this will become a validation on your portfolio as well. So you can
+target international opportunities with the skill set that you have
+once you get a PG or something right. And you will be getting a great
+networking as well here because as I have told you, 95% of the
+learners are working professions. So you might encounter somebody
+whose
+
+[Sales Agent 17:42]
+already a data analyst during this program
+
+[Sales Agent 17:45]
+Okay. So this is where you build up very premium networking as well.
+So we have leaders from the industry by the way we have VPVIDP,
+directors of companies also doing this program. So This is why your
+network and let say if you are tomorrow if you got a deal right and
+you are unable to work unexpected data, you will be getting personal
+investment. I mean certain industry expert I will sit with you and
+they will help you to if you have learned fine periods
+
+[Sales Agent 18:12]
+or forecasting model. So they will help you to understand how do you
+implement that in your real work.
+
+[Sales Agent 18:17]
+Okay. So those kind of things that will be happening and whatever the
+programming tools and languages, it has 3 projects you will be doing
+here right? Definitely you can answer an experience because we will
+outsource your data. You will be given real time datasets that will be
+working on.
+
+[Customer 18:31]
+Okay.
+
+[Sales Agent 18:33]
+Right, so thats how the program is structured.
+
+[Customer 18:38]
+Okay. And just in terms just one thing on the duration, so I know you
+said 8 months, but is there any flexibility that come that is given
+considering again like you know mostly everybody will be working
+people, they will have their, you know, office level priorities also.
+I think that thats one of the reasons why you know I have been looking
+at courses and not picking up anything because I am really not sure
+how how much time I will be able to revote.
+
+[Sales Agent 19:04]
+So here OK what yes we do understand that you are a working person not
+only apart from job you have also responsibility right? Saturday or
+Sunday will be a live session. Is the meat that session that is
+perfectly alright. That will be given you recorded format. First one.
+Second point if you have because you will be having case credits to
+submit assignment to submit. If you are unable to do so in the
+deadline right you can take expansion okay. You will be having 8
+extensions into the program so you can take other expenses
+
+[Sales Agent 19:35]
+for that. You will be having a one point of contact because if a
+university program you cannot directly go to the university and solve
+all your questions right queries some upgrade you will get one person
+who will be a point of contact upgrad party. So you just have to
+request to the person that you know going to work as come up and I
+need an extension. They will give you an expensive Apart from that if
+you are travelling from where is some emergency might come out. We
+live in a very unprecedented baby, right? So anything might sum up
+Okay? You can take a pause in this program.
+
+[Sales Agent 20:04]
+For one month, 2 months, 3 months, 4 months and when you are coming
+back when your things are sorted and you are coming back, you can
+continue from where you left. Now this will not happen any BGPA this
+will not happen anything in the program. Got it. So all the
+flexibilities are very much given into the program considering
+different designs working for.
+
+[Customer 20:24]
+Okay, Okay.
+
+[Customer 20:26]
+I think that really helps, yeah.
+
+[Sales Agent 20:28]
+Yeah, because other programs will not do so, right. Because you have
+to, you know, if if you have to do a case study, you have to submit
+that, right? And you if you are caught in the work then that would
+hamper your 2 GPM debit code, right,
+
+[Sales Agent 20:45]
+right. You can take a pause in the program. So all all that
+consideration like definitely thats why we were able to build 12,000
+in India Plaza, Valley Mirror thats why we have done 75 days batches
+and the course completion date you here is 90%
+
+[Sales Agent 21:00]
+in entire South Asia. You can do Sir, all the programs, all the
+invoice. If you look at the quote compression issue that is below
+6800.
+
+[Customer 21:08]
+Okay do you
+
+[Customer 21:11]
+Do you have courses for students as well or it is are audio courses
+mainly for working professionals only? Because actually the few that I
+saw required some, you know, work experience.
+
+[Sales Agent 21:24]
+Yeah. So after that, we are South Indians lobbying with the company.
+So recently we have made certain acquisition okay campus knowledge,
+Sir. So yes, we do have courses that are for students.
+
+[Customer 21:37]
+Okay.
+
+[Sales Agent 21:38]
+Okay. First, the pedagogy will completely differ from student to
+working process.
+
+[Customer 21:46]
+Okay.
+
+[Sales Agent 21:48]
+Yeah,
+
+[Sales Agent 21:50]
+So what? What kind of one? How many years experience you have?
+
+[Customer 21:54]
+23.
+
+[Sales Agent 21:56]
+23
+
+[Sales Agent 21:57]
+or first premium Sir? Oh thats cool. You will become an answer to
+ourself itself itself.
+
+[Customer 22:02]
+No I so that is another thing, right? Most of your courses require
+only about 2 to 3 years of working experience, so I am going to be
+with youngster SO.
+
+[Sales Agent 22:13]
+What I need is people. People who are.
+
+[Customer 22:16]
+You know, fresh out of college or you know who, who has probably more
+knowledge or more current knowledge than what. You know what I have?
+
+[Sales Agent 22:25]
+See this is where this is the question that often get asked. Okay, we
+have recently prepaid of Adani Dolush Pradhan.
+
+[Customer 22:35]
+Okay.
+
+[Sales Agent 22:37]
+On
+
+[Sales Agent 22:39]
+we have on board a director of cab journey through this program,
+correct. So average program.
+
+[Customer 22:44]
+You are talking about the one which I asked about or generally you are
+talking about the postgraduate.
+
+[Sales Agent 22:50]
+Bangalore I am talking about Okay right? So so all these people they
+come in right. So you will get people with 5 to 20 years of on an
+average of working experience correct. So in the you will be divided
+under small group coaching person Okay 12 to 15 people. So one
+industrial
+
+[Sales Agent 23:10]
+score. They will align one industry expert to your 12 to 15 people
+back. Now in this 12 to 15 batch, you will not be having cashless, you
+will be having people who are similar to that of yours of your
+experience.
+
+[Customer 23:22]
+Right,
+
+[Customer 23:23]
+Okay.
+
+[Sales Agent 23:23]
+Alright, yeah, so that's how the patches are formed in in the small
+group coaching session.
+
+[Customer 23:30]
+Okay.
+
+[Sales Agent 23:31]
+Alright and you will get an access for all our aluminium right? If you
+do a PC here you will get you will become an official aluminium of
+reply to Bangalore right. So definitely you can expect certain other
+work to be done as well. So that depends upon how you how how good you
+are in networking. But definitely you have an access to all the other
+people who Indian grocery from different different.
+
+[Customer 23:54]
+Stuff.
+
+[Sales Agent 23:55]
+Yeah.
+
+[Customer 23:56]
+I think starting fair enough. Thanks for
+
+[Customer 24:00]
+this info. I will await the
+
+[Customer 24:02]
+details over WhatsApp.
+
+[Customer 24:06]
+Is there a timeline by when these courses are starting or is it that
+anybody can join at any time? No.
+
+[Sales Agent 24:12]
+No, no. This is the university program. Not everybody can join at the
+same time. First as a profile check we are going for diploma. There is
+a little eligibility as a need to you know crack and they are going
+for certificate then. I mean all the cards start dates are from
+January 31st,
+
+[Sales Agent 24:28]
+but right now what happens is when you are working on cloud services
+and everything, right, a WS and everything. So we have to release the
+credentials for that. You will get the licenses for that,
+
+[Sales Agent 24:41]
+got it Okay. So all these 2,00,000 has to be given in prior that
+cannot be just happen in one day, right. So all that things are
+currently happening and there is a verification, there is a document
+verification that happened. So we still have 10 more days for that. So
+if you are okay with the program, I mean first I really want you to
+look at it and evaluate
+
+[Sales Agent 25:01]
+and once you are okay with everything, if you are okay doing the
+progress then we can help you with the enrollment process. So after
+that you have to submit the document to the university, they will
+verification will happen. Then you will divide under 12 different
+people that the credential will be released from university, your
+email ID and everything and then the a WR access that will be released
+and you have to complete the preparatory content because you cannot
+directly learn data on this answer you have to brush up your basic
+skills because it
+
+[Sales Agent 25:33]
+it is that is you have learned something like a story correct? So
+basic patterns that all these are required. So you will be having 10
+day in this 10 days you will you will be going to preparately to
+contact Okay. Then your intention will happen on 31st. After that you
+will be having 2 weeks of complimentary Python bootcam. Because Python
+as I have told you, you have to learn and you dont have to worry that
+you are not coming from any programming experience. Python is the user
+thing that you can learn. Yes Sir. For the initial too much you have
+to give little bit of time.
+
+[Customer 26:01]
+Okay the eligibility test. Also please give me details for that what
+is the content or what kind of.
+
+[Sales Agent 26:08]
+Can happen
+
+[Sales Agent 26:09]
+11.6 will be there in that at least you have to get 6 right out of
+that level question. What you will be having is basic algebra Okay,
+permutations, combinations, probability, all these things.
+
+[Customer 26:23]
+Okay so if I dont clear the eligibility test then what happens?
+
+[Sales Agent 26:28]
+You will. You will cancel it. That's it.
+
+[Customer 26:30]
+OK. So then, so there is no cost involved or anything?
+
+[Sales Agent 26:34]
+No cost involved for the application or to sorry to give a test only
+if you are OK to do the program. You just have to make a reservation
+amount 25,000 for the PG 14 months, 15,000 for this 8 month office
+program.
+
+[Sales Agent 26:50]
+Apart from that when you are clearing the balance, when you are paying
+the remaining balance you will given 7 days of time. In this 7 days
+you can figure out whether you are going to go for no cost, EMI,
+standard EMI and everything.
+
+[Customer 27:01]
+Okay okay fine I.
+
+[Sales Agent 27:04]
+Mean
+
+[Sales Agent 27:07]
+I want you to be clear Okay because it is going to be a benefit
+decision for in your life Okay so much can I save your destiny and
+your work flow. So I want you to go through the details first. Okay
+give me a visible time. Yeah give me a feasible time for 1015 minutes
+maam today where you can connect over a virtual call. It is not from
+mobile or laptop as well. And I will help you. I will drive you to the
+you know platform how that happens and everything so that you have a
+clear understanding of how what you are stimulating in time are into.
+Then I will help you with the offer letter and update you about this
+call itself and you can come to your decision.
+
+[Customer 27:43]
+Yeah. So just give me some time. I have to get into a meeting now. So
+I will, I will review and I will get back to you.
+
+[Sales Agent 27:53]
+Okay. Thanks
+
+[Sales Agent 27:56]
+will be okay for the virtual session before 4:00 PM okay so that I can
+I can also schedule.
+
+[Customer 28:00]
+Okay Okay, Sure, sure.
+
+[Sales Agent 28:02]
+Alright, okay, sure. Thank you. Sure, Sir.

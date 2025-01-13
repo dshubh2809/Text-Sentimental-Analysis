@@ -1,0 +1,384 @@
+[Customer 00:01]
+Hello,
+
+[Customer 00:03]
+Yes.
+
+[Sales Agent 00:04]
+Yeah. Good evening. This is Mr Vijay I am speaking with.
+
+[Customer 00:07]
+Yes.
+
+[Sales Agent 00:09]
+Yeah, Hi, Vijayan Kumar website.
+
+[Sales Agent 00:14]
+Yeah. Actually I just wanted to understand you are on the website on
+address. So can you please let me know what you are looking for?
+
+[Customer 00:22]
+I just wanted to know this triple IT Bangalore code.
+
+[Sales Agent 00:26]
+Okay that is 4th graduation Monday.
+
+[Customer 00:30]
+Amanpatra,
+
+[Customer 00:33]
+yes.
+
+[Sales Agent 00:35]
+Yeah. Mr Hasti, there are multiple programs from triple IT, this
+program which you have got.
+
+[Customer 00:42]
+Great of homes and.
+
+[Sales Agent 00:46]
+Okay okay. That is 12 months of program data sanctioning.
+
+[Customer 00:50]
+Yeah its for working professional Sir.
+
+[Sales Agent 00:54]
+Exactly. So if you have any doubts, any queries you can let me know so
+we can go ahead accordingly.
+
+[Customer 00:59]
+I just want to know that
+
+[Customer 01:02]
+the technician or what? What? What what it is called? What? Is there a
+degree? It's a diploma certification, not it is.
+
+[Sales Agent 01:10]
+Okay okay. It will be a certificate, not a degree, but it will be
+recognised with that and you just have to second thing, it will be
+accordingly equal to the diploma.
+
+[Customer 01:21]
+So it is a post graduate diploma
+
+[Customer 01:26]
+and it is recognised by the UGC.
+
+[Sales Agent 01:30]
+Exactly and the best.
+
+[Customer 01:31]
+Also and.
+
+[Sales Agent 01:33]
+That Wes, have you heard about this?
+
+[Customer 01:36]
+You are not. Your voice is little low.
+
+[Sales Agent 01:39]
+Give me a second mam, I will change something.
+
+[Customer 01:50]
+Hello, Sir.
+
+[Sales Agent 02:01]
+Hello.
+
+[Sales Agent 02:04]
+Yeah, Amit. Am I audible now?
+
+[Sales Agent 02:07]
+Okay, okay. I was the same that it will be like recognised by Best and
+certified by UTC.
+
+[Customer 02:15]
+Okay. And
+
+[Customer 02:19]
+what is the duration?
+
+[Sales Agent 02:21]
+That is 12 months of program.
+
+[Customer 02:25]
+Okay. And it will be totally offline means online. Sorry.
+
+[Sales Agent 02:29]
+It will be proper online program. OK? Before like going online, can
+you please let me know about your profile like what experience you
+have, how much?
+
+[Customer 02:37]
+Value Okay Okay,
+
+[Customer 02:41]
+Informatica Data Company.
+
+[Customer 02:43]
+Yeah, I just want to just what else you want to know?
+
+[Sales Agent 02:47]
+Okay if you can let me know about your experience total.
+
+[Customer 02:50]
+Experience Verification 15 years of experience.
+
+[Sales Agent 02:55]
+Okay. And what you have the any new qualification of highest
+qualification?
+
+[Customer 03:01]
+Bachelor of Engineering from Berlin Institute of Technology.
+
+[Sales Agent 03:04]
+Okay. And is there any other diploma, any kind of certificate for
+them? Okay
+
+[Sales Agent 03:11]
+okay. So you are already holding like details of your experiencing a
+15 residential, so you wanted to change or you wanted to upgrade
+yourself into that. Is that particular reason? Or if you wanted to
+learn anything specifically, is there something like?
+
+[Customer 03:25]
+Data, Finance and A I I want to do something in that area.
+
+[Sales Agent 03:30]
+OK, So what you are doing right now like what the role responsibility
+you have to handle, is there any particular software you have to deal
+or anything else?
+
+[Customer 03:39]
+Architect of software
+
+[Customer 03:41]
+You can read informatics where cloud company
+
+[Customer 03:44]
+work on cloud technology and we built traditional software. You know a
+TL,
+
+[Customer 03:51]
+a TL company,
+
+[Customer 03:52]
+so my job is but there is no data science or RTF Student Intelligence.
+I am not working on that area. I am working on a cloud product.
+
+[Sales Agent 04:05]
+Okay okay, specially over there you are working and not any other
+particular software or anything about the data itself, right?
+
+[Customer 04:11]
+Nothing we have Java or developer end to end.
+
+[Sales Agent 04:16]
+Okay. So like, how did you make your mind that you wanted to do this
+or you wanted to learn right now this thing?
+
+[Customer 04:25]
+In my company its called. We are working on a IML things but in future
+it might be required for The Wanted to get some hands on some
+knowledge on that on to understand how it works. Overall everything
+Yes I need a back point I cannot go. I cannot leave my job and go for
+a full time and tech or Ms right now.
+
+[Sales Agent 04:51]
+Yeah, totally. For a working professor, it is not easy to like you
+said, job and continuous start studying
+
+[Sales Agent 04:58]
+Okay. So you can like you already sketch the program which you have
+mentioned. So if you are coming already from a tech background, what
+kind of people are exploring or wanted to learn in a machine learning
+or data science? Because they both are different.
+
+[Customer 05:13]
+Mostly machine learning.
+
+[Sales Agent 05:16]
+Yeah. So which program if you you have said NA that is mostly based on
+a data sense. If you are looking for yourself to upgrade yourself in a
+machine and that is a different program. That is why I just ask that
+what you wanted to learn so I can share you accordingly the details.
+Yeah. So that program including your data science, everything your A,
+I will be covered into that because this program is right. If the
+person is coming from a mounted background or they just wanted to the
+data analyst job or a business analyst, they can do that this thing.
+But if you are looking for a machine running that is a different
+program but from the same university,
+
+[Sales Agent 05:50]
+yeah, but your content curriculum will be more based on MLNA.
+
+[Customer 05:54]
+I want more hands on kind of experience where I can actually see the
+real time products or projects or something similar.
+
+[Sales Agent 06:03]
+To that okay, so can you.
+
+[Customer 06:06]
+Share that one to my email ID that can you pull up I.
+
+[Sales Agent 06:09]
+Will tell you the brushes and how the you are going to be. Get a hand
+on process. There will be a live project will be included in your
+curriculum. There will be a live lecture from details only on
+Saturday, Sunday and your daily basis. They will providing you a live
+project which is also collaborated with the company, not a dummy one.
+
+[Sales Agent 06:27]
+So you are already getting, yeah, on the daily basis.
+
+[Customer 06:31]
+Who will be the faculty for this machine learning program?
+
+[Sales Agent 06:34]
+There will be a triple IC Bangalore University professor and including
+your domain expertise. So you will go into that line industry like the
+knowledge and the WhatsApp companies are doing. What kind of
+requirement are there and for your theoretical ones, universities,
+professors will going to be provided.
+
+[Customer 06:51]
+And one more thing is 12 months is fixed. We have to finish it in the
+12 month or it is flexible that if we are not able to finish it on
+time, we can we can stretch it for more than 12 months.
+
+[Sales Agent 07:04]
+Okay. You are asking about like in case you get any emergency or any
+kind of project if you want to take a break. If I am not wrong, okay
+
+[Sales Agent 07:12]
+okay. So that case you know you can do one thing like in the program,
+any of the program will come there. They will be a kind of different
+things will be provided to the learners. You are. We also noted you
+are dealing with the working professional, so Anita and if you wanted
+to take a break during your program that time you can avail the
+decibel option.
+
+[Sales Agent 07:29]
+So anytime 15 days or more than that, how much time you need, you can
+drop a decoral or you can take that and where you left your program
+you can continue from their end.
+
+[Customer 07:40]
+OK. OK. And what about the exams or any kind of the?
+
+[Sales Agent 07:45]
+How you will?
+
+[Customer 07:46]
+Just decide.
+
+[Sales Agent 07:48]
+Yeah, there will be exams in the program itself, not.
+
+[Customer 07:52]
+For the end of the.
+
+[Sales Agent 07:53]
+Program.
+
+[Customer 07:54]
+Or offline.
+
+[Sales Agent 07:55]
+It will be online proper program which come online. Yeah, update is
+just providing you like the learning portal, your career assistant,
+anything else.
+
+[Sales Agent 08:02]
+But yeah, your program and your certificate which is totally from like
+the university. There is no interfere like from upgraded.
+
+[Customer 08:12]
+So there will be proper exams also plus project also right?
+
+[Sales Agent 08:17]
+Exactly, yeah. And what kind of project? They are busy. What kind of
+faculty? Everything is mentioned over the website.
+
+[Sales Agent 08:23]
+Can you slow that? How much experience you are holding with background
+they are coming from? Everything is over there.
+
+[Customer 08:29]
+OK, thats fine, thats fine. And how much is the cost for this program?
+
+[Sales Agent 08:34]
+OK. So which you have studied like the data science and A I this will
+be cost you from 3,00,000 Twentyfive and the MLNAI program which I
+told you that is 13 months of program which will be cost you 3,30,000.
+
+[Sales Agent 08:48]
+Got it, Yeah, yeah.
+
+[Customer 08:50]
+So I and these dates are flexible right? If I don't want to start next
+month, is it possible?
+
+[Sales Agent 08:58]
+In April of me one batch, no, there will be a one batch in a year
+because every year they will be they will take a one batch so.
+
+[Customer 09:04]
+When is the next batch starting?
+
+[Sales Agent 09:07]
+It will come to the next year only.
+
+[Customer 09:10]
+Right now, is there any batch going on?
+
+[Sales Agent 09:12]
+Yeah, the deadline is already mentioned if you have checked over there
+
+[Sales Agent 09:15]
+on the website, right? How do the application
+
+[Sales Agent 09:20]
+that is 30 March?
+
+[Customer 09:25]
+Okay.
+
+[Customer 09:26]
+So after 30 March there will not be any admission.
+
+[Sales Agent 09:30]
+No, no, no. Before that you can submit your application because there
+will be yeah, I didn't mention one thing before taking the program
+because I know that you are coming from cash background but every
+person and the learners are coming. There will be a prep content will
+be released. So and you can like complete your basis for everything
+related to coding Buffalo learning. We will clear your basis in a
+first like the one month,
+
+[Sales Agent 09:53]
+then your content going to be starting related to your library pools
+and the languages everything.
+
+[Customer 10:01]
+Okay okay okay. Just share that all the details on my mail. I will
+check that and I will get back to you. Okay.
+
+[Sales Agent 10:07]
+Yeah, is this your same number on the WhatsApp or is that you over the
+name?
+
+[Customer 10:12]
+Mail is also fine. I prefer mail. If you can send it on mail okay I
+will.
+
+[Sales Agent 10:17]
+Share you both of there. In case you wanted to reach out to me, you
+can connect on the website Okay.
+
+[Customer 10:21]
+Sure.
+
+[Sales Agent 10:22]
+Yeah, Okay. Thank you.

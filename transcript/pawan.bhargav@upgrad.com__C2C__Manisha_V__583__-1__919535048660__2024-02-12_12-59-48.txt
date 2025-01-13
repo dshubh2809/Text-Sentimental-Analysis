@@ -1,0 +1,970 @@
+[Customer 00:01]
+Hello.
+
+[Sales Agent 00:02]
+Hello, am I speaking to Yamini?
+
+[Customer 00:04]
+Yes.
+
+[Sales Agent 00:06]
+Yamini Kitane Pawan Bhargav, I am calling you from upgrade station.
+
+[Sales Agent 00:12]
+This call is recording the machine learning courses that you are
+enquiring online. So if you say right scientist, speak with the
+rewards process.
+
+[Customer 00:21]
+Yeah, but I want to add my husband also in this call. Can I add a
+constant call?
+
+[Sales Agent 00:27]
+You can do that.
+
+[Customer 00:29]
+Okay.
+
+[Customer 00:29]
+Thank you.
+
+[Sales Agent 00:35]
+The person you are speaking with has put your call on hold. Please
+stay on the line.
+
+[Sales Agent 00:42]
+New Martin ID Kiruva.
+
+[Customer 00:43]
+Vyaktiyon Neema Karen Ye.
+
+[Sales Agent 00:45]
+Loophole. Nalli kisi dare naliye.
+
+[Customer 00:49]
+Giriye AAP jis?
+
+[Sales Agent 00:51]
+Vyakti se baat kar rahe Hain usmein aapki call ko hold par rakha hai.
+Kripya line par Bane rahen the person you are sick.
+
+[Customer 01:00]
+Hello.
+
+[Customer 01:03]
+Hello.
+
+[Customer 01:05]
+He is busy. I will only talk.
+
+[Sales Agent 01:08]
+Okay
+
+[Sales Agent 01:09]
+okay. You talk about in English or Telugu.
+
+[Customer 01:12]
+Both of them.
+
+[Sales Agent 01:14]
+Right Okay. So this is the purpose of this policy, you know. Just
+wanted to understand your profile and most importantly the requirement
+that you are having. So based on your profile and your requirement, I
+can help you with the better understanding about the courses,
+
+[Sales Agent 01:31]
+yeah.
+
+[Customer 01:31]
+So actually right now I am 32 years old. I have done my graduation and
+masters in aeronautical area.
+
+[Sales Agent 01:40]
+Okay.
+
+[Customer 01:41]
+And
+
+[Customer 01:42]
+later I want the consistent processor for 5 years.
+
+[Customer 01:46]
+So I am now I am thinking to switch my software. I dont know to
+continue on teaching and right now job market is good in data science.
+So I am thinking to do a PG course in this Sir.
+
+[Sales Agent 01:59]
+Okay got it.
+
+[Customer 02:01]
+What are my chances to coming to software side? Like will I get a
+proper job like I dont know whether I will have a scope in this field
+or not. I want to know this before joining.
+
+[Sales Agent 02:14]
+Okay okay, got it, got it. So now you have did your masters and
+dehatters in aeronautics itself and you have 5 years of experience in
+which domain each thing? I mean which moment you are?
+
+[Customer 02:29]
+Teaching Assistant Professor for Aeronautical Field itself.
+
+[Sales Agent 02:33]
+Again here, aeronautical. OK got it, got it. So now I wanted to ask
+you, in this 5 years experience plus whatever the 6 years of education
+you have in the center journey, by chance from your end, have you
+worked on any programming languages or any tools like such? No
+
+[Sales Agent 02:54]
+okay any unusable source like Excel or the Python, anything like that.
+
+[Customer 02:59]
+Nothing related to these kind of coding. I did some softwares related
+to mechanical thing like I am just scatter and all.
+
+[Sales Agent 03:10]
+Microsoft Excel.
+
+[Customer 03:12]
+Not Excel.
+
+[Customer 03:15]
+ANSYS A N.
+
+[Sales Agent 03:17]
+SIS
+
+[Sales Agent 03:17]
+got it.
+
+[Customer 03:19]
+Thank you, Madam. She will talk to you.
+
+[Sales Agent 03:22]
+Okay, got it. So I got a gift of your profile now I will. Let me tell
+you what are you offering and hobbies. The program will help you.
+Okay. So first of all, I have a TG program. Yeah, that would
+absolutely pick your profile because me talking about my courses, I
+want to talk about the technology today, your end only getting a
+transaction like from teaching or whatever the XYG government you are
+in. You want a transition
+
+[Sales Agent 03:49]
+and you know whenever you learn any technology. Not I am not talking
+about data phones, any technology for the people, any technology. You
+are a special student of course.
+
+[Sales Agent 04:01]
+And secondly, when you look into the job market today, except to data
+science, there is no other technology which will you know which will
+be easy for you to learn. Because data science today it is very easy
+and getting a job in this market is very, very easy,
+
+[Sales Agent 04:18]
+right, because with there are 100 positions in a company, you hardly
+get 30 to 40 people for that as per todays equation. Okay now
+
+[Sales Agent 04:28]
+speaking about the program. I have a one year program with me. In this
+one year the first 6 months you will be. This is a data size easy
+program that you do from triple IT Bangalore, International Institute
+of Information Technology, Bangalore. This is an easy match to do
+directly from university upgrade will remain as a technical partner.
+Thats it.
+
+[Customer 04:48]
+Okay.
+
+[Sales Agent 04:49]
+So keeping upgrade to triple I to this brand they say, let's talk
+about the technology. In this one year program what will happen is the
+first to 6th month no matter which background you come from. Today you
+are from aeronautics. Even if you tell me that you are from computers
+also for data science, you will be a fresher on you. Because the
+technology itself is new. We cant find people from same experience.
+You people are special to us. So what will happen is the first 6
+months of this course is Yamini.
+
+[Sales Agent 05:17]
+We will be focusing on building the initial levels of data science,
+initial fundamental. So when I speak about the word data sense, the
+first word that comes to our mind is data data. It can be through
+pictures, images or whatever the text, whatever they think. Now what
+will happen is we at least during your education or during your what
+we call this professional journey. You might have used Microsoft Excel
+for your, you know, at least for names or something, right?
+
+[Customer 05:50]
+Correct.
+
+[Sales Agent 05:51]
+Right now if you have an option, Microsoft Excel is one of the primary
+tool for data site. Now what will happen is tomorrow when you go to
+data tribute roles, OK you will be asked to work on small data sets
+and you are also work with ask you to work on bigger data sets also.
+Now what will happen is again I am clearly saying the first 6 months
+you will be working on 3 tours extended
+
+[Sales Agent 06:17]
+and my SQL.
+
+[Sales Agent 06:18]
+You will learn this 3 tools from the scratch from the roots levels.
+Now what is happening is today you are coming from a company technical
+background which is nothing to do with Yoga science.
+
+[Sales Agent 06:32]
+OK now you are familiar with Microsoft Excel. What will happen is
+whenever you download any excel price, if you observe it is covered in
+over and the file MB 6 MB like that that you know you are expected
+only deal with small data set today whatever the school I mean
+university that you are working, the data that you are university you
+contain
+
+[Sales Agent 06:54]
+we have been with excel thats what it. But tomorrow when you ask him
+to work on business data set that is data which is having 2 GB or 3 GB
+of data. OK fine but then your actual cant function. So for reputa of
+excel you are using Python
+
+[Sales Agent 07:13]
+okay and today again I will ask you that it will be an easy journey in
+the initial place only you will be meeting facing some difficulty in
+the beginning stage because if I look through your profile it will
+almost 10 years you left your Academy right? So for you to take back
+to learning or for you to design your timetable and done you require
+some space.
+
+[Sales Agent 07:32]
+Now what will happen is this first to 6 months you will learn
+excellence, counter and sequel from the scratch from the root levels.
+The first 3 months is near whatever the data that you have that your
+company give up, that your teams give. With this 3 tools you will
+understand how can you take data into your pack. The first 3 months,
+
+[Sales Agent 07:54]
+the next 3 months. Once you change the data into your hand you will
+get study. How can you build a model out of that? How can you build an
+application So technically by that time you are completing The first
+to 6 months into this course you are already a data scientist dot
+
+[Sales Agent 08:12]
+okay
+
+[Sales Agent 08:14]
+my swamini. The next 26 months is where you take a specialization.
+
+[Sales Agent 08:20]
+So engineering. You have aeronautics, electronic communications, lot
+of stuff is there. Similarly Data science is a field, Engineering is a
+field, Data science is a field. Here you have 5 different
+specialization. The first one is data analytics. You might be hearing
+about this everyday data needs. Second one is business analysis. OK,
+
+[Sales Agent 08:45]
+71 is deep learning,
+
+[Sales Agent 08:47]
+4th one is natural language property and the 5th one is a data
+engineering. Let me explain you what are the site specifications. I
+will give you a simple idea.
+
+[Sales Agent 08:57]
+So you planning by any chance have you ever used this sticky Zomato?
+Anything like that. Lets talk about Zomato. So
+
+[Sales Agent 09:09]
+you opened your Zomato application and you are searching for some what
+we called Biryani. You are searching for biryani and tomato. So you
+will type for the both biryani in your Zomato where you will say
+whatever the biryani is available in your city they are driving the
+rate is the restaurant hence and everything. This is because of the
+data analysis.
+
+[Sales Agent 09:30]
+The concept of data netics will come here. OK where you arrange the
+data, fix, raise the data amount then done. You have collected one
+biryani from paradise okay. Take an example. Now you are festival
+biryani. By immediate thing what you will observe is on your own
+screen you will get some refundation. How about ordering some double
+card pizza? Also how about ordering coke also right? These
+recommendations and all are part of these learning, which is again one
+of the specialization recommendation system works on the concept of a
+I artificial intelligence.
+
+[Sales Agent 10:02]
+It is your learning data size. A I is also one of the part of it.
+Correct? Now
+
+[Sales Agent 10:08]
+you have added biryani, you are also ordering Coke. If you are only
+ordering biryani, you would have got ₹5 discourse. Now you are already
+Biryani and you are ordering 4%. For that reason, you are not getting
+₹20 discount on total scale value. Now this discount pattern will be
+decided by business analyst. So the business treatment decisions will
+be provided by the business analyst
+
+[Sales Agent 10:31]
+that now you order biryani, you paid the bill, It should be delivered
+to your home in the next 30 minutes. But it took money one hour. And
+the food which you have received is not so nice. So what you do, you
+open the Zomato application and you will file a complaint. So you guys
+type your complaint with a tab bot. There is a automatic bot which
+will reply to your messages.
+
+[Sales Agent 10:57]
+That is because of the Natural language processing which is again part
+of a I. Now this 4 teams are delivering the process for you because
+they are having the data with them. They are having getting the data
+type to tag. This entire data management is taken by data engineers.
+Now let me clear you something very very important. You are doing this
+work for one year where the first 6 months you will learn the basics.
+You are clear with that right? After 6 months into the score,
+
+[Sales Agent 11:25]
+my email ask you a simple question. If I ask you to make yourself in
+Python today, as of now on the scale of one to 10, definitely you will
+rate yourself as zero right after doing the course for 6 months. I
+will not say that you might become a poor, you might not become a pro,
+but at least you will rate work at a certain level. Now even after 6
+months, you will get a same question right yourself in Python of the
+scale of one total. If you are in position to raise yourself 10 or 12
+out of 10 in programming, then you will go to Data engineering which
+is the Sukhi Jagah of all the technical stuff Like you will be doing
+the coding, you will be doing the programs that will be entire
+technical domain technical job. OK
+
+[Sales Agent 12:10]
+if you are waiting yourself 6
+
+[Sales Agent 12:12]
+pahale or even age then you will go to deep lobby or natural language
+processing. Its a even technical roles only where you will do the
+coding and all. If you rate below 51 or 2 or 3 or even zero, you will
+go to business analytics or data health
+
+[Sales Agent 12:29]
+Okay. So actually this is the first to 6 months of this score. My
+customers will give you 2 roadways, I mean 2 pathways. First way
+practice where you will be doing the technical stuff, you will do the
+programming, coding and all that stuff. Second is Varshi Kumar is just
+going to a data analytics for a business analytic floor. You will not
+do any coding. You will be working on some tools like Excel, Power,
+DA, Tableau like that where you take TCS, you prepare reports.
+
+[Customer 12:57]
+Okay got.
+
+[Sales Agent 12:59]
+It if you ask me today Sir, it is no you gave good 6 months of time
+understand the market, research, market, understand what will be
+suitable for your profile and it is fast like this decision can be
+only based on you. In this 6 months you interact with multiple
+industry leaders, you attend lot of webinars, you take lot of flight
+stations. Based on that, and based on your current performance in the
+program on coding and all, you will then decide
+
+[Sales Agent 13:27]
+5 of the specifications are equally important and we will tell you
+equally only what any questions are, queries you know miss you have
+any on the syllabus.
+
+[Customer 13:38]
+OK, so I understood based on how well I could understand the coding,
+how well I could perform on coding, I can go to the relevant.
+
+[Sales Agent 13:47]
+Field
+
+[Sales Agent 13:49]
+exactly exactly, exactly, exactly when it happened. That's what I am
+saying I am asking.
+
+[Customer 13:55]
+Like if I couldnt perform in coding also I have other options.
+
+[Sales Agent 13:58]
+Exactly, exactly.
+
+[Sales Agent 14:01]
+And thats what. And it flashes and leaving the asking for your take
+whatever the specification you have this 56 months also you will be
+completely monitored. You will be completely what we call mentored
+with my industry. So they will also thrive. You give you the giving
+the proper academic training here and then you will take a call. Now
+coming to the structure of the program. So
+
+[Sales Agent 14:25]
+once are you working with Yamu?
+
+[Customer 14:28]
+No, I am not working. I took up.
+
+[Sales Agent 14:30]
+Got it. Got it. So this program for this program
+
+[Sales Agent 14:35]
+for this program is to complete online course you should do from
+triple ITDQ basis. For this program, you are asked to spend somewhere
+around 12 to 15 hours of time per week.
+
+[Customer 14:47]
+OK.
+
+[Sales Agent 14:48]
+How you wanted to spend, where you wanted to spend it on you. We are
+not dictating anytime you need to spend 12 to 15 hours per week. This
+is a blended learning course. That is, you will be attending the
+recorded classes and you will be attending live classes. Okay
+
+[Sales Agent 15:06]
+recorded classes will be handled by the faculty of triple IT
+Bengaluru. Like the way your M Tech or in your Btech you might have
+carried a physical textbook right? Text the book or material or
+whatever the thing here. In case of this you will have a recorded
+video that is a digital stuff
+
+[Sales Agent 15:23]
+okay that is had given by triple IT faculty. So you will go through
+that. Then Saturday Sir Sunday you will have live session. This live
+session you are taken by the industry leaders. So like the way today
+you are having I mean 5 GS of experience people are 10 plus years of
+experience include this vertical right now working in this vertical
+they take the life access for you. So what will happen is in a given
+way you are managing theoretical and practical simultaneously.
+
+[Sales Agent 15:53]
+So you are listening to the same concept but you are listening twice.
+One is from the faculty of Triple IT Bangalore and other is from the
+industry expert. So here you are not missing out on any content First
+one. Second point is this 12 to 15 hours that I am giving for you in
+this vehicle. 15 hours you will attend line, you will attend record
+and you will do your progress. You will do your self preparation also.
+So everything is inclined in this 12 to 15 hours.
+
+[Sales Agent 16:22]
+Sir, this is a partial any question for queries till now.
+
+[Customer 16:25]
+No, no, no, I am clear.
+
+[Sales Agent 16:27]
+To you Sir,
+
+[Sales Agent 16:29]
+Yes, hello. Coming to the most important question. You are doing this
+course for Ram Sushil. Technically reset. You are looking for a job
+now
+
+[Sales Agent 16:39]
+what will happen is first one today when when you ask me like you know
+Pawan, what would the what will the market expect from my profile or
+yield coming from aeronautics. How would I get a transition. There is
+a simple way where you will showcase your hands on experience and
+hands on experience will never come with learn Unity incremental
+technology that is clear you will work on projects
+
+[Sales Agent 17:04]
+right in the beginning of this call today you have used one term that
+I am looking for data science where it is boolean booing in the sense
+what we exactly mean. This technology is you know present in every
+industry, every domain. Tomorrow you move to your aeronautics also
+data science is there you move to some IT industry. Data science is
+there every domain Mein you will see data bank okay. Now what will
+happen in this program is I am giving you a project these projects.
+What is a unique thing is this projects are directly
+
+[Sales Agent 17:34]
+assigned from the industry for you
+
+[Sales Agent 17:36]
+okay. So I will give you a problem statement. Take an example you have
+you have you will have a problem statement from e commerce industry
+like Flipkart. I will I will ask you to design a data science model
+where that model can measure how the yield is performing in a
+Flipkart. So what I will do is I will give you a problem. In one hand
+you will have problem other hand I will give you a data set. What are
+you doing in the program? Is you learning the technology.
+
+[Sales Agent 18:02]
+Cardinally you will apply the technology on a given problem statement
+and you will find a solution
+
+[Sales Agent 18:08]
+that is not a processing right now. What will happen is in this
+program you will work on not less than 10 to 15 projects for sure.
+
+[Sales Agent 18:17]
+In the center course of action you will do 10 to 15 projects and
+tomorrow when you speak with recruiters or when you speak with
+interviewers, these are the saving factors for you because these
+products are some real time projects where you get titles from an
+industry expert. And secondly, even though you come from a different
+alternate background like Aeronautics, you will get some hands on
+experience of you put your you will get some dirt into this
+technology.
+
+[Sales Agent 18:44]
+You have put your hands dirty to this technology. Thats where
+insurance of the recruiters will look into your profile. It is not
+because of the specification that you have done right. Absolutely.
+
+[Sales Agent 18:53]
+Now what will happen? 60% of the weightage in the scores is given to
+this project only and only 40% of the weightage is given to you an
+exam. So what when I mean the exam. What will happen is after you
+complete the average, after you call, after unit, model, whatever.
+After you completed every chapter, you will be attempting multiple
+choice proceedings.
+
+[Sales Agent 19:14]
+So for that you give 40% package and for this we are giving 60%
+weightage. So the total CCPA for the Center One year program will be
+4.0 out of which you need to score at least ₹2.4 60%. Then you will
+get a easy program certification from triple IT Bengaluru Annual PG.
+Whatever you are receiving nowhere my upgrade online distance, part
+time remote, nothing is mentioned.
+
+[Sales Agent 19:39]
+This is the full time easy which is recognised and approved by World
+Education Services. So like the way we have UGC in our country on a
+global level on international standards you have Global Education
+Services. So this is recognized to the World Education Services and
+you can check this PG throughout the globe, not just in India. Got an
+option? Any questions? No, no.
+
+[Customer 20:02]
+No that's what I wanted the certificate for abroad also I have
+
+[Customer 20:09]
+so thats why I am preferring this one triple. IT is a central
+government institute.
+
+[Sales Agent 20:14]
+Exactly.
+
+[Customer 20:15]
+Will be valid if I go on only I am checking for.
+
+[Sales Agent 20:20]
+This one coming to
+
+[Sales Agent 20:22]
+the coming to the lets move to the other side now most importantly why
+are you doing this course correct branch is the outcome job first of
+all right now what will happen is today
+
+[Sales Agent 20:34]
+as a as a beginning of the column I told you that whenever you learn
+any new technology followup profile you will be special to that okay.
+Even though you tell me that you are having some experience in
+computers also for me for data sense you are a fresher. OK now what
+are we doing is first of all we are doing the research. Research in
+the sense
+
+[Sales Agent 20:54]
+we are understanding what type of companies will fit our profile.
+There might be a company which might give you 40, 50,00,000 in the
+beginning or they might not bring their bankers which might give you
+only 2,00,000 in the parking. First of all what we should understand
+what is our requirement and what companies will serve our requirement.
+
+[Sales Agent 21:11]
+Sir, initial 45 months into this course we will do that homework like
+OK if I am entering into data science vertical, these are the
+companies today doing good in the market and if I wanted to target
+this company watch with the road map and everything we are doing the
+research even my industry experts will help you. So you will apart
+from the flight lattice your projects and all the stuff you will also
+you know interact with this industry export on a one on one call. So
+that is where these people also will make you understand what is
+exactly happening in the market.
+
+[Sales Agent 21:42]
+Okay. And if you are doing this course, what will happen to your
+profile in the market? You will get a better picture about that. Once
+you are clear with this limit, then what will happen from the 6th or
+7th month of the program? First of all in the 6th month of the course
+after you completing the initial first 6 months, we ask you to write
+an exam. If you ask me Pavan, is this mandatory? Definitely yes. This
+is called. This exam is called IRE Industry Readiness Test.
+
+[Sales Agent 22:10]
+So what are the basics that you are learning in the Easter 6 months of
+this course will be asked in this exam. OK if you are able to share
+this IRG you can understand that you are good for the Data science
+industry. No you failed in the exam. Even that is very very possible
+for you because you are understanding which are the areas that you
+need to focus, which are the areas that you are good at. You will get
+a picture about that right? Based on this I am t you will get a
+clarity on what the next journey and everything. Then
+
+[Sales Agent 22:40]
+from the 6th month of the program there will be a dedicated students
+of coming career support in assigned for you. What do they do for you
+is they will speak with them. They will listen to your entire journey
+from the day one of your graduation to till date.
+
+[Sales Agent 22:52]
+Based on the center journey we will be creating the profile for you
+which is your resume till now, your profile whatever that you are
+telling me dictating me that profile is nothing to do with data site.
+Right now what we do is we will recreate your profile. We add 50% of
+status to your existing agreement that is your aeronautics specific
+everything and the rest 50% of the weightage is given to the forest
+that you are doing in this program.
+
+[Sales Agent 23:20]
+So we need to profile more visible to the data science industry. Okay
+what such profile is created. You will take the help of tools like
+RGPTATS within the profile builder. We create your profile with help
+of this advanced rules. Once this profile is created then what we do
+is we will share your profile to the companies that we are partnered
+with keeping Triple IT Bilagulu website alien. It's an international
+brand. It means triple ITSI upgrade education. We are also a global
+partner today. We are the South Asias
+
+[Sales Agent 23:52]
+biggest platform. So we will take care of your placement. So what we
+do is out of this currently upgraded or partner with almost 300 plus
+hiring partners, out of the 300 companies that we have, you will
+select some 35 to 40 companies and we will share you a profile for
+them.
+
+[Customer 24:08]
+Okay.
+
+[Sales Agent 24:09]
+Okay, take an example. Tomorrow you got a call from, you know, Amazon
+for a business industry and you have an interview scheduled with
+Amazon the coming Saturday. You have almost
+
+[Sales Agent 24:20]
+7 days of time in the meanwhile. What upgrade will do you is it will
+help you with some mock interviews. Okay.
+
+[Sales Agent 24:28]
+You know whenever you sit in any interview, there will be a separate
+hotel discussion in a technical discussion, right? I mean you might
+have. So what will happen is HI discussion may I mean when you are
+sitting in a technical discussion definitely whatever the journey that
+you have earlier or whatever the domain that you have in today,
+
+[Sales Agent 24:47]
+if they the recruiters of that people will never question about that.
+They only wanted to know what you know in data sense and what you
+implemented with the data sense. So that is why my progress will help
+you your forecast. But when it comes to HR route you have to focus lot
+of stuff. You know you are coming from PC so why would the teacher to
+pick into the data science role or what should be the CTC? What could
+be the designation? Which type of questions will arise in the
+recruiters mind?
+
+[Sales Agent 25:15]
+You will be the person who will pass in those. So that is the reason.
+Before your actual interview begin, we help you with some mock
+interviews. This mock interviews were taken by well srived experts.
+OK.
+
+[Customer 25:26]
+So you will also.
+
+[Sales Agent 25:27]
+Ask you same questions only why should I have you? You are having some
+gap. Why should I consider your gap? Each type of questions only we
+will ask you and we will listen to your answers. We will. It is not
+like I will give you an question and answer directly. I will listen to
+your answer based on the way you answer these applications.
+
+[Sales Agent 25:44]
+I spoke to Divya genuine feedback that Mr Tiammi, these are the areas
+you are already doing good. These are the areas you need to improve
+and we will give you the proper training for that okay. So mock
+instructions will be there. On top of that there is one more
+additional support that we offer for your internals. That is take an
+example, the next Saturday you have an interview with Amazon. We told
+you right now before Saturday, that is by Thursday or by Friday a
+person who is already working in Amazon
+
+[Sales Agent 26:15]
+as a business end list will come and interact with you Okay. So once
+you speak with the person who formed a working in that company, there
+are lot of advantages. First of all you will get to know Okay if I
+sent it in Amazon. These are my Russian responsibilities that I will
+have
+
+[Sales Agent 26:30]
+no coming come in aeronautical background. These are the charges I
+will face differently. You will What will be the charges you will face
+if you are getting selected in Amazon? These are the growth I can
+expect in the next 2 to 3 years. So once you speak with the person who
+is working in the company, you get to know these points. Particularly
+I do do a complete 360 degree research about your job role and then
+only you will be sent for that Amazon interview right
+
+[Sales Agent 26:57]
+Be it any company. I am not only specifying about Amazon beat any
+company, this process will remain the same. So that is why you get you
+get that confidence and you will be able to project your profile even
+though you this program will make you technically strong when you sit
+in front of your executive. This points to mention that is where you
+are putting 100% of effort.
+
+[Customer 27:17]
+Okay.
+
+[Sales Agent 27:19]
+So that's how to interview pattern looks like. Any questions or twice
+
+[Sales Agent 27:24]
+I disturb you jumping into the fee structure. I would also highly say
+about the support that you offer. No matter how much time I discuss
+with you, this is not the traditional learning, this is not how you
+did your graduation, this is not how you did your masters. Here you
+are doing PG completely online and this is a self date learning right
+Calculation in the sense here you are taking time out of your pocket
+and money out of your pocket and doing the program.
+
+[Sales Agent 27:50]
+Try to support this type of ecosystem. We have a dedicated student
+support team for you. So while during this program, whenever you are
+stuck somewhere, whenever you are unable to understand your concepts
+of your queries, you can always show to my students support team via
+an email for a callback discussion.
+
+[Customer 28:07]
+OK if.
+
+[Sales Agent 28:08]
+You observe on the problem now you are speaking with 2 people I mean 2
+bodies one is upgrade and average triple IT. Okay you are doing this
+course with triple IT are upgrade will be a bridge between you 2
+people. So whenever you have questions please also obtain. We will
+understand your queries Based on that we get back to with the reply t
+5% we get your queries clear. Second thing everyday everyday starts
+7:00 AM to 9:00 AM afternoon 3:00 PM to 5:00 PM evening 7:00 PM to
+9:00 PM everyday. We have
+
+[Sales Agent 28:40]
+daily doubt resolution sessions.
+
+[Customer 28:43]
+OK.
+
+[Sales Agent 28:44]
+These were taken by extra leads, subject, neighbor, expert. So any
+given day if you are having any questions or queries you can join the
+call on the same there post your questions and get the solutions.
+
+[Sales Agent 28:56]
+So its not like you need to wait till your weekend to get your queries
+
+[Sales Agent 29:02]
+on a given day itself. You have questions, you join the call, positive
+question, take the solution. Now lets come to the final discussion for
+the day, the fee structure. So the total postponed for the program
+would be somewhere around 3,00,000 fortyfive ₹1000 for the total
+duration out of 325, you know
+
+[Sales Agent 29:19]
+which quotes you do from triple IT. So we will be dropping your
+profile to the university. So based on your eligibility and all, if
+you are getting selected, you will get an offer at from the
+university. So once you receive an offer letter, you will be having
+the P and everything mentioned there where you will be paying ₹25,000
+
+[Sales Agent 29:36]
+good reservation out of 325. Your initial block payment would be
+25,000 right Sir. Once that initial down payment was made, the
+remaining amount whatever that pending that you can convert into EMI.
+Either just if you have that flexibility you can go for one short
+payment else you can convert the remaining amount into EMI So you will
+have a no cost EMI which is for 12 months where the premiuming
+3,00,000 will be paid in 12 equal pass without any interest, no
+additional charges, nothing
+
+[Sales Agent 30:04]
+₹3,00,000 will be paying 12 equal parts with some processing charges.
+Now secondly, if you tell me that.
+
+[Customer 30:10]
+I dont want to go.
+
+[Sales Agent 30:11]
+For higher limits per month you can go for a normal and interest based
+EMA where your tenurity will start from 18 months and you can prolong
+that up to 5 years. So single equation if you are increasing the
+tenurity for your EMI, the amount per month would be decreasing
+implication. That's it
+
+[Sales Agent 30:30]
+Okay. So once you initial down payment was made, you will be given 3
+to 4 days of time. In the next 3 to 4 days you will be deciding and
+how you wanted to close your remaining balance. And once you get it
+on, we will be helping you with the renewing EMI process and all. And
+the program which I am discussing right now with you on the call now,
+this is starting by February 15th. You might have seen in my website
+also Okay printing text, This is the spring seat right? If you have
+apparently International University, we have insult policy, you know
+about that right? Per year
+
+[Sales Agent 31:02]
+we only have this call printed which will start in July or January.
+
+[Sales Agent 31:05]
+Here we have special call first right now let me check again Sir. What
+I will do is I have your mobile number and email registered here from
+you. I will send you a program details the brochures and everything on
+the given WhatsApp and email. What I would request is you tell me the
+time that you will be available today if you want your husband to be
+on that call. Actually I want it to be so whenever you and your
+husband will be available today latest once connect on it. Google his
+call. Okay.
+
+[Sales Agent 31:32]
+Wait, I can tell you you are saying something.
+
+[Customer 31:36]
+No, no, continue.
+
+[Sales Agent 31:37]
+Right so where I can present my screen and I can show you the demo of
+the program. Once you attend the demo you will first know what am I
+offering for you. See at the end of the day my privilege or the time
+you spent for this program will be the secondary aspect. First of all
+its a project which I am offering for you. Is it really fitting your
+requirement is the primary question which you should ask yourself. Sir
+lets have a discussion on that product. Let let me show you what
+subject I am offering the package to the project, the case there is
+and everything. Once you attend that if you feel your power disease
+fitting my pocket then
+
+[Sales Agent 32:09]
+I mean this is fitting my requirement. Then lets discuss about the
+pricing on the detailed amount and we take a informative call, revert
+the thing right.
+
+[Customer 32:16]
+Okay.
+
+[Sales Agent 32:17]
+Right. So when do you think you will be available for the demo? Call
+this family.
+
+[Customer 32:22]
+Is it possible at 8:30 PM today?
+
+[Sales Agent 32:25]
+Definitely, definitely I can do that. So I will block your calendar.
+Lakshmi, at 8:30 today, I will share you a Google meet invite. I will
+drop you. So this number that I am speaking right now with Yami, is it
+the same number you are asking on WhatsApp?
+
+[Customer 32:38]
+It's not there in WhatsApp.
+
+[Sales Agent 32:41]
+You get that? Yeah.
+
+[Customer 32:43]
+Can I tell now?
+
+[Sales Agent 32:44]
+Yeah, please.
+
+[Customer 32:46]
+7799.
+
+[Sales Agent 32:48]
+7799.
+
+[Customer 32:50]
+410.
+
+[Sales Agent 32:53]
+774410
+
+[Customer 32:56]
+415.
+
+[Sales Agent 32:57]
+415 OK, got it. I will drop you the details on your email and your
+WhatsApp. Please let me disconnected at 8:30 today. And in the
+meanwhile, if you find someone who are interested in doing this
+courses to upgrade, you can refer this program for them, right?
+
+[Customer 33:12]
+Yeah sure. And one more thing Sir, 2 courses here. One is postgraduate
+program for data science and layer. Another is for machine learning
+and a I.
+
+[Sales Agent 33:22]
+Like.
+
+[Customer 33:22]
+What is the difference between these 2?
+
+[Sales Agent 33:24]
+And what is the for you Data science would be the right app. Machine
+learning and al you can end to and technical course where it is again
+one of the subset of data science only. So what will happen is if you
+are going for machine learning and a I it would you should be in a
+position to rate yourself in programming on the somewhere around 6 or
+7 today itself.
+
+[Sales Agent 33:48]
+It would be completely difficult. Instead of you starting from level 5
+or level 6 directly start from level zero.
+
+[Customer 33:55]
+Okay.
+
+[Sales Agent 33:56]
+Like you can upgrade.
+
+[Customer 33:58]
+It later after this course.
+
+[Sales Agent 34:00]
+So it is not updating whatever the syllabus that you have seen in that
+machine learning and area. It is again presently data plans only same
+syllabus.
+
+[Sales Agent 34:09]
+It will be a bit easy for you to learn this syllabus than the other
+one. Thats it. That is the reason I have recommended data French.
+
+[Customer 34:16]
+Okay.
+
+[Sales Agent 34:17]
+Right, right
+
+[Sales Agent 34:19]
+and as I told you right If you are going for machine learning and a I,
+you should only talk with coding related roles after completing the
+program. This program will help you to other go for a technical source
+or techno functional goals also
+
+[Sales Agent 34:32]
+right? Yeah.
+
+[Sales Agent 34:35]
+So last question, Miss Yami Neham, what is the university that you are
+working? I mean the last work university?
+
+[Customer 34:41]
+In Bangalore Dayanand Sagar College.
+
+[Sales Agent 34:44]
+Okay,
+
+[Sales Agent 34:45]
+Diamond Sagar, okay. Got it, got it done. I will just let us consider
+VCP.
+
+[Customer 34:51]
+Today.
+
+[Sales Agent 34:52]
+Thanks. Thank you so much for that. Yeah, done.

@@ -1,0 +1,799 @@
+[Sales Agent 00:01]
+Hello.
+
+[Customer 00:03]
+Hello.
+
+[Sales Agent 00:04]
+Hello, Sir. Hi, Rupam here. Hi, Rupam. Yeah, I missed your call. I was
+just on boarding peoples.
+
+[Customer 00:10]
+You know the Yeah.
+
+[Sales Agent 00:12]
+So I was just on boarding a working professional. Yeah, please tell me
+I actually said the same program detail over details over email and
+WhatsApp. Did you have a look at this?
+
+[Customer 00:22]
+Yeah I didnt get time but now I am looking at on it. Can you do the
+same? I will. I will.
+
+[Sales Agent 00:28]
+Give you a little bit of brief as I was telling you earlier, but
+before that any specific questions you would want to ask, anything
+specifically you would want to know because I am sure Ayush has
+already communicated as he has given information.
+
+[Customer 00:43]
+Some of the things but I didnt get the proper instructions about the
+course so thats why I am asking you.
+
+[Sales Agent 00:50]
+Yeah, right. Okay, okay. So anything specific you want to know or
+should I give you like but first?
+
+[Customer 00:57]
+Of all there is, there is a question from my side. Please tell.
+
+[Sales Agent 01:00]
+Me the insurance.
+
+[Customer 01:03]
+Process
+
+[Customer 01:03]
+that if I am from
+
+[Customer 01:06]
+a non data science site
+
+[Customer 01:10]
+I have to keep my career. Will they teach?
+
+[Sales Agent 01:12]
+As from the scratch.
+
+[Customer 01:15]
+From the basic or not?
+
+[Sales Agent 01:19]
+Gender teeth from basic tuning.
+
+[Sales Agent 01:24]
+Pardon will will. No, no. What is the question? I cannot.
+
+[Customer 01:28]
+Hear you clearly,
+
+[Customer 01:30]
+I am saying that I am from non data science side. I have to switch to.
+
+[Sales Agent 01:34]
+Data Science.
+
+[Customer 01:36]
+So will I spectral teacher? Will teachers?
+
+[Sales Agent 01:40]
+From the basics from the scratch yeah absolutely. And see frankly
+speaking SPK data sciences for people coming from non tech people,
+those who are working in the core KO tech domain right For them its
+artificial intelligence and machine learning right. So who are semi
+related to the technical domain like somebody like you, a profile like
+yours. They teach everything from scratch. If you have just or even if
+you havent opened the curriculum, the first topic in the first module
+is introduction to Python.
+
+[Sales Agent 02:12]
+Okay, first you get introduced to these data tools. It's like Python,
+SQL, advanced excel, right? You understand the library. So libraries
+is like a technical term, but the normal meaning is your in which
+formalise, right? So pythons in built formulas are NUM Python does
+right? So you understand those first. Then you understand how data can
+be analyzed and visualised using these programming tools and languages
+in the data science and a I industry, right? Then you are gradually
+moved to understanding the relevancy of these in both the domain data
+and a I.
+
+[Sales Agent 02:49]
+Okay. Then you will move to that. This is all your analytics. Then you
+will move to the statistics part of the program, which is your machine
+learning, where you will get introduced to regression, where you will
+understand support vector machine. You will understand clustering,
+right? How to group elements, right? All that will be done. So starts
+with analytics from scratch,
+
+[Sales Agent 03:09]
+then statistics after that and this goes on for 6 months. Okay. Then
+in the 7th month not technically 7th month. At the end of 6th month
+then you will choose a specialization like have you opted for M tech
+or MBA or any. So you know right in the first year you study about all
+the aspects of management in MBAUSI mean second year you decide
+whether you want to do your MBA and Chennai and S or marketing HRIT
+right. So Sneha Mein data sciences, the vast domain, it is divided
+into 5 sub domains.
+
+[Sales Agent 03:41]
+There is artificial intelligent self machine learning, there is data
+analytics, there is business analytic and there is data engineering.
+Okay, so in the 6th month you decide at what level of technicality you
+are able to understand and you see yourself in future working. There
+are career coaches also who hold experience about 18 to 25 years who
+will be helping them understand, who will be helping you understand if
+there is any doubt or very like for example your friend hes got a
+transition in the same company
+
+[Sales Agent 04:11]
+to a new role, correct? So he is got a proper, proper career
+transition through the health of those
+
+[Sales Agent 04:18]
+career courses. So he decided
+
+[Sales Agent 04:23]
+proper the one, the specialization that he wanted to go for right?
+Same way wherever your area of interest like if you dont want to get
+into ******** coding or ******** technical role, no 2000 artificial
+intelligence and machine learning specialization which is your deep
+learning and NLP, okay. If you are interested in techno functional
+roles while you are sitting and analyzing and visualising data,
+producing a final output based on the business requirement, right? And
+that could be in any industry, healthcare, pharmaceutical, financial
+technology core IT, right?
+
+[Sales Agent 04:54]
+So because data, every industry data driven today, right? And
+everybody is switching to these analytical skills, right? So there is
+n number of opportunities there. So if you want to do a techno
+functional role like that, which is you know, like see data and a I is
+the most secured job today, right? And keeping in mind the future also
+it's the most sustainable industry, right, Keeping in mind the future,
+right. So from that point of view, if you dont want to do any ********
+coding, programming, working on building or creating something, go for
+data analytics or business analytics. Business analytics is more of a
+business revenue generation role right?
+
+[Sales Agent 05:29]
+Financial technology company data analytics is based from project to
+project, service line to service line, domain to domain, industry to
+industry. You perform based on the business requirements right? If you
+are more inclined towards cloud, in cloud a WS Big data you become a
+data engineer. So you get cost 5 months, 5 to 6 months to decide.
+Understanding the fundamentals. You understand analytics, you
+understand
+
+[Sales Agent 05:55]
+******** technical. Then you decide where you want to move
+
+[Sales Agent 05:59]
+okay then in the 6th month when you choose your specialization, next 6
+months will be a detailed study in your specialization. Thats why you
+will complete your 12 month that is one year of postgraduate program
+which is your postgraduate diploma equivalence from triple IT
+Bangalore. Which placement support. Okay so either you speak to your
+same company and you switch, get a transition like you could read it
+or the statement support provided. If you are open for a job change
+right, or relocation or anything, whatever is your preference, you go
+for that.
+
+[Customer 06:33]
+Okay.
+
+[Sales Agent 06:35]
+Yeah, yeah,
+
+[Sales Agent 06:38]
+okay, okay. Now I will take you to the admission process and the fee
+structure. Anything specific before that?
+
+[Customer 06:45]
+Can you please explain me the browser which you have sent to me?
+
+[Sales Agent 06:51]
+Can I see what?
+
+[Customer 06:53]
+Can you explain me the vouchers which you have sent to me on WhatsApp?
+
+[Customer 06:57]
+What are they?
+
+[Sales Agent 06:59]
+Yeah. So see I have said I have checked 3 TDFS with you, 3 or 42 PDS
+is for you to go through. There is Courier transmission hangout
+basically you are tied up to triple IT since 2015, right. So since
+then up until 20:23, what kind of what kind of transition people have
+got, what kind of hike, what percentage of hike hi is package growth
+all of those details are that for you to go through,
+
+[Sales Agent 07:26]
+okay. There are couple of alumnis who have given interviews on
+channels and everywhere, right, because of certain
+
+[Sales Agent 07:36]
+company reviews, right? Like see there are couple of companies that
+actually have their employees regularly on boarded with triple IT
+every year. That is Deloitte, Legato, BM Ware, HAP Global, right?
+There are couple of companies like HDFC Excise, right? So these
+company employees have specifically given interviews out there after
+the transition in or outside the company.
+
+[Sales Agent 07:59]
+So those 2 Pvs are for you to go through. There is a sample ML degree.
+One of our learners attended attended the conversation of the masters
+degree, machine learning and a I right? Thats from the same
+university. If you articulate from PG to masters later on, after a few
+years this is what your degree will look like. Okay, then in data
+science, 2 programs are there. What I told you is the 12 months, one
+year of postgraduate diploma equivalence program
+
+[Sales Agent 08:27]
+and the PDF above that is the Masters, Masters of Science and Data
+Science. That is a globally recognized masters degree in data science
+with placement opportunity overseas as well if you are open to
+relocate.
+
+[Sales Agent 08:42]
+Okay, so that is from Liverpool Johnwood University located in London.
+
+[Customer 08:47]
+Okay, yeah.
+
+[Sales Agent 08:49]
+So that is it. So you want to start with the postgraduate program,
+right? The 1200, right? Yeah, So about that, yeah, about that. That
+one only is divided into 2, first 5 and a half months and then next 6
+and a half months, okay, Fundamental study, then specialization study,
+your capstone project, final exam, I am done, okay. Placement starts
+from the first month itself as in not your interviews. Okay,
+
+[Sales Agent 09:16]
+first 6 months of the program you will get access to a job portal.
+Internal job portal that is created because of 2 staffing agencies,
+Recruit India and Wolves India which takes care of your placement. OK,
+so there are 300 plus direct vacancies listed on the portal. For 6
+months you will decide which companies, which roles, which packages
+you want to apply for. Okay. Then 6th and 7th month they will work on
+your profile. Basically they will start with your linking with the
+help of a I. They will structure your LinkedIn account on real time
+basis. They will give you assistance on your deserve and cable
+profiles as well
+
+[Sales Agent 09:51]
+because the software portal that you can work on different different
+projects with other people. People can score you on your project,
+okay,
+
+[Sales Agent 09:58]
+And then your Regimer will be worked on. Preparation for technical
+rounds will be given and after that you will have yeah. After that you
+will have a mock interview directly with hiring manager.
+
+[Customer 10:12]
+OK.
+
+[Sales Agent 10:13]
+So that you get a proper proper preparation before you start your
+first interview. Alright, so this is what will happen. You will be
+fully here because the interview call first that although the duration
+of the program is 12 months and the
+
+[Sales Agent 10:27]
+your systems is given till 6 months after the program also but your
+first interview call starts from the 9th month itself. Please remember
+OK because university fees you are a working professionals right? So
+there is no need to wait for an offer letter after the program
+completion. You all should have at least 2 to 3 authorises in hand
+before the program complete so that you can decide okay, these are the
+kind of packages I am cracking. This is what I want to aim for. So
+either if there is something satisfactory you put down your paper
+software notice. And start up with the opportunity immediately right?
+I mean as you complete your notice. Or you have take the advantage of
+full 6 months
+
+[Sales Agent 11:04]
+career assistance till after the program completion is also given.
+Thats up to you.
+
+[Sales Agent 11:11]
+Okay that way
+
+[Sales Agent 11:13]
+any doubts or queries related to this?
+
+[Customer 11:17]
+Yes, I got to be like about some boot camp policy during some kind of
+boot camp.
+
+[Sales Agent 11:24]
+That is the priceless food can be that is a Python bootcamp. So that
+is that is something I will tell you when we discuss of the structure
+right So 15 yeah, one step at the time I will tell you. But okay theek
+hai since you ask I will tell you see now the batch is starting on the
+particular batch is starting on month end right now what will happen
+is
+
+[Sales Agent 11:46]
+immediately the first week in your classes will not begin of the first
+module. You have a complimentary life Python boot camp, which you will
+get access of now outside if you do a Python certification, it charge
+it charge about 20 to twentyfive 1000 as far as I know right
+
+[Sales Agent 12:01]
+now here with triple IT every learner. Although Python is included as
+the programming language in the program, right? But before you begin
+your first module, there is a live Python bootcamp that is given to
+you. So on day one you will be registering for that and the first 7
+weeks that is your entire March and first 10:50 days of April, you
+will have live lectures on Python And its library every weekend for 22
+hours.
+
+[Sales Agent 12:27]
+That is almost 8,00,000 Sir. Okay, so you will understand Python And
+its library thoroughly. Then when the curriculum begins, right? It
+will be easier for you to start off from there. Analysis and
+visualization using Python SQLW. You will have a proper property like
+a refresher.
+
+[Customer 12:44]
+Okay.
+
+[Sales Agent 12:45]
+So that Python boot camp is for one and a half months. So technically
+your first module will start from 12 to 13th of April. Before that you
+understand Python. That is what is given
+
+[Sales Agent 12:57]
+as complementary. Okay, Yeah, yeah.
+
+[Customer 13:02]
+The main course is the top 12 to main 4.
+
+[Sales Agent 13:06]
+1000 tomorrow your main first module 4th the Python boot camp is part
+of the program because we are giving you complementary, right? So that
+is part of your program, right. But what I meant is like the first
+module like we have a syllable right? You have something as a
+refresher that pre programmed preparatory content you go in Hindi also
+
+[Sales Agent 13:26]
+yeah yeah I mean if you are comfortable lets find I am comfortable in
+okay perfect perfect okay great. So then first 7 days to rahega usmein
+aapka Python boot camp hai fir Jake pahala module start hota.
+
+[Customer 13:39]
+Hai.
+
+[Sales Agent 13:40]
+Theek hai theek hai theek hai theek hai
+
+[Sales Agent 13:42]
+alright and then aapka final transcript bhi triple IT se hi aata hai.
+When the program complete first convocation university Mein hi hota
+hai toh Agar AAP travel kar sakte hai ya AAP already Bangalore Mein
+hai toh AAP Jake convocation attend karke passing certificate le sakte
+hai
+
+[Sales Agent 13:58]
+If not AAP who Courier ho jaata hai ghar pe Jo address provide karte
+hai theek hai alumni status bhi aapko triple IT ka milta hai.
+Faculties bhi aapke triple IT ke hai free ko one ka ratio hai for
+every 3 faculties from university aapka Ek industrial hota hai to
+faculties aapko knowledge provide karenge and
+
+[Sales Agent 14:19]
+and it is a working professionals hai woh knowledge ko practicality
+Mein jaise apply karna hai woh industrial express bataaenge.
+
+[Customer 14:27]
+Okay.
+
+[Sales Agent 14:31]
+Theek hai toh aisi hai aapka learning format hai aur jab lecture start
+hoga na abhi dekho Python board ke hum toh do do ghante ka hoga for
+the first 7 weeks lekin ye pahala module start hoga toh weekend ke
+chhah ghante ka live lecture hota hai. Toh Agar maan lo easy talk Agar
+easy module hai. Jaise pahala data tool kit is kind of easy. So what
+is Saturday ko hoga chhah ghante ke liye do break ke saath theek hai.
+Classes morning to afternoon Mein hi hoti hai. Evening night Mein
+continue hoti hai theek hai
+
+[Sales Agent 14:58]
+aur Agar maan lo jaise top module ko and you know you need few days so
+aise Saturday or Sunday Mein 33 hours ka divide ho jayega theek hai
+woh aapko 10 days prior intimate kar diya jaata hai so that you can
+make your plans and everything accordingly theek hai
+
+[Sales Agent 15:14]
+And during the weekdays self study hai. So basically ye faculties or
+industry expert hai. Green room Mein 45 minutes to one and a half hour
+ka electric suit karte hai. Jo aapki portal pay upload ho jaata hai
+starting of the week Mein
+
+[Sales Agent 15:27]
+thik hai and vaha se you have to vahan se you have to go through it to
+ya toh AAP poore 5 days 35 minutes nikalo right ya fir Ek Wednesday ko
+AAP dhaai ghante nikalo dedh ghante Friday ko nikalo. Thats up to you.
+AAP woh kaise go through karte ho par wo Ek continuous flow of
+learning hona chahiye kyonki dekhab data science theoretical domain
+toh hai nahi Ki Saturday Sunday padh le aur ho Gaya right thoda
+continuous learning bhi chahiye right? If you need a proper proper
+transition
+
+[Sales Agent 15:53]
+interview me you have to deliver right? Jo AAP seekh rahe ho that you
+have to deliver also right? So isliye and yes overall Agar AAP mujhe
+puchhoge to Ki kitna ghante Mein invest kar raha Hoon to in a week AAP
+barah se pandrah ghante invest kar rahe jismein se chhah ghante aapka
+weekend hai theek hai module to module Ek module Mein barah ghante bhi
+ho sakte hai pehle dedh mahine second module Mein ho sakta hai pandrah
+Tak chale jaaye right jab dedh ghante K pre recorded lectures honge
+AAP ye hai aapka learning SAB Sir now uske baad aapke live doubt
+clearing session hote hai toh sirf doubt resolve karne ke liye hote
+Hain
+
+[Sales Agent 16:25]
+to wo pure 7 days hota hai. Morning 7:00 to 11:00 AM evening 8:00 to
+10:00 PM to kabhi bhi aapko doubt ya query hai right aapko bas mujhe
+AAP note down kar Lena Jo bhi doubt ya query hai. When you are going
+through the curriculum aapko Google karne Ki jarurat nahi hai. Next
+weekend live lecture Ki wait karne Ki jarurat nahi hai. Har rose
+morning or evening Mein ye teen ghante subah do ghante shaam ko doubt
+clearing session hota hai. Jab bhi bhi aapko time milata hai 51015
+minutes ka depending on kitna bada ya chhota aapka doubt hai. Get into
+one of these sessions, ask your questions woh poora answer karenge Ek
+faculty hamesha present rehta hai
+
+[Sales Agent 17:01]
+and you can come out of it theek hai Sir technically before the live
+learning aapki rose ho gayi Agar AAP chaaho to right If not based on
+your convenience just doubt your query who get into one of these
+sessions explanation law and come out of it. Thats how feasible it is.
+Theek hai. Now
+
+[Sales Agent 17:17]
+I will tell you about the admission process and the fee structure
+before that. Anything else specifically? After which puchhment?
+
+[Customer 17:23]
+No, no abhi koi.
+
+[Sales Agent 17:26]
+Perfect dekho. Admission process? Yeah, admission process aapko
+
+[Sales Agent 17:31]
+referral code to already hoga na aapke paas
+
+[Sales Agent 17:34]
+aapki sankhya.
+
+[Customer 17:37]
+Ayushman bataya kuchh referral vagairah hai but kaise use hona hai kya
+wo thoda mujhe kuchh.
+
+[Sales Agent 17:41]
+Inform Fill karte hai dekho AB university ka program hai AAP jab apna
+bachelors karne Gaye honge to university ne koi aapko fees Mein
+deduction to diya nahi hoga unless you are some minority or something
+correct? So us cases Mein so abhi kyonki online format of learning se
+university apna course karati hai toh Agar aapki Ki alumni ko jaanate
+hai right? Only in those cases so aapke fees Mein se kuchh Kam fees
+kuchh Kam ho jaata hai
+
+[Sales Agent 18:05]
+thik hai jyaada difference nahi padta hai but Ek advantage rehta hai
+rather than Jo log normally admission lete hai theek hai toh AAP
+application form jab hum fill karenge usmein ayush ka referral code
+pincode karne aane pahle Mein aapko nap karungi ayush ke andar fir
+aapko referral code use kar Lena toh application form Mein hi lagta
+hai. Agar vahan se miss ho jaata hai toh then AAP referral advantage
+nahi le paaoge theek hai. So aapka Jo student portal create hoga
+
+[Sales Agent 18:32]
+university or upgrade K end se usi pay aapko kitna fees waive off ho
+Gaya hai woh dikh jata hai. Usually I have seen 15
+
+[Sales Agent 18:41]
+to 20,000 K business fees Kam hota hai postgraduate program ka I think
+15,000 is Jahan Tak mujhe Pata hai par wo hum application form fill
+karte hai dekhenge total fees of the program aapka 3,00,000 twentyfive
+hai Okay jismein se Agar aapka application accept hota hai initially
+toh AAP 25,000 admission fees karenge pahle aur baki ka fees ka PMI
+Mein convert kar sakte ho
+
+[Sales Agent 19:04]
+within 6 days ya fir wine cart Mein pick up at your credit card matlab
+jaise aapko feasible hai theek hai initially 25,000 AAP pay karte ho.
+Thats triple IT online offline of the admissions key sale Mein theek
+hai application process ke liye pahle AAP application form fill karte
+ho AAP direct pay triple IT ka aur fir Ek selection test hota hai.
+Jisme starting criteria is there minimum because university a triple
+IT is a big name right? So obviously we would not want key people just
+come and take the admission. So what Sir intense janana chahte hai Ki
+AAP matlab proper transition leke ka paaoge Ki nahi toh they have a
+normal selection test
+
+[Sales Agent 19:39]
+jisme logical reasoning and aptitude ka mix sort of questions rehta
+hai and what ko clear karna hai uske baad Admissions committee profile
+review karti hai based on your experience test and IS qualification 75
+feet per batch hota hai. Agar usmein se aapka profile suitable hai.
+Aapko immediately offer letter AA jata hai admission letter okay sub
+track aapka student portal pay aapko poora admission fees kitna pay
+karna hai tuition fees kitna hai wo SAB aapko visible ho jaata hai
+aapka Jo personal portal.
+
+[Customer 20:07]
+Okay.
+
+[Sales Agent 20:08]
+Thik hai, that is the whole process.
+
+[Customer 20:11]
+Toh main jaise Agar jaisa aapne test ke baare Mein bataya abhi mere ko
+in case clear nahi Hua.
+
+[Sales Agent 20:18]
+In case.
+
+[Customer 20:20]
+Rule rehta hai.
+
+[Sales Agent 20:20]
+Nahi toh dekho uske do chances hote hai. Sir theek hai test lene ke do
+chances hote hai pahle Mein maan lo Agar clear nahi hota hai to as per
+policy in my difficulties nahi hai AAP khud hi dekhoge but even
+otherwise Ek program expert rehte hai woh answer khali matlab sacche
+obviously who AAP hi ko clear karna hai
+
+[Sales Agent 20:36]
+right? But then Agar kisi question Mein AAP attack Gaye ho toh. He can
+assist you with it. He can help you understand the question. But I
+have not seen any commerce background ke bhi log matlab Jo banking
+Mein kaam karta hai unhone bhi clear kiya hai toh. I dont think so
+aapke liye isamen difficult hoga
+
+[Sales Agent 20:52]
+Thank you haan AAP matlab software engineering se belong karte ho. So
+I am hoping I am back you to attempt the address Mein the age to clear
+hoi jayega AAP usaka attention Matlab okay theek hai and plus aapka
+advantage bhi to hai na AAP reference se aaye hai na to usme higher
+kahaan pe aapka application kyon my first rehta hai jisame log refer
+Hoke aate hai application kyon Ek Jo hota hai toh usame pahala
+preference referrals ko diya jaata hai
+
+[Sales Agent 21:19]
+theek hai usmein you shouldnt have a problem at all theek hai. So
+Maine aapko details hai poora send kar diya first. Now tell me one
+thing abhi na 6 seats ka left ye vala batch ke close hone ke liye. I
+want to know from you kyonki I wish ko reference team Mein call kiya
+tha right
+
+[Sales Agent 21:34]
+AAP isase pahale se close Hua aur scholar should be waive off for that
+toh usase pahle hum application form it will fill kar lete hai.
+University ka await karte hai jab wo update karti hai toh application
+form aapka fill karna chahte ho.
+
+[Customer 21:46]
+Maam Ek do din Mein kar lete hai.
+
+[Sales Agent 21:50]
+Kal Karne
+
+[Sales Agent 21:51]
+kyunki Sundays we dont work Mondays or Thursdays for credential
+release hota hai right aur chhah hi seats hai so I dont think you will
+just se ooper woh bache hi right so Agar hum.
+
+[Customer 22:05]
+Thoda Monday ko de sakte hai maam.
+
+[Sales Agent 22:08]
+Sunday ko AAP free nahi rahoge if not tomorrow.
+
+[Customer 22:12]
+No, I will not see tomorrow that.
+
+[Sales Agent 22:14]
+Time half at nahi Sunday bol rahi Hoon main half an hour ke liye login
+kar sakti Hoon Sunday ko kyonki dekho Ek advantage rahega kyonki Agar
+cheese aata hai na to AAP automatically reference to rahega hi ayush
+ka lekin aapka next batch Mein kuchh hota hai aur aapko I am not sure
+ayush Nagar bataya Ki main AAP unse pooch lo.
+
+[Sales Agent 22:32]
+Every financial year fees increase hoti hai abhi jaise last year
+financial year se pahle 2,00,099 tha see or AAP bhi dekho it is
+3,00,000 twentyfive post financial year 3,00,078 pay shift ho raha hai
+
+[Sales Agent 22:42]
+to uske baad Vale back Mein fir aapka seat bhi badh jaata hai.
+
+[Customer 22:46]
+Ji maam to.
+
+[Sales Agent 22:48]
+Us hisab se toh main kaam karati Hun main aapko Kal Ek baar pin karati
+Hun. Okay you let me know There are pandrah minute nikaal sakte ho toh
+theek hai. Nikaal mujhe Sunday ka time do main apna bhi Ek baar dekh
+lungi mere kya appliances K according Ek 2015 minutes se ooper nahi
+lagta hai 1520 minutes ka buffer time nikal ke at least hum
+application fill karke chhod denge theek hai kyunki main charge
+vagairah proceed jaise karoge na to Monday ko credential a jaata hai
+uske baad sing karne Mein bhi profile line lagta hai
+
+[Sales Agent 23:16]
+hai na kyonki 93 days ka policy ko aata hai. Usase pahale Agar seats
+close ho jaate hai okay toh koi matlab hi nahi banata fear.
+
+[Customer 23:25]
+Issi aur Gandhi Ki mere ko thoda sa
+
+[Customer 23:28]
+theek hai maam jaise AAP kya nahi chaliye hum is tarike se maam Parson
+ko chat jaise AAP kahe koi time AAP nikaalenge abhi kuchh.
+
+[Sales Agent 23:34]
+Karunga maam aur.
+
+[Customer 23:36]
+Hum incident Ki bharatiya hai theek hai maam who matlab activation
+bhar denge condition
+
+[Customer 23:41]
+fir ye mera Jo website pay code dikha raha hai woh 29th February dikha
+raha.
+
+[Sales Agent 23:46]
+Hai.
+
+[Customer 23:47]
+Isase pahale AAP matlab wo mera Jo test hona wo ho jayega AAP mere
+hisab se
+
+[Customer 23:54]
+to uske baad Jo boot.
+
+[Sales Agent 23:55]
+Camp hota hai maam.
+
+[Customer 23:56]
+Jo for everyone rehta hai kya rehta hai Matlab.
+
+[Sales Agent 23:59]
+Wo kya pure bank ke poore 75 working professionals Jo join karte hai
+unke liye hota hai boot camp kisi age ke liye hota.
+
+[Customer 24:07]
+Hai boot camp.
+
+[Sales Agent 24:10]
+Han Han for that triple IT ka hamari Kali for bat triple ITK 75 seats
+karte hai na saal Mein Tino Jo batches hote hai woh pure 75 working
+professional stocks hai. Boot camp optional hota hai kuchh log Jo
+dekho AAP jinko already shayad aisa aata hoga wo chhod dete hai
+
+[Sales Agent 24:26]
+thik hai toh unake lie who break ho jaata hai fir okay aur Jo karna
+chahte hai because hum toh hamesha yahi advice karte hai Ki Agar Ek
+boot camp mil raha hai woh bhi complimentary aur tumko Python do bar
+ho Gaya na karne ke liye to jab Wella module start hota hai to AAP
+already thoda well prepped rehte ho Ki Han theek hai. Ye toh Maine
+boot camp Mein kiya hi hai aur woh bhi live boot camp hai na ye bhi
+nahi hai Ki aapko Udemy hai Ki cheese Ki taraf wo chala diya videos
+chala diya wo instructor hai toh Python K experts hai. Python engineer
+woh karate hai aapko.
+
+[Customer 24:53]
+US boot care Mein Ek to Python hoga
+
+[Customer 24:56]
+aur kuchh bhi hoga maam.
+
+[Sales Agent 25:00]
+Kya hoga.
+
+[Customer 25:02]
+Main Ek to Palakon Padhaaenge boot camp.
+
+[Sales Agent 25:04]
+Mein kuchh aur hi kuchh aur bhi.
+
+[Customer 25:05]
+Introduct Karenge Boot Camp.
+
+[Sales Agent 25:09]
+Mein
+
+[Sales Agent 25:09]
+jaise Ki naya aur uske inbase to formulas hai na pulse woh bhi to
+cover hoga numpire Tinder Han unki Jo.
+
+[Customer 25:16]
+Any type of exclusive.
+
+[Sales Agent 25:18]
+No no, SQL will not be there. Okay okay okay woh usape queries kaise
+run karni wo aapko data 2 wicket Mein bata denge matlab pahle module
+Mein bhi to kuchh complete karna hai. Woh Python ka boot camp hai, SQL
+ya power BI ka nahi hai. Usmen Sir Python aur uske libraries ko focus
+kiya jaata hai.
+
+[Customer 25:35]
+Okay, okay, okay.
+
+[Sales Agent 25:36]
+Theek hai theek hai maam. Perfect so
+
+[Sales Agent 25:42]
+ye details toh Maine aapko bhej diya hai aur koi doubt ya query hai
+aapka.
+
+[Customer 25:46]
+Nahi main Bach Hua tha AAP mujhe thoda clarify kar deti maam kitna
+mujhe finally kitna discount milana hai toh thoda sa Pata chal jaata
+mere ko.
+
+[Sales Agent 25:54]
+Toh AAP mujhe kaam karo AAP mujhe evening Tak ka time toh main aapko
+message pay bata deti Hoon hai na ayush ka bhi program Mein Ek baar
+hum log ye confirm kar lete hai toh exact referral ye discount karta
+chal raha hai
+
+[Sales Agent 26:04]
+thik hai. Reference ticket to Kitna waiver ho raha hai theek hai.
+Provide 15 to 20 ke Beech Mein hoga par Ek confirmed exact figure Mein
+Ek baar penalty in the course with you theek hai.
+
+[Customer 26:12]
+Aur bhi aur kuchh additional discount maam aapke through Jo bhi hai
+jaise bhi rehta hai kuchh.
+
+[Sales Agent 26:16]
+Wo bhi Jo nahi karta hai, unfortunately MATLAB AAP Ellen saan bhi ho
+puchhate ho unfortunately you know nahi hota hai AAP jaanate ho
+university AAP triple IT offline campus pay jao PD diploma key fees
+hai 7,00,020 aur uske liye bhi aapko CAD gate ya examination clear
+karna padta hai main isme aaye toh milata hai admission
+
+[Sales Agent 26:34]
+online format of learning the fees aadhi ho jaati hai. Kyonki poora
+infrastructure cost aapka Kat ho jaata hai haan lekin Ek advantage Jo
+AAP bana sakte ho wo yahi hai jaise ayush Hain right abhi AAP bhi Ek
+learner jab banoge upgrade Ki upgrade ka ye to advantage hai na SAB
+kuchh AAP university se karte ho But as an SI hum bhi aapko kuchh
+benefits dete hai toh aage chal ke vote karte hue Anil baat kab Agar
+AAP kabhi kisi ko refer karte hai right?
+
+[Sales Agent 26:59]
+For reference ke aapko bhi jaise aapko ayush K reference K through
+fees Kam ho jata hai AAP woh Kam ho raha hai. Kyonki unke through koi
+admission le raha hai Jo as an alumni use ho sakta hai toh aapko Kal
+ye program complete karenge aur AAP jaisa hi koi pressure aaye hai na
+pressure in the time not in this media fresher but manlo one to 3
+years to experience loks right So usmein kya hai Agar unko kuchh
+guidance chahiye toh AAP who alumni sessions le sakte hai. Is
+university aapko ye option deti hai?
+
+[Sales Agent 27:28]
+Kya pahala manai Ki tarah unse interact karte ho apna journey explain
+karte ho and Agar wo admission lete hai right? So university pays you
+for it right? As an alumni, university aapko monetary benefit deti hai
+Okay fir AAP Agar kisi ko refer karte hai right? During the course of
+the program ya kabhi bhi right? So aapko fir se monetary benefit
+milata hai toh aise jaise argha Mukherjee hamare most prominent alumni
+hai. Jinhone PG se khat karke masters kiya refer karte karte aaj ke
+time pe wo Golden Gate University se doctorate kar rahe hai.
+
+[Sales Agent 27:59]
+Machine learning Mein
+
+[Sales Agent 28:01]
+thik hai the ye advantage aapke paas rehta hai
+
+[Sales Agent 28:04]
+kyunki dekho AAP university AB hamaara program ko hai nahi aur
+university jitna.

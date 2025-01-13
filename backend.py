@@ -48,7 +48,7 @@ def analyze_long_text(text, chunk_size=512):
 
 @app.route("/analyze", methods=["POST"])
 def analyze():
-    """Analyze a single transcript."""
+    
     data = request.json
     if "transcript" not in data:
         return jsonify({"error": "Transcript not provided"}), 400
@@ -61,7 +61,7 @@ def analyze():
 
 @app.route("/analyze_all", methods=["GET"])
 def analyze_all():
-    """Analyze all transcripts in the folder."""
+    
     if not os.path.exists(TRANSCRIPTS_FOLDER):
         return jsonify({"error": f"Folder '{TRANSCRIPTS_FOLDER}' does not exist"}), 400
 

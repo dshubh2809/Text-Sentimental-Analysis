@@ -12,10 +12,7 @@ sentiment_analyzer = pipeline("sentiment-analysis")
 
 
 def analyze_long_text(text, chunk_size=512):
-    """
-    Analyze a long text by splitting it into smaller chunks.
-    Returns combined results and overall sentiment reasoning.
-    """
+    
     
     chunks = [text[i:i + chunk_size] for i in range(0, len(text), chunk_size)]
 
